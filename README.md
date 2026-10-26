@@ -1,12 +1,14 @@
 # Orange: The Healer's Resolve — Story Bible
 
+![Title art — Orange and Nochi at sunrise in Ylila](docs/images/cover-orange-healers-resolve-v1.jpg)
+
+A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who never lands the killing blow — he makes sure his team can. Set in Ylila, a small farming village of ~50 families, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven.
+
 Scope: Early World, Volume 1 — Ylila Village Arc.
 
 > A place where people live properly… not perfectly.
 
 > This is a story where strength is built, not given… and where even the strongest still need others.
-
-![Cover](docs/images/cover-orange-healers-resolve-v1.jpg)
 
 ![Group cast](docs/images/group-cast-v1.jpg)
 
