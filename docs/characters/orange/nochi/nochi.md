@@ -2,7 +2,11 @@
 
 ![Nochi solo](nochi-solo-v1.jpg)
 
-Nature: food-driven, loyal, supportive. Color: orange. Plushie-ready mascot. Partner of [Orange Oathkeeper](../orange-oathkeeper.md).
+Nature: food-driven, loyal, supportive. Color: orange (locked). Plushie-ready mascot. Partner of [Orange Oathkeeper](../orange-oathkeeper.md).
+
+## SLIME DESIGN RULE (LOCKED)
+
+Iconic slime form: classic droplet blob. May stretch semi-limb extensions, never humanoid in shape — no legs, no standing body.
 
 ![Orange Nochi reference](orange-age8-orange-nochi-v2.jpg)
 

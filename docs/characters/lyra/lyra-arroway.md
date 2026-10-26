@@ -43,41 +43,35 @@ Personality:
 
 ---
 
-### Joshua Arroway — Carpenter / Hunter
+### Ryden Arroway — Carpenter (FINAL)
 
-* selects the best wood for bows
-* understands structure, tension, and balance
-* studies animal behavior and movement patterns
-* hunts silently with patience
+Builder of structure, precision through craft. Carpenter (houses, furniture, tools, bows). Repairs village structures.
 
-Teaches Lyra:
+Skills: precise measurement, steady hands, material understanding (wood tension, balance), crafting bows and arrow shafts.
 
-✔ pattern recognition
-✔ structural understanding
-✔ patience before action
-✔ precision through alignment
+Passive: "Steady Hand" — improved control in fine movements, better alignment and balance.
 
-> “If the foundation is right…
-> the shot will follow.”
+Personality: patient, detail-oriented, practical.
+
+Relationship with Lyra — teaches her how to hold tools, how to align properly, how to "feel" balance. Teaching style: "If it's crooked, fix it." "Measure twice." "Don't rush your hands."
+
+Influence on Lyra: aim stability, hand control, precision.
+
+Hidden detail: Lyra learned balance from carrying wood, alignment from helping build, patience from watching her dad work. She didn't train to be an archer. She grew into one.
 
 ---
 
-### Silk Arroway — Gatherer / Tailor
+### Silk Arroway — Forager & Tailor (FINAL)
 
-* gathers herbs, berries, and materials
-* moves silently through terrain
-* crafts fine materials
-* selects the best string for bows
+Talented twice over: gathers and forages the wilds, and tailors what she finds. Moves naturally through terrain — her silence comes from understanding how fabric moves with grace in its surroundings. She likes to dance.
 
-Teaches Lyra:
+Skills: quiet movement, climbing, terrain navigation, plant gathering, fine tailoring, fiber and string selection for bows.
 
-✔ silent movement
-✔ terrain awareness
-✔ fine motor control
-✔ tension discipline
+Passive: "Soft Step" — reduced sound, minimal disturbance.
 
-> “The string decides the shot…
-> not just the hand.”
+Mastery: not a sword dance but the gracefulness and footing of dancing like fabric — like her name says. Like silk: soft, smooth, and delicate.
+
+Influence on Lyra: stealth, movement, terrain flow — and the idea that grace itself is a skill.
 
 ---
 
@@ -98,17 +92,13 @@ RESULT:
 
 ## PASSIVE SKILL (LOCKED)
 
-### Nature Walk
+### Nature Walk (FINALIZED ORIGIN)
 
-Effects:
+Now comes from — Father: steady aim, controlled hands, precision. Mother: silent movement, terrain mastery, balance.
 
-* reduced terrain penalties
-* quieter movement
-* improved repositioning
+RESULT: Precision + Movement = Natural Flow in Terrain.
 
-Hidden Effect:
-
-* instinctive positioning advantage
+Effects: reduced terrain penalty, stable footing while aiming, smoother repositioning, better environmental awareness. Hidden: instinctive positioning advantage.
 
 > “She’s already where she needs to be.”
 
@@ -601,6 +591,12 @@ Flavor Details:
 
 ### Chapter 1
 
+## Passive Growth (Locked)
+
+Nature Walk: moves as if terrain doesn't resist her — reduced penalties in forest, uneven ground, water edges; quieter footsteps. Hidden: natural environmental awareness, better spatial judgment. Growth: Nature Walk → Silent Step → Predator's Domain. Identity: "You don't notice her… until it's too late." Supports sniper role, scouting, future cloak synergy.
+
 ![Lyra Chapter 1 solo](lyra-solo-v1.jpg)
 
-![Lyra Chapter 1 group](group-cast-v1.jpg)
+### Chapter 2 — Party Intro
+
+![Team Orange](team-orange-v1.jpg)

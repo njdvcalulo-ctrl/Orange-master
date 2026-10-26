@@ -4,6 +4,10 @@
 
 Archetype: The Intentional Nurturer.
 
+## Name Meaning (Locked)
+
+Care expressed through consistency. She keeps her "oath" through care — feeding, supporting, sustaining.
+
 > Take care of yourself — so you can keep going.
 
 ## Role

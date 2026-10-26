@@ -1,6 +1,10 @@
 # Octo — Slime Partner of Amy (FINAL LOCK)
 
-Partner of [Amethyst "Amy" Ironheart](../amy-ironheart.md). Expressive, adaptive, responds to Amy's intent. Color: coral-red (provisional — confirm).
+Partner of [Amethyst "Amy" Ironheart](../amy-ironheart.md). Expressive, adaptive, responds to Amy's intent. Color: pink (locked).
+
+## SLIME DESIGN RULE (LOCKED)
+
+Iconic slime form: classic droplet blob. May stretch semi-limb extensions (blade shapes included), never humanoid in shape — no legs, no standing body.
 
 ![Octo full body](octo-solo-v1.jpg)
 

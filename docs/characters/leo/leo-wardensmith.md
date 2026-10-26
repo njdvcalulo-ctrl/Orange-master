@@ -64,6 +64,12 @@ Signature: plants foot, lowers center, tightens shield. Once set — intends to 
 
 ### Chapter 1
 
+## Passive Growth (Locked)
+
+Innovative: sees how things work and improves them — adjusts grip and stance, cuts wasted movement, better equipment handling. Combat: better shield angles, faster recovery after blocking, efficient energy use. Non-combat: modifies tools, improves designs, spots gear flaws. Growth: Innovative → Adaptive Builder → Combat Engineer. Identity: "There's always a better way to do it." Supports future blacksmith, engineered armor, SAS integration.
+
 ![Leo Chapter 1 solo](leo-solo-v1.jpg)
 
-![Leo Chapter 1 group](group-cast-v1.jpg)
+### Chapter 2 — Party Intro
+
+![Team Orange](team-orange-v1.jpg)

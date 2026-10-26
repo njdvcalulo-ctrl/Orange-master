@@ -2,7 +2,11 @@
 
 ![Crow full body](crow-solo-v1.jpg)
 
-Partner of [Lyra Arroway](../lyra-arroway.md). Silent, observant, perception-focused.
+Partner of [Lyra Arroway](../lyra-arroway.md). Silent, observant, perception-focused. Color: black (locked).
+
+## SLIME DESIGN RULE (LOCKED)
+
+Iconic slime form: classic droplet blob. May stretch semi-limb extensions, never humanoid in shape — no legs, no standing body.
 
 ## Evolution Path
 

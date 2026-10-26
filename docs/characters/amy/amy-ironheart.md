@@ -574,6 +574,12 @@ Before engaging:
 
 ### Chapter 1
 
+## Root Passive (Locked)
+
+Dancer's Instinct: natural rhythm in movement — smoother footwork, better balance, faster directional changes. Combat: easier dodging, fluid attack chaining, harder to predict. Hidden: reduces stiffness in combat, allows continuous motion. Growth: Dancer's Instinct → Flow State → Sword Dance. Identity: "She doesn't fight… she flows." Bridges mom (dance), dad (blade), future class.
+
 ![Amy Chapter 1 solo](amy-solo-v1.jpg)
 
-![Amy Chapter 1 group](group-cast-v1.jpg)
+### Chapter 2 — Party Intro
+
+![Team Orange](team-orange-v1.jpg)

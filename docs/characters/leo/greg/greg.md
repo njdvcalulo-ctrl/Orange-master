@@ -2,7 +2,11 @@
 
 ![Greg full body](greg-solo-v1.jpg)
 
-Partner of [Leonard Leo Wardensmith](../leo-wardensmith.md). Protective, adaptive, synergizes with armor. Color: steel-blue (provisional — confirm).
+Partner of [Leonard Leo Wardensmith](../leo-wardensmith.md). Protective, adaptive, synergizes with armor. Color: green (locked).
+
+## SLIME DESIGN RULE (LOCKED)
+
+Iconic slime form: classic droplet blob. May stretch semi-limb extensions, never humanoid in shape — no legs, no standing body.
 
 ## Evolution Path
 

@@ -53,3 +53,7 @@ Focus: teamwork, reading movement, exploiting openings, sustaining momentum.
 ## Family Influence Rule
 
 Characters are shaped by parents, environment, daily life. Skills must reflect upbringing. Passives must feel natural.
+
+## Skill Evolution (World Rule — Locked)
+
+HOW you do the work shapes WHAT the skill becomes. Repeat a craft with your own style long enough — dancing while you slash, humming while you forge — and the skill can evolve into a new form (e.g., sword dance: effective, efficient slicing while dancing). Evolution requires correct, repeated practice; style alone without discipline evolves nothing. Evolved skills stay within the person's lane — no leaps into unrelated powers.

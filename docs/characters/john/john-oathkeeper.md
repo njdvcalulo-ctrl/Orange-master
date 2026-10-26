@@ -4,11 +4,15 @@
 
 Archetype: The Reflective Builder.
 
+## Core & Name Meaning (Locked)
+
+A man who keeps his word… no matter how small. "Oathkeeper" = someone who follows through — even in simple things: tending crops daily, finishing work properly, taking care of family.
+
 > Effort without reflection is wasted. Effort with purpose builds something lasting.
 
 ## Role in Ylila
 
-Harsh plain, low yield — yet John's land thrives via soil understanding, consistent care, refined methods. Main supplier of high-quality rice. Reason Ylila sustains itself.
+Harsh plain, low yield — yet John's land thrives via soil understanding, consistent care, refined methods. Main supplier of high-quality rice. Reason Ylila sustains itself. Also an occasional fisherman. Skills: crop cycles, soil care, irrigation, practical tool use.
 
 > Where others struggle to grow… he makes it work.
 
