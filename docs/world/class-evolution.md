@@ -33,7 +33,9 @@ Volume 1 cap (locked): base classes only. Everyone starts simple — Fighter, Ar
 
 A class is earned through consistent training in a field, repeated use of related skills, and reaching a level threshold — then verified by a guild exam checking capability, control, and role readiness. The class is recognized, registered, and appears in the Status Window.
 
-Ylila's outpost is small: it can register base classes and post pest, herb, and delivery quests. Evolved-tier exams happen at a full guild (Ember side), which keeps Volume 1 grounded.
+Ylila's outpost is small: it can register base classes and post pest, herb, and delivery quests. Evolved-tier exams happen at a full guild (Ember side), which keeps Volume 1 grounded. The exam itself runs skill demonstration, combat evaluation, and a control-and-consistency check — no fake classes, no premature specialization.
+
+Future expansion (confirmed, not Volume 1): subclasses, class awakening, dual-class system at advanced stage only. Stat bias examples: Tank line toward Vitality, Archer toward Dexterity, Mage toward Intelligence.
 
 Limits (locked): one primary class to start. True multi-classing is rare, difficult, requires discipline. No instant mastery, no free switching, no skipped progression.
 

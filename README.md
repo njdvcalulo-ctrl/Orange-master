@@ -45,6 +45,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - [Class Evolution System](docs/world/class-evolution.md)
 - [Magic and Casting](docs/world/magic-system.md)
 - [Stat System](docs/world/stat-system.md)
+- [Adventurer Guild](docs/world/adventurer-guild.md)
+- [Currency](docs/world/currency.md)
 - [Village System: Scale, Places, Daily Life](docs/world/ylila-village-system.md)
 - [Volume 1 Outline](docs/story/volume1-outline.md)
 - [Village Events](docs/story/village-events.md)
@@ -77,3 +79,5 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly.
 - Leo starts Fighter and earns Warden; Warden is never a base class.
 - Balance is player-driven through finite points, never forced penalties.
+
+Parked, out of focus: [Future Arcs (proposed, not locked)](docs/story/future-arcs-proposed.md).

@@ -22,7 +22,7 @@ Resistance comes from INT (mental stability) and DEX (control precision). High I
 
 ## Instant casts and cooldowns
 
-Some skills fire instantly. Trade-off: real cooldowns, no spam. Every skill cools down after use. Instant and strong skills carry longer cooldowns. Mastery and relevant stats shorten them — STR-side for physical, DEX/INT-side for magic. Example scale: an early instant like Speed Boost sits around 10–30 seconds.
+Some skills fire instantly. Trade-off: real cooldowns, no spam. Every skill cools down after use. Instant and strong skills carry longer cooldowns. Mastery and relevant stats shorten them — STR-side for physical, DEX/INT-side for magic. Example scale: an early instant like Speed Boost sits around 10–30 seconds. Physical parallel: Bash cooldowns shrink with Strength.
 
 Magic improves through repeated use, experience, mastery: shorter casts, shorter cooldowns, stronger effect. Skills refine along two tracks — linear tiers through mastery (Heal → Greater Heal → Restoration) and identity evolution through style (HOW you train shapes WHAT it becomes, e.g. sword work danced well becomes Sword Dancer). Tiers without discipline evolve nothing.
 

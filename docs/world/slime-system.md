@@ -19,7 +19,9 @@ Rules: iconic blob form. Semi-limb stretch is allowed. Never humanoid — except
 
 ## 3. Intelligence and bonding
 
-Slimes do NOT dominate users. They assist, adapt, learn. Bond grows through time together, shared combat, trust. Result: better response, faster adaptation, more complex behavior. As bond deepens, the slime understands what the user needs. Later stages may communicate and show personality.
+Slimes do NOT dominate users. They assist, adapt, learn. The user keeps full control; the slime enhances capability. Bond scale (locked): 1 Neutral (wild), 2 Tolerant (won't attack), 3 Friendly (follows), 4 Bonded (SAS assist begins), 5 Synchronized (advanced forms unlock). Bond grows through time together, shared combat, shared survival, and consistent feeding — for Orange's team, his cooking. Result: better response, faster adaptation, more complex behavior. As bond deepens, the slime understands what the user needs. Later stages may communicate and show personality.
+
+Superseded from older Assist drafts: slimes do NOT consume the user's mana as fuel — they run on stored food energy with fatigue and cooldown limits. And Orange does have SAS — the most developed one (Nochi). Both points stay rejected.
 
 ## 4. SAS origin (FINAL — food-triggered)
 
