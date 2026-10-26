@@ -10,7 +10,9 @@ Scope: Early World, Volume 1 — Ylila Village Arc.
 
 > This is a story where strength is built, not given… and where even the strongest still need others.
 
-![Team Orange under the sacred maple](docs/images/team-orange-maple-v1.jpg)
+![Team Orange under the sacred maple](docs/images/team-orange-maple-v2.jpg)
+
+Current group portrait is v2. Amy matches her lakeside solo: brown hair, jolly, standing with the group, purple fish hairpin.
 
 ## Main cast — main story ages
 
