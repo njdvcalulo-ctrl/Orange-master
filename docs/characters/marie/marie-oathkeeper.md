@@ -55,11 +55,37 @@ Considers who eats, what they need, what they endured. Different meals = stamina
 
 Cannot follow Orange out. Prepares him to endure, cannot endure for him. Quiet worry, strength in letting go.
 
+## Signature Dish (Locked)
+
+Marie's carrot soup — really good tasting. Carrots come from her garden, which Orange cultured and John tends to once in a while.
+
+Story functions: natural excuse for Orange's stamina, running joke among friends, emotional anchor (home = safety), symbol of nourishment, care, quiet strength. Subtle truth (NEVER explained directly): the soup is not magical — just slightly better from soil quality, care, and routine. Readers feel it without being told.
+
 ## Signature Habit
 
 Adjusts small things first — straightens clothes, wipes dirt, places food — then speaks. Care through action first.
 
 > John teaches him how to build. Marie makes sure he doesn't break while doing it.
+
+## Profile (Locked)
+
+Basic info: Marie Oathkeeper, mid 30s, Human. Homemaker (latent support-type affinity possible).
+
+Personality: warm, nurturing, yet firm in care and discipline. Hidden: emotionally strong and deeply perceptive. Quirk: constantly checks Orange's health, mood, well-being. Ensures open family communication. Strict about meals, rest, responsibilities.
+
+Motivation: keep her family safe, healthy, and whole.
+
+With Orange: gentle but firm, notices immediately when something is wrong, ensures he eats, rests, takes care of himself. May not understand mana — but understands him.
+
+With John: balances his strictness and leniency, grounds his decisions with care, supports him while keeping the family centered.
+
+Skills: exceptional cooking (restorative and energizing), emotional awareness, strong household leadership. Her meals naturally aid recovery and improve stamina — not magical, just that good.
+
+Weaknesses: worries too much, cannot ignore Orange's condition, becomes emotional when he is hurt.
+
+Role: emotional anchor of the family, source of warmth and stability, reminder of what truly matters.
+
+Sample lines: "You've done enough for today." / "Do your best— but don't forget to take care of yourself. Eat properly and rest well." / "I'm not stopping you from growing… I'm making sure you're still okay while you do."
 
 ## Chapter Appearances
 

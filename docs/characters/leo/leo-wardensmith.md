@@ -60,6 +60,24 @@ Signature: plants foot, lowers center, tightens shield. Once set — intends to 
 
 > Orange keeps the team alive. Leo makes sure they have something to stand behind.
 
+## Final Rework — Engineer Tank Path (Locked)
+
+True identity: Tank → Warden → Juggernaut Engineer. Not just a tank.
+
+Hidden trait (NEW): observant, practical, mechanically curious. Early: notices how shields absorb impact, experiments with grip and angles, adjusts stance naturally. Later: full engineer mindset.
+
+Function (father Ethan, blacksmith: tools, weapons, structural metal) + Form (mother Nathaly, artisan: accessories, engravings, armor aesthetics) = Innovation (Leo).
+
+Slime as living mana engine: Early — messy, awkward engulf; boosts damage absorption, corrosion resistance. Mid — slime interacts with gear: fills armor gaps, reinforces weak points, stabilizes impact. Advanced — BIO-MECHANICAL ARMOR SYSTEM: hybrid metal + living slime; absorbs impact and redistributes force, stores energy and releases it on movement, turns weight into controlled power. Result: not just tanking… bulldozing.
+
+Nathaly's role (CRUCIAL): Leo's Gear Designer. Early: fixes straps, adjusts shield balance, decorates gear. Mid: designs layered armor, joint flexibility, weight distribution. Late: designs around the slime — from "armor that fits Leo" to "armor that works WITH slime."
+
+SAS for Leo (LOCK): Symbiotic Armor System — Slime = power source, Armor = structure, Leo = controller. (His instance of the wider Symbiotic Adaptation System.)
+
+Juggernaut final form: slime fully integrated, armor expands and adapts, momentum builds power. Unstoppable forward movement, impact shockwaves, terrain-breaking charge. Balance: insane durability and frontline dominance, but heavy, slower turns, relies on setup, vulnerable if the slime is disrupted.
+
+Character depth: stubborn tank, secretly smart, builder and creator.
+
 ## Chapter Appearances
 
 ### Chapter 1

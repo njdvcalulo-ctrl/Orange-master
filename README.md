@@ -2,7 +2,7 @@
 
 ![Cover — Team Orange, Volume 1 Ylila](docs/images/cover-team-v1.jpg)
 
-A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who never lands the killing blow — he makes sure his team can. Set in Ylila, a small farming village of ~50 families, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven.
+A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who never lands the killing blow — he makes sure his team can. Set in Ylila, a small radial farming village of ~150 people, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven.
 
 Scope: Early World, Volume 1 — Ylila Village Arc.
 
@@ -20,7 +20,11 @@ Scope: Early World, Volume 1 — Ylila Village Arc.
 - [Burden, Triage, Safe Haven](docs/03-healer-burden-triage-safehaven.md)
 - [Ylila Village (Environment)](docs/world/ylila-village.md)
 - [Ylila Village Map](docs/world/ylila-village-map.md)
+- [Creatures & Ecosystem](docs/world/creatures.md)
+- [Village System: Scale, Places, Daily Life](docs/world/ylila-village-system.md)
 - [Volume 1 Outline](docs/story/volume1-outline.md)
+- [Village Events](docs/story/village-events.md)
+- [Combat & Training System](docs/story/combat-training-system.md)
 - Characters (each folder holds its md, solo portrait, and Chapter Appearances):
   - [Orange Oathkeeper](docs/characters/orange/orange-oathkeeper.md)
   - [John Oathkeeper](docs/characters/john/john-oathkeeper.md)
@@ -45,3 +49,4 @@ Scope: Early World, Volume 1 — Ylila Village Arc.
 - Healing is not victory — it is responsibility.
 - Priority is not fairness.
 - Without Ylila, Orange will eventually break.
+- Orange's cooking carries a growth signal (SAS) — power that must be shared, never stolen.

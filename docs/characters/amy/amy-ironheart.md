@@ -570,6 +570,30 @@ Before engaging:
 
 ---
 
+## Final Direction — Dance Foundation (Locked)
+
+Mother influence (NEW CORE): Naomi, Dancer — Grace / Movement Specialist. Her dance improves movement efficiency, reduces wasted motion, increases speed without strain, enhances balance and recovery, makes actions look effortless. Body mastery + rhythm control, not magic-heavy.
+
+Updated foundation: before — Fighter (swordsman path), aggressive direct combat. Now — Fighter (Blade Path) + Dance Influence = flow-based melee fighter. NOT a tank, NOT a pure DPS brute.
+
+Show early (SUBTLE, never said): she doesn't trip when others would, steps feel timed not rushed, adjusts mid-swing naturally, turns defense into motion instead of stopping.
+
+Skill evolution path: Early kid stage — basic sword swings, slightly better footwork, natural rhythm. Mid growth — combines step+swing, dodge+counter, starts flow chaining. This is where others notice: "Why does she move like that?"
+
+## Breakthrough Skill — Sword Dance (Locked)
+
+Signature skill. Core concept: continuous movement = continuous attack. Attacks chain smoothly, movement increases attack speed, harder to predict, less stamina wasted per action.
+
+Balance: strengths are hard to hit, high sustained offense, beautiful and intimidating to watch. Weaknesses: needs space to move, interrupted rhythm = big effectiveness drop, weak in tight or crowded fights early.
+
+Personality impact: playful becomes expressive in combat, competitive wants to look good while winning, confident trusts her body not just strength.
+
+System connection: DEX → precision of movement, AGI → speed, CHA → later her fighting style becomes captivating. Her combat literally influences how people feel watching her.
+
+Future potential: Blade Waltz (controlled elegant multi-target strikes), Crimson Dance (aggressive faster tempo), Silent Step Dance (stealth crossover with Lyra).
+
+Team clarity locked: Leo = grounded defense and impact, Lyra = precision and awareness, Orange = sustain and support, Amy = flow, momentum, rhythm combat. No overlap. Each one feels unique.
+
 ## Chapter Appearances
 
 ### Chapter 1

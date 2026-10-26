@@ -202,4 +202,16 @@ Ylila is not weak. It is quiet, disciplined, prepared.
 
 > “They didn't grow strong in battle… they grew strong before it.”
 
+## SURROUNDINGS — REGION MAP (FINAL LOCK)
+
+NORTH — Forest → Mountains: immediately north is Forest Edge, far north the Mountain Range. Natural system: mountains drain water, rivers flow Mountains → Forest → Great Lake. Creates natural irrigation, fertile farmland, believable ecosystem.
+
+EAST — Great Lake (~40x Ylila): fishing (Amy's family), water supply, calm emotional scenes. Also a natural boundary and future expansion zone.
+
+SOUTH — Road to Ember: dirt road, grasslands, rolling hills, leads to Ember City. Trade route, danger route, invasion path (VERY IMPORTANT).
+
+WEST — Plains of Danger: open plains, grasslands. Hidden threats: B-Tier Rock Golems, A-Rank Crystal Golem (territorial). Almost impossible to cross safely — a natural wall to the western noble cities. No artificial borders needed; the world blocks itself.
+
+Built-in story structure: North → exploration, East → peace and bonding, South → conflict, West → high danger and late game. Layered progression: village life → clearing → forest → river → deeper zones; road → Ember → war; plains → late-game threat.
+
 **END MAP SYSTEM**

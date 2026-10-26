@@ -43,7 +43,7 @@ Personality:
 
 ---
 
-### Ryden Arroway — Carpenter (FINAL)
+### Vincent Arroway — Carpenter (FINAL)
 
 Builder of structure, precision through craft. Carpenter (houses, furniture, tools, bows). Repairs village structures.
 

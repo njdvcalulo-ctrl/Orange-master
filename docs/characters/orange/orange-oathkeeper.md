@@ -37,6 +37,24 @@ Farming builds strength and discipline. Cooking processes like his mom, gives bu
 
 > Food ≠ Power. Process = Power.
 
+## Cooking Support Path (Locked)
+
+Updated identity: Healer + Sustainer + Harmonizer (was Healer + Support).
+
+FUNCTIONAL COOKING: food as a support medium. Not instant magic, not potion spam — prepared, shared, sustained. Effects: gradual healing, stamina regeneration, buff amplification, mental stability.
+
+Heal vs Cooking: Heal is instant, combat-use, mana-based, direct. Cooking is gradual, pre/post-combat, resource-based, shared.
+
+Unique advantage — Buff Sharing: Orange's food affects multiple people at once, lasts longer, stacks with his healing.
+
+Evolution: Early — "Mom's recipe" replication, slight stamina boost, better recovery after training. Mid — intent-based cooking ("This is for Leo" → endurance buff, "This is for Amy" → movement efficiency). Late — BATTLE MEAL / FIELD RATION SYSTEM: pre-battle buffs, team synergy boosts, sustained advantage over time.
+
+Monster interaction: monsters respond to food — reduces hostility, builds trust. Orange doesn't tame monsters… he connects with them.
+
+Balance: strengths are team sustain, long-fight advantage, social and monster bonding. Weaknesses: needs preparation, no burst power, depends on team.
+
+Ember ending path: instead of "defeat the enemy," Orange allows "transform the enemy." Starving city, angry citizens, misguided leadership → he feeds people, stabilizes conflict, changes perception. War becomes unnecessary… or different. He creates sustainability, not just survival. Food supports team, monsters, even enemies — opening non-violent resolution paths.
+
 ## Internal Conflict (Locked)
 
 Fear: "Even if I give everything… it still won't be enough." Pushes beyond limits, hesitates after failure, questions silently. Growth: doing everything he can is still meaningful even when outcome imperfect.
@@ -67,6 +85,12 @@ Orange is the stabilizer, the enabler, the backbone, partly strategist.
 
 Team loop: Leo holds better to buy time, Amy flows to create openings, Lyra positions to land hits, Orange lasts to sustain all — then his actives multiply everything. Passives stay subtle, always-on, skill-based: anyone could develop them, few do. They scale naturally and never overshadow actives.
 
+## Final Role (Locked Hard)
+
+Heroic Support Anchor. He is not less of a fighter — he can fight, can survive, but is not the main damage dealer. Without him the team drops in performance.
+
+Real power is AMPLIFICATION: he makes Leo stronger, Amy faster, Lyra sharper. He turns a good team into a GREAT team. Servant Leader core: feeds others, supports others, empowers others — but still stands in battle when needed.
+
 ## Final Lock Statement
 
 > Orange Oathkeeper is not built to stand above others— he is built to raise others with him.
@@ -82,6 +106,36 @@ Oathkeeper: Orange doesn't just heal. He keeps people alive, supports teammates,
 ## Final Lock Summary
 
 John Oathkeeper — farming, endurance, discipline. Marie Oathkeeper — cooking, nourishment, care. Orange Oathkeeper — regenerate, healer → buffer → system core.
+
+## Legacy Rule (Locked)
+
+Orange is not special because of birth. He is special because of process, discipline, and environment.
+
+In theory anyone can reach his level. In reality almost no one — it requires consistent daily hard work, proper guidance (mentors like Serra and Edward), Ylila's balance of life and danger, correct heart and intent (serving others, not exploiting power), and multi-discipline exposure (farming + cooking + healing). Missing even one drastically lowers the ceiling.
+
+Second generation advantage: Orange's future children (and disciples) get his methods from birth, refined techniques, and a stronger baseline environment. Higher potential ceiling — NOT guaranteed strength. They still need discipline, effort, and personal growth.
+
+Legacy system: Generation 1 discovers and proves the path. Generation 2 inherits knowledge and pushes limits further. Generation 3 sees farm-cook-support recognized as a legitimate path — inns improve food systems, villages value farming, support roles gain respect, teams rely on non-combat strength. He doesn't just grow stronger. He changes the world's meta.
+
+> "People think it's talent… But I've seen him. It's not talent. It's how he lives."
+
+## New Core Law — Evolution Trigger (Locked)
+
+Origin shift (FINAL): SAS is not accidental slime evolution. SAS is food-triggered evolution.
+
+Orange's food does not just buff or heal. It triggers adaptation — it carries a "growth signal." Anyone (or anything) that eats his food consistently, bonds with him, and fights alongside him begins to evolve differently. Example: Leo eats, fights repeatedly, slime bonds → slime becomes smarter, armor becomes compatible, body adapts to both.
+
+SAS redefined (FINAL): Symbiotic Adaptation System — living beings + external tools evolving together through sustained support. Growth = earned through relationship + consistency. The team grows because they stay together.
+
+Catchphrase (LOCK): "…Maybe it's because of the food." Used casually, repeatedly, never fully explained early. Later a recognized phenomenon.
+
+Enemy risk answer: enemies WILL find out and target, capture, or replicate. They fail — because it requires intent, care, consistency, relationship. It cannot be mass-produced. Power that cannot be stolen, power that must be shared.
+
+Mentor effect: mentors benefit too and realize "something about this kid…" — Xavier (sharper mana control, longer endurance; would risk his life just to keep eating Orange's cooking — loyalty through benefit, then through bond), Serra (healing efficiency, stamina management), Elinore (sharper perception, faster recovery), Edward (sustained presence, longer morale boost).
+
+Generation theme: mentors are the peak of their era, but Orange's team grows faster and evolves differently — they become the next generation's leaders. Because of one support core.
+
+Final identity (LOCK HARD): not the strongest fighter, not the flashiest hero. He is the one who makes everyone else stronger. Early: good support. Mid: important support. Late: "We cannot win without him."
 
 ## Chapter Appearances
 

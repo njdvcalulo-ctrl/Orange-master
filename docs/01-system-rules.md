@@ -31,6 +31,8 @@ Active skills: require intent, consume energy, improve with use.
 
 > Food ≠ Power. Process = Power.
 
+Orange's cooking carries a growth signal: consistent eating + bonding + fighting alongside triggers adaptation (SAS — Symbiotic Adaptation System, FINAL). Requires intent, care, consistency, relationship. Cannot be mass-produced, stolen, or replicated by enemies. Catchphrase: "…Maybe it's because of the food." SAS upgrade (LOCKED): slimes transfer mana to their bonded user, redistribute mana during combat, stabilize mana flow — at will while attached. Applications: Leo sustains tanking longer, Lyra maintains high-focus shots, Amy extends combat duration, Orange amplifies support capacity. LIMIT: transfer is not infinite — slimes have limits (fatigue, cooldown). Keeps the system fair early.
+
 Orange's future system comes from farming (input), cooking (process), healing (output).
 
 Buffs are not from recipes alone. They require intent, care, consistency, relationship.

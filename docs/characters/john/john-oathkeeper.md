@@ -57,6 +57,22 @@ John does not need to raise his voice. People straighten posture around him, exc
 
 > He didn't give Orange power. He taught him how to build it — and use it well.
 
+## Profile (Locked)
+
+Basic info: John Oathkeeper, early 40s, Human. Farmer (Cultivator Path, early/mid stage).
+
+Personality: firm, disciplined, natural encourager. Hidden: deeply caring — openly expresses love through words, actions, example. Quirk: wakes before sunrise daily, checks tools even when fine. Affection through simple gestures — hugs, high-fives, fist bumps.
+
+Motivation: raise a son who can stand on his own — no matter the world.
+
+With Orange: trains with discipline, encourages with intention, notices something unusual about him early, pushes him to grow and find his own path. Doesn't fully understand Orange's power — but knows it's not normal.
+
+Weaknesses: can over-focus on work, assumes Orange is "fine" because he performs well, leaves rest reminders to Marie. High standards tempered by trust.
+
+Role: foundation of discipline and work ethic, source of confidence and affirmation, a father who says what others only imply.
+
+Sample lines: "Listen first— so you can do it right the first time." / "True strength isn't loud. It knows when to serve and when to stand." / "Of course I want excellence… but if you fail, I want to hear you say you gave it your best." / "I'm proud of you. Truly. I'm blessed to have you as my son."
+
 ## Chapter Appearances
 
 ### Chapter 1
