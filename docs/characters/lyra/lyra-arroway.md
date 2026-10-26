@@ -1,106 +1,359 @@
-# Lyra Arroway — Long-Range Damage / Scout / Battlefield Controller
+# LYRA ARROWAY (FINAL, REFINED)
 
 ![Lyra full body](lyra-solo-v1.jpg)
 
-Archetype: The Silent Observer.
+**Role:** Long-Range Damage / Scout / Battlefield Controller
+**Archetype:** The Silent Observer
 
-Partner slime: [Crow](crow/crow.md).
+Partner slime: [Crow](crow/crow.md) — full Crow system also kept in Crow's own folder.
 
-## Core Identity (Locked)
+---
 
-Lyra is the watcher, the one who sees first, the one who strikes unseen.
+## CORE IDENTITY (LOCKED)
 
-She does not rush. She does not waste movement.
+Lyra is:
 
-> You don't find her… she finds you.
+* the watcher
+* the one who sees first
+* the one who strikes unseen
 
-## Character Foundation
+---
 
-Personality: quiet, observant, patient, focused. Speaks less, notices more.
+✔ She does not rush
+✔ She does not waste movement
 
-## Family Influence (Locked)
+---
 
-Joshua Arroway — carpenter / occasional hunter. Precision in measurement, structure and alignment, deep attention to detail, studies behavior and patterns, silent and patient hunter.
+> “You don’t find her…
+> she finds you.”
 
-Influence: accuracy, steady hands, patience in setup, pattern recognition.
+---
 
-> Watch first. Move second.
+## CHARACTER FOUNDATION
 
-Silk Arroway — nature-oriented. Outdoor movement, terrain familiarity, environmental awareness. Influence: climbing, balance, silent traversal, terrain advantage.
+### Personality:
 
-## Passive Skill (Locked) — Nature Walk
+* quiet
+* observant
+* patient
+* focused
 
-Reduced terrain penalties, quieter footsteps, improved climbing and positioning.
+---
 
-Hidden: instinctive positioning advantage. She is already where she needs to be.
+✔ speaks less
+✔ notices more
 
-## Combat Role (Locked)
+---
 
-Long-range damage dealer, scout, battlefield controller.
+## FAMILY INFLUENCE (LOCKED)
 
-Core function: gather information, secure position, eliminate priority targets.
+---
 
-## Combat Style
+### **Joshua Arroway — Carpenter / Occasional Hunter**
 
-Strengths: patience, accuracy, positioning.
+* precision in measurement
+* structure and alignment
+* deep attention to detail
+* studies behavior and patterns (prey / targets)
+* silent and patient hunter
 
-Weakness: vulnerable when discovered, requires setup time.
+---
 
-## Core Mechanic (Locked)
+Influence:
 
-Lyra does not win by speed. She wins by seeing first + positioning right.
+✔ accuracy
+✔ steady hands
+✔ patience in setup
+✔ pattern recognition
 
-## Slime Partner System — Crow (Locked)
+---
 
-Nature: silent, observant, perception-focused.
+> “Watch first. Move second.”
 
-Stage 1 Scope Form: slime becomes eye-piece / lens, enhances vision clarity. Magnification, precise aiming.
+---
 
-Stage 2 Spectrum Sight: expands visual layers — heat / infrared, movement patterns, hidden presence.
+### **Silk Arroway — Nature-Oriented**
 
-> Nothing escapes her sight.
+* outdoor movement
+* terrain familiarity
+* environmental awareness
 
-Stage 3 Cloak Form: adaptive cloak / armor, blends with environment. Camouflage, reduced presence, silent movement.
+---
 
-> Before you reach her… you must find her.
+Influence:
 
-Stage 4 Shadow Slime: partially separates, operates independently in shadows. Forward scouting, silent tracking, information relay.
+✔ climbing
+✔ balance
+✔ silent traversal
+✔ terrain advantage
 
-## Combat Philosophy
+---
 
-Lyra fights to control distance, remain unseen, strike decisively.
+## PASSIVE SKILL (LOCKED)
 
-> Don't fight fair. Fight unseen.
+### **Nature Walk**
 
-## Relationship with Orange
+---
 
-Benefits from Status Up (stability and aim) and Grow (amplified shot power). Result: high-precision burst, early elimination of key threats.
+### Effects:
 
-## Team Function
+* reduced terrain penalties
+* quieter footsteps
+* improved climbing and positioning
 
-Early detection of danger, safe positioning for team, removal of high-priority enemies.
+---
 
-## Limitations
+### Hidden Effect:
 
-Low durability, weak in close combat, dependent on positioning. Strength: awareness, precision, stealth.
+* instinctive positioning advantage
 
-## Symbolism
+---
 
-Patience, clarity, unseen control.
+> “She’s already where she needs to be.”
 
-> The fight is decided… before it begins.
+---
 
-## Final Lock
+## COMBAT ROLE (LOCKED)
 
-Not built to face enemies head-on. Built to see everything, position perfectly, strike when it matters most.
+Lyra is:
 
-> Leo holds the line. Amy breaks it. Lyra… makes sure they win before it starts.
+✔ long-range damage dealer
+✔ scout
+✔ battlefield controller
 
-## Information Flow (Team Critical)
+---
 
-Feeds Orange (decisions), Leo (positioning), Amy (attack timing). Style: short, precise, actionable. "Left flank—fast." "Three incoming." "Leo—hold." "Now."
+### Core Function:
 
-Synergy: with Orange provides triage data; with Leo guides positioning and prevents blindsides; with Amy creates opening timing.
+* gather information
+* secure position
+* eliminate priority targets
+
+---
+
+## COMBAT STYLE
+
+### ✔ Strengths:
+
+* patience
+* accuracy
+* positioning
+
+---
+
+### ❌ Weakness:
+
+* vulnerable when discovered
+* requires setup time
+
+---
+
+## CORE MECHANIC (LOCKED)
+
+> ❗ Lyra does not win by speed
+> ✔ She wins by **seeing first + positioning right**
+
+---
+
+## SLIME PARTNER SYSTEM — **“Crow” (LOCKED)**
+
+---
+
+### Nature:
+
+* silent
+* observant
+* perception-focused
+
+---
+
+## STAGE 1: **Scope Form**
+
+* slime forms/becomes an eye-piece / lens
+* enhances vision clarity
+
+✔ magnification
+✔ precise aiming
+
+---
+
+## STAGE 2: **Spectrum Sight**
+
+* expands visual detection layers
+
+✔ heat (infrared/multi spectrum)
+✔ movement patterns
+✔ hidden presence
+
+---
+
+> “Nothing escapes her sight.”
+
+---
+
+## STAGE 3: **Cloak Form**
+
+* transforms into adaptive cloak/armor
+* blends with environment
+
+✔ camouflage
+✔ reduced presence
+✔ silent movement
+
+---
+
+> “Before you reach her… you must find her.”
+
+---
+
+## STAGE 4: **Shadow Slime**
+
+* partially separates from Lyra
+* operates independently in shadows
+
+✔ forward scouting
+✔ silent tracking
+✔ information relay
+
+---
+
+## COMBAT PHILOSOPHY
+
+Lyra fights to:
+
+* control distance
+* remain unseen
+* strike decisively
+
+---
+
+### Key Principle:
+
+> “Don’t fight fair.
+> Fight unseen.”
+
+---
+
+## RELATIONSHIP WITH ORANGE
+
+Lyra benefits from:
+
+✔ **Status Up → improved stability and aim**
+✔ **Grow → amplified shot power and impact**
+
+---
+
+### Result:
+
+* high-precision burst damage
+* early elimination of key threats
+
+---
+
+## TEAM FUNCTION
+
+Lyra enables:
+
+✔ early detection of danger
+✔ safe positioning for the team
+✔ removal of high-priority enemies
+
+---
+
+## LIMITATIONS
+
+Lyra:
+
+❌ low durability
+❌ weak in close combat
+❌ dependent on positioning
+
+---
+
+✔ Strength:
+
+* awareness
+* precision
+* stealth
+
+---
+
+## SYMBOLISM
+
+Lyra represents:
+
+* patience
+* clarity
+* unseen control
+
+---
+
+> “The fight is decided…
+> before it begins.”
+
+---
+
+## FINAL LOCK STATEMENT
+
+Lyra is not built to face enemies head-on—
+
+---
+
+She is built to:
+
+✔ see everything
+✔ position perfectly
+✔ strike when it matters most
+
+---
+
+> Leo holds the line.
+> Amy breaks it.
+>
+> Lyra…
+> makes sure they win before it starts.
+
+---
+
+## INFORMATION FLOW (TEAM CRITICAL)
+
+Lyra feeds information to:
+
+✔ Orange → for decisions
+✔ Leo → for positioning
+✔ Amy → for attack timing
+
+Communication Style:
+short
+precise
+actionable
+
+Examples:
+“Left flank—fast.”
+“Three incoming.”
+“Leo—hold.”
+“Now.”
+
+## SYNERGY WITH TEAM
+
+With Orange:
+
+✔ provides data for triage
+✔ enables better decision-making
+
+With Leo:
+
+✔ guides positioning
+✔ prevents blindside attacks
+
+With Amy (future):
+
+✔ creates opening timing
+✔ signals strike moments
+
+**END OF SYSTEM LOCK**
+
+---
 
 ## Chapter Appearances
 
