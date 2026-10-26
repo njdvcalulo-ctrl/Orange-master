@@ -41,6 +41,10 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - [Ylila Village (Environment)](docs/world/ylila-village.md)
 - [Ylila Village Map](docs/world/ylila-village-map.md)
 - [Creatures & Ecosystem](docs/world/creatures.md)
+- [Slime System (SAS Final Lock)](docs/world/slime-system.md)
+- [Class Evolution System](docs/world/class-evolution.md)
+- [Magic and Casting](docs/world/magic-system.md)
+- [Stat System](docs/world/stat-system.md)
 - [Village System: Scale, Places, Daily Life](docs/world/ylila-village-system.md)
 - [Volume 1 Outline](docs/story/volume1-outline.md)
 - [Village Events](docs/story/village-events.md)
@@ -69,4 +73,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Healing is not victory — it is responsibility.
 - Priority is not fairness.
 - Without Ylila, Orange will eventually break.
-- Orange's cooking carries a growth signal (SAS) — power that must be shared, never stolen.
+- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected.
+- Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly.
+- Leo starts Fighter and earns Warden; Warden is never a base class.
+- Balance is player-driven through finite points, never forced penalties.
