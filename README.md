@@ -19,6 +19,7 @@ Scope: Early World, Volume 1 — Ylila Village Arc.
 - [Conflict Engine + Progression](docs/02-conflict-engine.md)
 - [Burden, Triage, Safe Haven](docs/03-healer-burden-triage-safehaven.md)
 - [Ylila Village (Environment)](docs/world/ylila-village.md)
+- [Ylila Village Map](docs/world/ylila-village-map.md)
 - [Volume 1 Outline](docs/story/volume1-outline.md)
 - Characters (each folder holds its md, solo portrait, and Chapter Appearances):
   - [Orange Oathkeeper](docs/characters/orange/orange-oathkeeper.md)
@@ -27,9 +28,11 @@ Scope: Early World, Volume 1 — Ylila Village Arc.
   - [Serra — Verdant Paladin](docs/characters/serra/serra.md)
   - [Leonard Leo Wardensmith](docs/characters/leo/leo-wardensmith.md)
   - [Lyra Arroway](docs/characters/lyra/lyra-arroway.md)
+  - [Amethyst "Amy" Ironheart](docs/characters/amy/amy-ironheart.md)
   - [Nochi — Orange's slime](docs/characters/orange/nochi/nochi.md)
   - [Crow — Lyra's slime](docs/characters/lyra/crow/crow.md)
   - [Greg — Leo's slime](docs/characters/leo/greg/greg.md)
+  - [Octo — Amy's slime](docs/characters/amy/octo/octo.md)
 
 ## Locked Core Rules
 
