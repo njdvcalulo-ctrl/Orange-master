@@ -3,6 +3,8 @@
 **Role:** Damage Dealer / Close-Range Aggressor / Flow Combat Specialist
 **Archetype:** The Sword Dancer
 
+![Amy full body](amy-solo-v1.jpg)
+
 Partner slime: [Octo](octo/octo.md) — full Octo system also kept in Octo's own folder.
 
 ---
@@ -572,4 +574,6 @@ Before engaging:
 
 ### Chapter 1
 
-(Portrait pending — solo art to be generated.)
+![Amy Chapter 1 solo](amy-solo-v1.jpg)
+
+![Amy Chapter 1 group](group-cast-v1.jpg)

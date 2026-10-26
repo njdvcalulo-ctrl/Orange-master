@@ -1,6 +1,8 @@
 # Octo — Slime Partner of Amy (FINAL LOCK)
 
-Partner of [Amethyst "Amy" Ironheart](../amy-ironheart.md). Expressive, adaptive, responds to Amy's intent. Plushie-ready mascot (solo portrait pending).
+Partner of [Amethyst "Amy" Ironheart](../amy-ironheart.md). Expressive, adaptive, responds to Amy's intent. Color: coral-red (provisional — confirm).
+
+![Octo full body](octo-solo-v1.jpg)
 
 ## STAGE 1: Blade Extension (Flow Assist)
 
@@ -32,4 +34,6 @@ Cannot create energy. Only stores, redistributes, enhances efficiency. Extends s
 
 ### Chapter 1
 
-(Solo portrait pending.)
+![Octo Chapter 1 solo](octo-solo-v1.jpg)
+
+![Octo Chapter 1 group](group-cast-v1.jpg)
