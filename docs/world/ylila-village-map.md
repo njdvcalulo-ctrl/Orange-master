@@ -69,7 +69,7 @@ Key Homes:
 
 ## 3. VILLAGE CENTER (CORE HUB)
 
-Description: large central tree, open gathering space.
+Description: great sacred maple tree at the middle, open gathering space.
 
 Structures:
 

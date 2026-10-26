@@ -1,6 +1,8 @@
 # Leonard Leo Wardensmith — Tank / Frontline Anchor
 
-![Leo full body](leo-solo-v1.jpg)
+![Leo at 13, home](leo-age13-home-v1.jpg)
+
+Main-story age lock: 13 (birthday November 7). Flashbacks at 8–10 only.
 
 Archetype: The Unbreakable Builder.
 
@@ -77,6 +79,34 @@ SAS for Leo (LOCK): Symbiotic Armor System — Slime = power source, Armor = str
 Juggernaut final form: slime fully integrated, armor expands and adapts, momentum builds power. Unstoppable forward movement, impact shockwaves, terrain-breaking charge. Balance: insane durability and frontline dominance, but heavy, slower turns, relies on setup, vulnerable if the slime is disrupted.
 
 Character depth: stubborn tank, secretly smart, builder and creator.
+
+## Profile — Revised (Locked)
+
+Basic info: Leonard "Titan", age 13, Human. Fighter (Tank Path, early noob stage).
+
+Class direction: starts sword + shield, gradually drops sword usage, focuses on defense. Future path: Fighter → Defender → Warden → Guardian → Titan ("Titan" becomes both title and identity later). Hammer as sub-weapon later.
+
+Combat identity: shield = main weapon. Style: absorb → hold → counter.
+
+Weaknesses (LOCKED, do not change): not very fast, takes hits even when unnecessary, emotionally stubborn.
+
+Contrast role: Leo keeps the shield and becomes immovable (stability); Amy drops hers and becomes fluid (movement).
+
+## Profile (Locked)
+
+Basic info: Leonard Wardensmith, age 13, Human. Warden (Tank). (Note: "Titan" is his future title, not surname. "Ironheart" was an early surname — discarded.)
+
+Personality: steady and reliable. Hidden: feels responsible to protect others even at his own cost. Quirk: complains about his slime… but secretly cares about it.
+
+Motivation: become someone who can stand at the front and never fall.
+
+Relationships: Orange — best friend, rival in effort, trusts him with his life. Lyra — finds her attractive but doesn't understand why he gets awkward.
+
+Abilities: high endurance, shield defense; future growth into crowd control, shockwave attacks, Guardian path. (Hammer stays a later sub-weapon per engineer rework.)
+
+Role: frontline defense, damage absorber, anchor of formation.
+
+Sample lines: "Stay behind me." / "If it's coming through—I'm stopping it."
 
 ## Chapter Appearances
 

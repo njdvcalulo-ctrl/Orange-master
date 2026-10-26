@@ -3,7 +3,9 @@
 **Role:** Damage Dealer / Close-Range Aggressor / Flow Combat Specialist
 **Archetype:** The Sword Dancer
 
-![Amy full body](amy-solo-v1.jpg)
+![Amy at 12, home](amy-age12-home-v1.jpg)
+
+Main-story age lock: 12 (birthday October 8). Flashbacks at 8–10 only.
 
 Partner slime: [Octo](octo/octo.md) — full Octo system also kept in Octo's own folder.
 
@@ -593,6 +595,34 @@ System connection: DEX → precision of movement, AGI → speed, CHA → later h
 Future potential: Blade Waltz (controlled elegant multi-target strikes), Crimson Dance (aggressive faster tempo), Silent Step Dance (stealth crossover with Lyra).
 
 Team clarity locked: Leo = grounded defense and impact, Lyra = precision and awareness, Orange = sustain and support, Amy = flow, momentum, rhythm combat. No overlap. Each one feels unique.
+
+## Profile — Revised (Locked)
+
+Basic info: Amethyst Ironheart, age 12–13, Human. Fighter (Swordsman Path, early noob stage).
+
+Class direction: starts sword + shield, drops shield, focuses on mobility, offense, freedom of movement. Future path: Fighter → Swordsman → Duelist / Blade Dancer (depending on style — elegant or aggressive).
+
+Combat identity: fast melee, reactive combat, eventually multi-weapon via slime.
+
+Early game rule: everyone starts simple (sword + shield) before specializing — grounded, relatable, visibly progressing. Growth through decision, which makes mentors matter more later.
+
+## Profile (Locked)
+
+Basic info: Amethyst Ironheart, age 12–13, Human. Developing Swordsman (Melee). (Note: "Amethyst" was an early name — discarded.)
+
+Personality: cheerful and energetic. Hidden: afraid of being left behind or seen as weak. Quirk: talks to her slime like it understands everything (it will).
+
+Motivation: become strong enough to fight alongside everyone.
+
+Relationships: Orange — has a crush, admires him deeply. Leonard — teases him occasionally.
+
+Abilities: basic sword handling, fast reactions. Future: multi-weapon combat, slime-assisted extended attacks.
+
+Weaknesses: inexperienced, overcommits, emotional.
+
+Role: close-range attacker, flexible support in melee.
+
+Sample lines: "I can fight too— just watch me!" / "Hey! I'm not just cheering, okay?!"
 
 ## Chapter Appearances
 

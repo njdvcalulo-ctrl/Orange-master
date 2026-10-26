@@ -3,6 +3,8 @@
 Theme: Protection begins at home.
 End State: Ylila → Fortified Village (proto-stronghold).
 
+Timeline rule (LOCKED): main story kids are 12–13 (Orange 12–13, Leo 13, Amy 12–13, Lyra 13). Younger selves (ages 8–10) appear only in flashbacks.
+
 ## Core Focus
 
 Introduce world systems, build characters, establish Ylila identity, first conflict with Ember, unlock Slime System (SAS). End with preparation, not victory.

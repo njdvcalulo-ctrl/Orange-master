@@ -61,6 +61,10 @@ Cannot create energy. Only stores, redistributes, enhances efficiency. Extends s
 
 Leo now does TWO things: holds the line, and breaks enemy formation. Team: Orange = Support Engine, Leo = Battlefield Anchor / Breaker, Amy = Close-range Pressure, Lyra = Hidden Execution.
 
+## Engulf Flavor (Locked)
+
+Early on, the small green slime grows bigger mid-fight, then eats Leo — not hurting him, just making him slimy. SAS does its job; afterward the team goes "ugghh, your slime is definitely strangely attached to you." Leo loves his slime but doesn't like being swallowed and engulfed to attach — at least at first. Later the slime simply slides into full-body armor coating.
+
 ## Chapter Appearances
 
 ### Chapter 1

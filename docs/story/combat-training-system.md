@@ -17,3 +17,5 @@ Structure: warm-up and movement, friendly sparring, skill-calling practice, free
 Introduces: combat system with voice-activated skills ("Strike", "Guard", "Pierce"). Resource awareness — fighters get tired from stamina drain, Orange does not (subtle hint).
 
 Class tendencies: Leo → defensive instincts (Tank path). Amy → aggressive mobility (Sword path). Lyra → positioning + precision (Archer path). Orange → observer (Support path).
+
+Early game rule (LOCKED): everyone starts simple — sword + shield, no specialization. Specialization is earned through decision: Leo keeps the shield, Amy drops hers. Visual growth readers can see.

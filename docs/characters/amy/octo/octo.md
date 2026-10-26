@@ -2,7 +2,7 @@
 
 ![Octo full body](octo-solo-v1.jpg)
 
-Partner of [Amethyst "Amy" Ironheart](../amy-ironheart.md). Expressive, adaptive, responds to Amy's intent. Color: pink (locked).
+Partner of [Amethyst "Amy" Ironheart](../amy-ironheart.md). Expressive, adaptive, responds to Amy's intent. Color: purple (locked).
 
 ## SLIME DESIGN RULE (LOCKED)
 
@@ -54,6 +54,10 @@ BALANCE (LOCKED CHANGE): does NOT exhaust Amy — exhausts the slime instead. Af
 ## Limitation (Shared Slime Rule)
 
 Cannot create energy. Only stores, redistributes, enhances efficiency. Extends sustainability, not power.
+
+## Back-Rider & Armory (Locked Future)
+
+Cute Octo shyly hides in Amy's sling bag. In combat it climbs onto her back and activates slime arms that hold real swords — extended reach, octopus-style flexible attack patterns. Future: a dimensional bag gift from Xavier lets the arms hold up to 8 weapons. (Kept pink per color lock, not purple.)
 
 ## Chapter Appearances
 

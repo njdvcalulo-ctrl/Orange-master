@@ -10,7 +10,25 @@ Scope: Early World, Volume 1 — Ylila Village Arc.
 
 > This is a story where strength is built, not given… and where even the strongest still need others.
 
-![Team Orange — the full kid party with their slimes](docs/images/team-orange-v1.jpg)
+![Team Orange under the sacred maple](docs/images/team-orange-maple-v1.jpg)
+
+## Main cast — main story ages
+
+Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
+
+- [Orange Oathkeeper, 12, Jan 19](docs/characters/orange/orange-oathkeeper.md) — healer-support, with [Nochi](docs/characters/orange/nochi/nochi.md)
+- [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — tank, with [Greg](docs/characters/leo/greg/greg.md)
+- [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — sword dancer, with [Octo](docs/characters/amy/octo/octo.md)
+- [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — scout, with [Crow](docs/characters/lyra/crow/crow.md)
+
+Solo home portraits:
+
+![Orange at home](docs/images/orange-age12-home-v1.jpg)
+![Leo at home](docs/images/leo-age13-home-v1.jpg)
+![Amy at home](docs/images/amy-age12-home-v1.jpg)
+![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
+
+Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Colors are locked: Nochi orange, Greg green, Octo purple, Crow black. Sacred tree in Ylila is a maple.
 
 ## Contents
 

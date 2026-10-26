@@ -1,6 +1,8 @@
 # LYRA ARROWAY (FINAL, COMPLETE — INTEGRATED)
 
-![Lyra full body](lyra-solo-v1.jpg)
+![Lyra at 12, home](lyra-age12-home-v1.jpg)
+
+Main-story age lock: 12 (birthday August 25). Flashbacks at 8–10 only.
 
 Role: Long-Range Damage / Scout / Battlefield Controller
 Archetype: The Silent Observer / Assassin
@@ -586,6 +588,24 @@ Flavor Details:
 **END OF SYSTEM LOCK**
 
 ---
+
+## Profile (Locked)
+
+Basic info: Lyra Arroway, age 13, Human. Archer.
+
+Personality: quiet and observant. Hidden: protective of her friends in subtle ways. Quirk: prefers high places (trees, rooftops).
+
+Motivation: to see everything clearly — and never miss what matters.
+
+Relationships: Orange — trusts his decisions. Leonard — aware of his awkwardness, doesn't react much.
+
+Abilities: sharp aim, fast movement, high awareness. Future: long-range dominance, stealth + precision synergy.
+
+Weaknesses: keeps thoughts to herself, doesn't always communicate, can act alone.
+
+Role: scout, long-range attacker, information provider.
+
+Sample lines: "Three ahead. One behind." / "…Don't move."
 
 ## Chapter Appearances
 

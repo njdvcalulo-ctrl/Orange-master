@@ -137,6 +137,28 @@ Generation theme: mentors are the peak of their era, but Orange's team grows fas
 
 Final identity (LOCK HARD): not the strongest fighter, not the flashiest hero. He is the one who makes everyone else stronger. Early: good support. Mid: important support. Late: "We cannot win without him."
 
+## Profile (Locked)
+
+Basic info: Orange Oathkeeper, age 12 (birthday January 19), male, Human. Healer (Support → Hybrid future).
+
+![Orange at 12, home](orange-age12-home-v1.jpg)
+
+Main-story age lock: 12 (birthday January 19). Flashbacks at 8–10 only.
+
+Personality: calm and dependable. Hidden: carries quiet pressure to always help others. Quirk: overworks without realizing it, says "I'm fine" even when tired.
+
+Motivation: become someone people can rely on — no matter the situation.
+
+Relationships: Leonard — best friend, friendly rivalry, trusts him completely. Amy — unaware of her feelings, treats her kindly and equally. Lyra — respects her awareness, relies on her judgment.
+
+Weaknesses: too willing to help anyone, can be taken advantage of, doesn't prioritize himself.
+
+Role in group: healer, buffer, stabilizer — the one who keeps everyone going.
+
+Sample lines: "I'm okay… really. Let me help you first." / "If you can still stand, then we're not done yet."
+
+Internal core — WANT: to protect and support everyone. NEED: to learn he can't save everyone, and must choose wisely. FEAR: someone gets hurt because he wasn't enough. FALSE BELIEF: "If I try hard enough, I can help everyone." Arc: starts helpful, selfless, naive → ends strong, wise, selective — helps with purpose, not impulse.
+
 ## Chapter Appearances
 
 ### Chapter 1

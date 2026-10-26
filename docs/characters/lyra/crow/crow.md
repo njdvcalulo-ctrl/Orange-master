@@ -87,6 +87,10 @@ With team: Leo holds attention, Amy creates pressure, Orange amplifies timing. T
 
 Lyra does not approach the enemy— her shadow does.
 
+## Cloaking Note (Locked)
+
+Crow's dark coloring blends with surroundings like free stealth from SAS — color-matching camouflage that deepens with the Cloak Form. (Kept black per color lock, not grey.) Later-era light beat: as Lyra grows up, the cloak keeps drawing eyes away — she won't mind.
+
 ## Chapter Appearances
 
 ### Chapter 1
