@@ -25,3 +25,9 @@ Status windows are personal-only. Viewing another person's stats needs a guild-i
 ## Story use
 
 The guild gives Ylila a working economy, a clear progression ladder, and a natural door for enemies, locations, and conflicts. Early: F-rank pest and herb work. Later: stronger monsters, political quests, war involvement, territory control.
+
+## Expanded reference (late-world only)
+
+- Extra quest types: exploration, special requests. Issued alongside hunting, gathering, escort, investigation, subjugation.
+- Extra loot outlet: alchemists for potions, alongside blacksmiths, tailors, artisans, meat shops, and fast guild buyback.
+- Party system: adventurers may form named registered parties for better efficiency, role specialization, and shared rewards. No instant high-rank promotion, no skipping requirements, no reward without proof. Rank never equals absolute power.
