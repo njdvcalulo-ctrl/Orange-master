@@ -57,7 +57,7 @@ Cannot create energy. Only stores, redistributes, enhances efficiency. Extends s
 
 ## Back-Rider & Armory (Locked Future)
 
-Cute Octo shyly hides in Amy's sling bag. In combat it climbs onto her back and activates slime arms that hold real swords — extended reach, octopus-style flexible attack patterns. Future: a dimensional bag gift from Xavier lets the arms hold up to 8 weapons. (Kept pink per color lock, not purple.)
+Cute Octo shyly hides in Amy's sling bag. In combat it climbs onto her back and activates slime arms that hold real swords — extended reach, octopus-style flexible attack patterns. Future: a dimensional bag gift from Xavier lets the arms hold up to 8 weapons. (Kept purple per color lock.)
 
 ## Chapter Appearances
 

@@ -78,6 +78,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected.
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly.
 - Leo starts Fighter and earns Warden; Warden is never a base class.
+- Early game: everyone starts simple before specializing.
 - Balance is player-driven through finite points, never forced penalties.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
 
