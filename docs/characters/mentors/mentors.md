@@ -19,6 +19,7 @@ Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Eli
 - Residence on the village map, northwest side.
 - Past: former adventurer tank, retired to Ylila for the slow life, keeps old connections. Wrote Serra to mentor Orange, asking compassion, discernment, and generosity; a farmer's tough body pairs with her style.
 - Party role: shield guard plus soulful songs — mental-state and focus/endurance buffs, taunts and warcries. Multi-role with redundancy: steady ground and spirit.
+- Trains Leo as tank (locked pairing).
 
 AWAITING AUTHOR NOTES: appearance, age, family, personality beyond the role, combat record.
 
@@ -28,12 +29,14 @@ AWAITING AUTHOR NOTES: appearance, age, family, personality beyond the role, com
 - Future gift: dimensional bag for Octo, letting slime arms hold up to 8 weapons.
 - Identity: human swordmage. Elite swordsmanship plus fire and ice for offense-defense. Frontal offense of Serra's old party. "My blade will take on any defense. If my steel can't break you, I'll melt you with fire."
 - Introduced when the team meets up as training starts (Chapter 4–5).
+- Trains Amy as sword (locked pairing).
 
 AWAITING AUTHOR NOTES: appearance, age, current whereabouts and role, personality, history with the team.
 
 ## Elinore — Mentor (Locked Facts)
 
 - Mentor effect: sharper perception, faster recovery.
-- Identity: dark elf, skilled archer and stealth assassin. "You won't see what hit you." Former Serra party member; introduced when the team meets up as training starts (Chapter 4–5). (Note: "Ellinore" spelling variant retired — Elinore locked.)
+- Identity: dark elf, skilled archer and stealth assassin. "You won't see what hit you." Former Serra party member; introduced when the team meets up as training starts (Chapter 4–5).
+- Trains Sasha (Lyra) as archer (locked pairing). (Note: "Ellinore" spelling variant retired — Elinore locked.)
 
 AWAITING AUTHOR NOTES: appearance, age, current whereabouts and role, personality, history with the team.

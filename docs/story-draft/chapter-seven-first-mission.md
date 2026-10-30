@@ -313,74 +313,247 @@ Then remembered—
 
 ---
 
-One lunged at him.
+The goblins rushed in—
+
+fast.
+
+Ugly.
+
+Screaming.
 
 ---
 
-He reacted—
+Orange froze.
 
-instinctively.
+His hands shook.
 
----
-
-Step.
-
-Turn.
+"…I—what do I do?!"
 
 ---
 
-His hand shot forward—
+Serra didn't move.
+
+Didn't step in.
 
 ---
 
-Too fast.
+Instead—
+
+she threw something at him.
 
 ---
 
-The goblin flew back—
+"Catch."
 
-crashing into the dirt.
+---
+
+Orange fumbled—
+
+then caught it.
+
+---
+
+A hoe.
+
+---
+
+"…What?"
+
+---
+
+A goblin lunged.
+
+Closer.
+
+Closer—
+
+---
+
+"ORANGE!"
+
+---
+
+Serra's voice cut through everything.
+
+---
+
+"WHAT DO YOU DO IN THE FIELD?!"
+
+---
+
+"…I—"
+
+---
+
+"LOUDER!"
+
+---
+
+"…I FARM!"
+
+---
+
+"THEN FARM!"
+
+---
+
+The goblin leapt—
+
+---
+
+"PLOW!"
+
+---
+
+Orange swung—
+
+instinctively—
+
+---
+
+*CRACK.*
+
+---
+
+The hoe struck the goblin's head.
+
+It dropped instantly.
+
+---
+
+Silence—
+
+for half a second.
 
 ---
 
 Orange blinked.
 
----
-
-"…What?"
----
-
-Another rushed him.
+"…That worked?!"
 
 ---
 
-This time—
-
-he met it.
+Another goblin charged.
 
 ---
 
-Blocked.
-
-Struck.
+Serra didn't hesitate.
 
 ---
 
-The impact—
-
-heavy.
+"TURN THE SOIL!"
 
 ---
 
-Too heavy.
+Orange twisted his body—
+
+low swing—
 
 ---
 
-The goblin collapsed.
+*THUD.*
 
 ---
 
-Unmoving.
+Second goblin down.
+
+---
+
+"…WHAT?!"
+
+---
+
+"AGAIN!"
+
+---
+
+A third rushed in.
+
+---
+
+"PLANT!"
+
+---
+
+Orange thrust forward—
+
+the wooden end drove into its chest—
+
+---
+
+It flew back.
+
+---
+
+Collapsed.
+
+---
+
+Now—
+
+he was breathing hard.
+
+---
+
+But moving.
+
+---
+
+Not thinking.
+
+---
+
+Doing.
+
+---
+
+"WATER THE FIELD!"
+
+---
+
+Orange stepped forward—
+
+wide arc—
+
+---
+
+The hoe swept through two at once—
+
+---
+
+They fell.
+
+---
+
+"…THIS IS JUST FARMING!"
+
+---
+
+Serra smirked.
+
+---
+
+"EXACTLY."
+
+---
+
+The goblins weren't prepared.
+
+---
+
+Not for a boy—
+
+---
+
+Not for a farmer—
+
+---
+
+Not for someone who had turned labor…
+
+---
+
+…into combat.
 
 ---
 

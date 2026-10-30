@@ -74,7 +74,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Skills are learned, not given.
 - How you do the work shapes what the skill becomes (Skill Evolution).
 - Growth is effort-based. No random spikes. No chosen one.
-- Orange does not win fights directly. He makes winning possible.
+- Orange can fight and kill but is not the damage dealer. He wins by making sure his team can.
 - Healing is not victory — it is responsibility.
 - Priority is not fairness.
 - Without Ylila, Orange will eventually break.

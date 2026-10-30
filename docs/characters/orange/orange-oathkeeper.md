@@ -16,9 +16,11 @@ Motivation: improve himself, support friends, prove proper practice leads to pro
 
 ## Personality Lock (Foundation)
 
-Core: kind, obedient, energetic, slightly boastful early (grows humble), emotionally honest, afraid sometimes.
+Core: kind, respectful, energetic, slightly boastful early (grows humble), emotionally honest, afraid sometimes. Curious and probing — asks why, challenges methods, never obeys blindly; grit over compliance.
 
-Hidden: afraid of failing others, afraid of not being enough. Holds on because he knows he will break without help beyond himself.
+Hidden: afraid of failing others, afraid of not being enough. Holds on because he knows he will break without help beyond himself. Asks big questions to get big answers, even when they hit hard.
+
+His two locked questions: "What happens if I fail here?" / "What is this power really for?"
 
 Growth arc: 1. "I can do this!" (confidence) → 2. "I can't…" (breaking point) → 3. "Help me…" (surrender) → 4. "Use me." (purpose).
 
@@ -92,6 +94,12 @@ Physical base → enhanced by healing → divine expression, late only.
 Start: farm boy punches, grapples, endurance. Mid: self-healing tank, pushes beyond limits. Village benchmark: finish the whole village's farming single-handedly with ease. Later: superhuman body, regeneration, shockwave punches and movement bursts. Endgame: body as vessel of divine will — rare, costly, never under his control, never instant victory.
 
 Volume 1 rule: farm boy endurance plus basic healing only. No superhuman feats, no vessel moments.
+
+## Weapon (Locked)
+
+Small hoe (asarol) — Ethan-made for farming, not fighting. No shield. Tools stay tools. Farmer footwork becomes efficient movement; healing plus stamina becomes sustained combat; Grow becomes battlefield support.
+
+Asarol style: farmer's stance, low with weight back, feet never crossing; tool choked mid-haft, full-haft only for reach. Moves are farm work: Plow (downward chop), Sow (low sweep, trips and makes space), Reap (rising arc, lifts blades away), Till (butt-end jab, non-lethal push), Weed (hook and pull — drags enemies off balance or pulls allies clear). Grow pins with roots or steadies ground; loop is hold, heal, support. Limits: outranged by long weapons, no killing forms trained, stamina-bound, stopped cold by armor.
 
 ## Growth Philosophy (Locked)
 
