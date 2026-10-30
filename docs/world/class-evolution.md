@@ -58,3 +58,10 @@ Orange note: affinity is not a pass. He has healer affinity, but every step stil
 - Pure classes specialize faster. Hybrids are versatile but master slower.
 - Rare paths (Sword Saint, Saint/Paladin variants, Arcane Knight) are condition-based: extreme mastery plus rare mentorship.
 - Skill Evolution feeds class evolution: HOW you train shapes WHAT the class becomes. Style without discipline evolves nothing.
+
+## Expanded world reference (late-world only, not Volume 1 power)
+
+- Element specs: Fire Mage → Flamecaster → Infernal Sage; Ice Mage → Frostbinder → Absolute Zero; Lightning Mage → Stormcaller → Thunderlord.
+- Healer hybrid: Healer → Battle Priest → Paladin → Radiant Guardian. Orange's exact hybrid name stays unassigned and stays distinct from Serra's Verdant Paladin.
+- Tamer: Tamer → Beast Handler → Beast Master → Primal Sovereign. Summoner: Summoner → Spirit Caller → Gatekeeper → World Binder. SAS slimes stay bonded partners, never tamed summons.
+- Volume 1 stays base classes only. Ylila outpost registers base classes; evolved-tier exams happen at a full guild.

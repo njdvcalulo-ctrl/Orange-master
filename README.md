@@ -75,9 +75,10 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Healing is not victory — it is responsibility.
 - Priority is not fairness.
 - Without Ylila, Orange will eventually break.
-- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected.
-- Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly.
+- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey and Blue slimes are not current. SAS slimes stay bonded partners, never tamed summons.
+- Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly. Ylila registers base classes only.
 - Leo starts Fighter and earns Warden; Warden is never a base class.
+- Orange has affinity but still requires practice. His hybrid name stays unassigned and distinct from Serra.
 - Early game: everyone starts simple before specializing.
 - Balance is player-driven through finite points, never forced penalties.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
