@@ -31,7 +31,7 @@ Solo home portraits:
 ![Amy at home](docs/images/amy-age12-home-v1.jpg)
 ![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
 
-Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Colors are locked: Nochi orange, Greg green, Octo purple, Crow black. Sacred tree in Ylila is a maple.
+Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Colors are locked: Nochi orange, Greg green, Octo purple, Crow black. The Slime King alone is blue after restoration. Sacred tree in Ylila is a maple.
 
 ## Contents
 
@@ -78,7 +78,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Healing is not victory — it is responsibility.
 - Priority is not fairness.
 - Without Ylila, Orange will eventually break.
-- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey and Blue slimes are not current. SAS slimes stay bonded partners, never tamed summons.
+- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey slimes are not current; blue belongs to the restored Slime King alone. SAS slimes stay bonded partners, never tamed summons.
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly. Ylila registers base classes only.
 - Leo starts Fighter and earns Warden; Warden is never a base class.
 - Orange has affinity but still requires practice. His hybrid name stays unassigned and distinct from Serra.

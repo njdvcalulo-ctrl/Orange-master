@@ -14,8 +14,9 @@ Slimes become what they are exposed to: neglected area → unstable, nurtured ar
 - Purple → flexibility / weapon-type ([Octo](../characters/amy/octo/octo.md), Amy's partner)
 - Black → perception / vision ([Crow](../characters/lyra/crow/crow.md), Lyra's partner)
 - Orange → growth / support ([Nochi](../characters/orange/nochi/nochi.md), Orange's partner)
+- Blue → King-type / authority (the Slime King only — colorless while corrupted, restored blue upon healing; unique, not a wild variant)
 
-Rules: iconic blob form. Semi-limb stretch is allowed. Never humanoid — except Octo Stage 3 Partner Dance, which is the one locked exemption. Colors are plushie-ready and fixed as above. Grey and Blue King-type from older drafts are NOT current — Blue is a future hook only, unintroduced.
+Rules: iconic blob form. Semi-limb stretch is allowed. Never humanoid — except Octo Stage 3 Partner Dance, which is the one locked exemption. Colors are plushie-ready and fixed as above. Grey from older drafts is NOT current. Blue belongs to the restored Slime King alone — colorless while corrupted, blue again upon healing. No wild blue slimes.
 
 ## 3. Intelligence and bonding
 
