@@ -22,6 +22,8 @@ Stage 3 Cloak Form: adaptive cloak / armor, blends with environment. Camouflage,
 
 Stage 4 Shadow Slime: partially separates, operates independently in shadows. Forward scouting, silent tracking, information relay.
 
+SAS v1.1: rests on Lyra's back as second eyes outside combat. Passive watch for subtle movement. Rarely surprised, never immune. Combat: lens, enhanced vision, cloak support. Color stays black, not grey.
+
 ## Limitation (Shared Slime Rule)
 
 Cannot create energy. Only stores, redistributes, enhances efficiency. Extends sustainability, not power.
