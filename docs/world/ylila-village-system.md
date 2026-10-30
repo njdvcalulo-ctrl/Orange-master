@@ -14,7 +14,7 @@ Mini Adventurer Hub (small guild outpost, not a full branch): quest board + appr
 
 Oathkeeper Farm: slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms.
 
-Lake Area: clean freshwater source (secondary to well/stream), fishing zone, calm scenic area. Amy's house nearby — parents Steve & Naomi (fisherfolk; blade skills via filleting → combat influence, dance → movement).
+Lake Area: clean freshwater source (secondary to well/stream), fishing zone, calm scenic area. Coconut trees at the land's edge; lake fish farms alongside line fishing. Amy's house nearby — parents Steve & Naomi (fisherfolk; blade skills via filleting → combat influence, dance → movement).
 
 Leo's House (near center, close to Orange's home): father Ethan, village blacksmith (tools, repairs, light weapons); mother Nathaly, artisan/designer. Early exposure to durability, defense, equipment importance.
 
@@ -39,7 +39,7 @@ No standing army. Only Chief = real combat authority. Kids play-fight, imitate a
 ## Village Life System (Scene Generator)
 
 1. Morning Routine: roosters and early wake-up, parents assigning chores, water fetching and tool prep, farmers heading out. Calm, grounded, disciplined.
-2. Work Phase: farming, fishing, crafting. Kids helping (or sneaking off). Small accidents — cuts, bruises → Orange moments. Good for subtle power reveals and bonding.
+2. Work Phase: farming, fishing, crafting, shepherding. Kids helping (or sneaking off). Small accidents — cuts, bruises → Orange moments. Good for subtle power reveals and bonding.
 3. Midday Break: shared meals, storytelling, teasing between friends. Builds relationships and warmth.
 4. Afternoon / Training: kids go to clearing. Sparring, skill calling, friendly rivalry. Introduces combat system and class tendencies.
 5. Evening Wind-Down: families regroup, market interactions, repairs, cooking.

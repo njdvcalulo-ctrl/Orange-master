@@ -54,6 +54,8 @@ John builds foundation. Marie sustains. Serra forces him to become more. Teaches
 
 Former farmer — her brutal "farming" training comes from her own past: soil, water, labor, then heal yourself to your limit. Led a rescue-and-escort party from the mid post, not the backline: healing, buffing, fighting up front, and commanding. Perception and battle skills made her the team's core. Odd to traditional parties, exactly why Edward chose her for a farmer's boy. Training creed: if you can work and not get tired, that is not enough — do more, open your potential, surrender everything for your purpose.
 
+Her creed (locked): stand so others won't fall; lift, don't crush; guide, don't control; protect even when it costs you. Plant the seed, water and tend it — only God makes it grow.
+
 ## Chapter Appearances
 
 ### Chapter 1
