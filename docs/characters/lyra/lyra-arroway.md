@@ -267,27 +267,13 @@ At first, she fills the field with arrows. Later… she only needs one.
 
 Nature Walk: reduced terrain penalty, silent movement, better positioning. Always active. Foundation of her playstyle.
 
-### Core Active Skills
+### Core Active Skills — Ghost Archer order: 1 Heavy Draw, 2 Focus, 3 Multi Shot, Ult Concentrate
 
-1. Focused Shot (UPDATED — CORE SKILL). Type: Active (Basic / Scaling). Slows breathing, stabilizes aim, improves shot timing.
+1. Heavy Draw / Charge Arrow (Active, Power): hold for a deeper draw. Flatter flight, harder hit. Needs stable footing. Breaks on damage or lost focus. Early: about +30-40% power, grows with mastery. Late Sniper ceiling only, never Volume 1 spike. Physics decides the wound.
 
-KEY UPGRADE: increases firing rhythm control, enables rapid follow-up shots to the same point.
+2. Focus (Active, Toggle Channel): no cooldown while on, drains stamina while on. Moves faster, nocks faster, holds steadier. Reads as AGI + DEX feel. Ends winded. Early: about +20% effective for a few seconds, longer and cheaper with mastery.
 
-Evolution — Early: slow careful shots, inconsistent accuracy. Mid: faster release, improved consistency. Advanced: multi-shot precision on the same target point, tight arrow grouping.
-
-Result: weak point pressure, armor penetration through repetition.
-
-> “Not one arrow… but the right arrows… in the same place.”
-
-2. Mark Target (Active, Utility / Setup): identifies a target, tracks movement patterns, builds prediction over time. Slight aim assist, improves follow-up accuracy. Enables Weakpoint Strike, Execution Crow, Focused Shot chaining.
-
-> “I see your pattern.”
-
-3. Piercing Shot (Active, Damage): high-power arrow, penetrates light armor and lined targets. Strong with Grow (Orange) and Spectrum Sight. Limitation: not reliable vs heavy armor alone.
-
-4. Silent Step (Active, Mobility): short reposition, minimal sound, resets detection. Use: disengage, reposition, avoid melee.
-
-5. Weakpoint Strike (Active, Precision Burst): targets identified weak point, increased critical damage, improves hit consistency. UPGRADE: enhances Focused Shot multi-hit accuracy, improves clustering on same location.
+3. Multi Shot (Active, Multi): reword of Double Strafe. Level 1 is Double Strafe — 2 arrows, one pull. Sits 3rd because multi-arrow takes longest to master. Uses: double-hit same point, spread volley for groups or large targets, ground shots to move enemies and cover retreats. Mastery = more arrows at once with better control and less waste. Costs stamina per arrow, plus stillness to set up.
 
 ### Crow-Enhanced Skills
 
@@ -299,11 +285,15 @@ Cloak Form → Veil Step: reduces presence, harder to detect. Synergizes with Si
 
 Shadow Crow → Shadow Scout: independent scouting unit. Tracks enemies, feeds real-time information, identifies patterns.
 
-### Stage 5 — Execution Crow (ULTIMATE — REFINED)
+### Lyra Ult — Concentrate (ARCHERY ULT)
 
-CORE IDENTITY: Decision → Confirmation → Execution.
+Short fragile window. Requires observation plus Shadow Crow tracking plus full stillness. Greatly steadied hold, longer effective range via Scope, higher weakpoint chance. Breaks on move, damage, or empty stamina. One window, long fatigue after.
 
-ACTIVATION REQUIREMENTS: Mark Target active, Shadow Crow tracking, weakness identified.
+### Stage 5 — Execution Crow (CROW ACTIVE PHASE — REFINED)
+
+CORE IDENTITY: Decision → Confirmation → Execution. Execution is the active phase of Shadow Crow, not a separate slime.
+
+ACTIVATION REQUIREMENTS: observation active, Shadow Crow tracking, weakness identified.
 
 FUNCTION: Crow remains independent in shadows. Lyra does NOT move forward.
 
@@ -591,19 +581,21 @@ Flavor Details:
 
 ## Profile (Locked)
 
-Basic info: Lyra Arroway, age 13, Human. Archer.
+Basic info: Lyra Arroway, age 12, Human. Ghost archer.
 
-Personality: quiet and observant. Hidden: protective of her friends in subtle ways. Quirk: prefers high places (trees, rooftops).
+Look: simple natural beauty. Long black hair. Athletic and toned from wood-carrying, climbing, and drawing. Dressed practical, modest, and covered for forest and bow.
+
+Personality: shy, mysterious, quiet most of the time. Feels far away, but always there when needed. Hidden: protective of her friends in subtle ways. Quirk: prefers high places (trees, rooftops).
 
 Motivation: to see everything clearly — and never miss what matters.
 
-Relationships: Orange — trusts his decisions. Leonard — aware of his awkwardness, doesn't react much.
+Relationships: Orange — trusts his decisions. Leonard — quiet innocent admiration from Leo for her steady reliability; Lyra notices little, reacts less.
 
-Abilities: sharp aim, fast movement, high awareness. Future: long-range dominance, stealth + precision synergy.
+Abilities: sharp aim, fast movement, high awareness. Kit order: 1 Heavy Draw, 2 Focus, 3 Multi Shot (Lv1 Double Strafe), Ult Concentrate. Future: long-range dominance, stealth + precision synergy.
 
 Weaknesses: keeps thoughts to herself, doesn't always communicate, can act alone.
 
-Role: scout, long-range attacker, information provider.
+Role: ghost archer — archer / scout / assassin with Crow. Long-range attacker and information provider.
 
 Sample lines: "Three ahead. One behind." / "…Don't move."
 

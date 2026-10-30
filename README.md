@@ -21,7 +21,7 @@ Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 - [Orange Oathkeeper, 12, Jan 19](docs/characters/orange/orange-oathkeeper.md) — healer-support, with [Nochi](docs/characters/orange/nochi/nochi.md)
 - [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — tank, with [Greg](docs/characters/leo/greg/greg.md)
 - [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — sword dancer, with [Octo](docs/characters/amy/octo/octo.md)
-- [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin), with [Crow](docs/characters/lyra/crow/crow.md)
+- [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
 
 Solo home portraits:
 
@@ -79,5 +79,6 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly.
 - Leo starts Fighter and earns Warden; Warden is never a base class.
 - Balance is player-driven through finite points, never forced penalties.
+- Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
 
 Parked, out of focus: [Future Arcs (proposed, not locked)](docs/story/future-arcs-proposed.md).
