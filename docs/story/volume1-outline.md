@@ -70,4 +70,4 @@ Ylila grows in strength, alliances form, system mastery increases, counter-attac
 
 # FUTURE PLOT DIRECTION (UNDER CONSIDERATION — NOT FINAL)
 
-Team Carrot (Serra's team) wins the battle against Ember castle in a future volume, with little help from the kids. The kids experience war firsthand — present, supporting, witnessing — but the victory belongs to the mentor generation. Sets up the handoff: mentors win this one, the kids inherit the next.
+Team Carrot Juice (Serra's team) wins the battle against Ember castle in a future volume, with little help from the kids. After conquest, Ember's capital is renamed Carrot City / Carrot Castle (CC). The kids experience war firsthand — present, supporting, witnessing — but the victory belongs to the mentor generation. Sets up the handoff: mentors win this one, the kids inherit the next.
