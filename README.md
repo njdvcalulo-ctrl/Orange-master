@@ -80,7 +80,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Leo starts Fighter and earns Warden; Warden is never a base class.
 - Orange has affinity but still requires practice. His hybrid name stays unassigned and distinct from Serra.
 - Early game: everyone starts simple before specializing.
-- Balance is player-driven through finite points, never forced penalties.
+- Balance is player-driven through finite points, never forced penalties: high STR never auto-slows casting, high DEX never auto-cuts durability.
 - Every cast carries risk, timing, and consequence: no silent casting until mastered later, no instant high-tier magic.
 - The Guild rewards consistency: rank never equals power, no reward without proof, no instant promotion.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
