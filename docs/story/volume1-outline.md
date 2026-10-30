@@ -41,6 +41,8 @@ Ember MUST delay full invasion, or it looks stupid. Internal problems:
 2. Resource Allocation Conflict — food vs war supply, Darius vs Rizla tension.
 3. Internal Power Balance — generals not fully aligned, each with own agenda.
 4. King's Restraint — he doesn't rush. "A rushed war loses before it begins."
+5. Food Shortage (Locked) — Ember nears collapse from food shortage: civil unrest plus war-supply drain. Ylila's surplus arrives just in time: leverage and target.
+6. Rule of Ember (Locked) — Ember is the nearest city-castle. The Sebastians are its noble house; Darius and Rizla are two of its three generals (third unnamed, later).
 
 Result: Ember delays full invasion, sends probes and small attacks instead. Ylila gets time to grow.
 

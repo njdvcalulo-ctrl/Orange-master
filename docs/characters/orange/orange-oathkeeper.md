@@ -89,7 +89,7 @@ Reads battle, positions safely, buffs agility for positioning, counter-attacks l
 
 Physical base → enhanced by healing → divine expression, late only.
 
-Start: farm boy punches, grapples, endurance. Mid: self-healing tank, pushes beyond limits. Later: superhuman body, regeneration, shockwave punches and movement bursts. Endgame: body as vessel of divine will — rare, costly, never under his control, never instant victory.
+Start: farm boy punches, grapples, endurance. Mid: self-healing tank, pushes beyond limits. Village benchmark: finish the whole village's farming single-handedly with ease. Later: superhuman body, regeneration, shockwave punches and movement bursts. Endgame: body as vessel of divine will — rare, costly, never under his control, never instant victory.
 
 Volume 1 rule: farm boy endurance plus basic healing only. No superhuman feats, no vessel moments.
 

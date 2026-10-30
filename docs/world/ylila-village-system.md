@@ -6,9 +6,9 @@ Population: ~150 people. Size: ~10–15 minutes to cross on foot. Radial layout:
 
 ## Key Locations (Finalized)
 
-Village Center: Chief's House & Office (governance + "police"), small open market space, occasional merchant stalls, community gathering point. Chief = only formal authority + strongest fighter (early story).
+Village Center: Chief's House & Office (governance + "police"), small open market space, occasional merchant stalls, community gathering point. Chief = only formal authority + strongest fighter (early story). Villagers routinely travel out to sell surplus and return; strangers are rare, which is why Serra's team turned heads.
 
-The Inn (1 only): rest stop for traveling merchants, occasional adventurers passing through, early exposure to outside world rumors.
+The Inn (1 only): rest stop for traveling merchants, occasional adventurers passing through, early exposure to outside world rumors. House specialty: carrot juice — minors never served alcohol, and the team drinks the same.
 
 Mini Adventurer Hub (small guild outpost, not a full branch): quest board + appraisal desk (sometimes manned). Mostly pest control, herb gathering, delivery tasks. Where kids first see the adventurer system.
 
