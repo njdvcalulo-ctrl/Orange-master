@@ -21,7 +21,7 @@ Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 - [Orange Oathkeeper, 12, Jan 19](docs/characters/orange/orange-oathkeeper.md) — healer-support, with [Nochi](docs/characters/orange/nochi/nochi.md)
 - [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — tank, with [Greg](docs/characters/leo/greg/greg.md)
 - [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — sword dancer, with [Octo](docs/characters/amy/octo/octo.md)
-- [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — scout, with [Crow](docs/characters/lyra/crow/crow.md)
+- [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin), with [Crow](docs/characters/lyra/crow/crow.md)
 
 Solo home portraits:
 
