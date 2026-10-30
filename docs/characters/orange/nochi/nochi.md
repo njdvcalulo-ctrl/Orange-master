@@ -6,7 +6,7 @@ Nature: food-driven, loyal, supportive. Color: orange (locked). Plushie-ready ma
 
 ## Personality (Locked)
 
-Loves eating Orange's cooking. Stays close to Orange at all times. Motivated by: "If I help… I get fed more." Playful, loyal, slightly greedy in a cute way. (Name note: first called Smiley; named Nochi later.)
+Loves eating Orange's cooking. Stays close to Orange at all times. Motivated by: "If I help… I get fed more." Playful, loyal, slightly greedy in a cute way.
 
 ## SLIME DESIGN RULE (LOCKED)
 

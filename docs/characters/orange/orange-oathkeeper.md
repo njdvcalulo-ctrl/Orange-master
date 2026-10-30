@@ -97,9 +97,9 @@ Volume 1 rule: farm boy endurance plus basic healing only. No superhuman feats, 
 
 ## Weapon (Locked)
 
-Small hoe (asarol) — Ethan-made for farming, not fighting. No shield. Tools stay tools. Farmer footwork becomes efficient movement; healing plus stamina becomes sustained combat; Grow becomes battlefield support.
+Short sword — Serra-trained basics, Pairo direction: sword skill poured into farm work, farm work poured into fighting. Hoe stays farm-only; no shield. Farmer footwork becomes efficient movement; healing plus stamina becomes sustained combat; Grow becomes battlefield support.
 
-Asarol style: farmer's stance, low with weight back, feet never crossing; tool choked mid-haft, full-haft only for reach. Moves are farm work: Plow (downward chop), Sow (low sweep, trips and makes space), Reap (rising arc, lifts blades away), Till (butt-end jab, non-lethal push), Weed (hook and pull — drags enemies off balance or pulls allies clear). Grow pins with roots or steadies ground; loop is hold, heal, support. Limits: outranged by long weapons, no killing forms trained, stamina-bound, stopped cold by armor.
+Sword style: farmer's stance, low with weight back, feet never crossing; short efficient motions learned in the fields. Farm moves translate: Plow (downward chop), Sow (low sweep, trips and makes space), Reap (rising arc), Till (non-lethal push with flat or pommel), Weed (hook and drag — pulls enemies off balance or pulls allies out of danger). Grow pins with roots or steadies ground; loop is hold, heal, support. Limits: outranged by long weapons, no killing forms trained, stamina-bound, stopped cold by armor.
 
 ## Growth Philosophy (Locked)
 
