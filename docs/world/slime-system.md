@@ -4,7 +4,7 @@ Semi-intelligent, adaptive mana lifeforms. Slimes grow with you — not for you.
 
 ## 1. Core nature
 
-Mana-based, highly adaptive, semi-intelligent at base. Naturally harmless or neutral. React to environment, follow instinct, can attach to objects or beings.
+Mana-based, highly adaptive, semi-intelligent at base. Naturally harmless or neutral. React to environment, follow instinct, can attach to objects or beings. Body is transparent jelly around a core stone; the core keeps it alive and is its weak point — transparency is vulnerability.
 
 Slimes become what they are exposed to: neglected area → unstable, nurtured area → cooperative, corrupted area → aggressive evolution. They act as early warning, environmental indicator, emotional mirror.
 
@@ -16,11 +16,11 @@ Slimes become what they are exposed to: neglected area → unstable, nurtured ar
 - Orange → growth / support ([Nochi](../characters/orange/nochi/nochi.md), Orange's partner)
 - Blue → King-type / authority (the Slime King only — colorless while corrupted, restored blue upon healing; unique, not a wild variant)
 
-Rules: iconic blob form. Semi-limb stretch is allowed. Never humanoid — except Octo Stage 3 Partner Dance, which is the one locked exemption. Colors are plushie-ready and fixed as above. Grey from older drafts is NOT current. Blue belongs to the restored Slime King alone — colorless while corrupted, blue again upon healing. No wild blue slimes.
+Rules: iconic blob form. Semi-limb stretch is allowed. Never humanoid — except Octo Stage 3 Partner Dance, which is the one locked exemption. Touch: bonded and cooperative slimes control composition and are safe to handle; wild slimes still burn. Colors are plushie-ready and fixed as above. Grey from older drafts is NOT current. Blue belongs to the restored Slime King alone — colorless while corrupted, blue again upon healing. No wild blue slimes.
 
 ## 3. Intelligence and bonding
 
-Slimes do NOT dominate users. They assist, adapt, learn. The user keeps full control; the slime enhances capability. Bond scale (locked): 1 Neutral (wild), 2 Tolerant (won't attack), 3 Friendly (follows), 4 Bonded (SAS assist begins), 5 Synchronized (advanced forms unlock). Bond grows through time together, shared combat, shared survival, and consistent feeding — for Orange's team, his cooking. Result: better response, faster adaptation, more complex behavior. As bond deepens, the slime understands what the user needs. Later stages may communicate and show personality.
+Slimes do NOT dominate users. They assist, adapt, learn. The user keeps full control; the slime enhances capability. Bond scale (locked): 1 Neutral (wild), 2 Tolerant (won't attack), 3 Friendly (follows), 4 Bonded (SAS assist begins), 5 Synchronized (advanced forms unlock). Bond grows through time together, shared combat, shared survival, and consistent feeding — for Orange's team, his cooking. Result: better response, faster adaptation, more complex behavior. As bond deepens, the slime understands what the user needs. Later stages may communicate and show personality. Speech caps at toddler level for bonded slimes; the King alone speaks with full intelligence.
 
 Superseded from older Assist drafts: slimes do NOT consume the user's mana as fuel — they run on stored food energy with fatigue and cooldown limits. And Orange does have SAS — the most developed one (Nochi). Both points stay rejected.
 

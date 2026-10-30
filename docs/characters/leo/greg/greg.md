@@ -53,7 +53,7 @@ CRITICAL BALANCE (LOCK HARD): short duration, heavy slime drain, leaves Leo slow
 
 No random abilities, no magic gimmicks. Pure armor, force, control. Each stage feels different, with strong identity per stage and synergy with his parents (design + function).
 
-Acid Choice (Locked): wild green slimes spit weak acid; Greg can secrete weak acid by choice — contact-range, weak, his decision, never a nuke.
+Acid Choice (Locked): wild green slimes spit weak acid; Greg can secrete weak acid by choice — contact-range, weak, his decision, never a nuke. Coating (Locked): hardens over Leo — blunt attacks bounce off, metal blades corrode on contact, some magic resistance. Friendly and talkative at toddler level.
 
 ## Limitation (Shared Slime Rule)
 

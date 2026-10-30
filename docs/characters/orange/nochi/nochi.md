@@ -18,7 +18,7 @@ Iconic slime form: classic droplet blob. May stretch semi-limb extensions, never
 
 1. Storage Core / Slime Battery — converts food into stored stamina energy + mana-like resource, slow release to attached character, transferable at will while attached. Orange cooks → slime eats → slime stores. This answers "where do buffs come from?" Sustains Orange in fights. Starts small (1 extra Heal scale), grows with level. Larger pool later for stronger enemies, never infinite.
 2. Enhance Slime — boosts Orange skills (lights up, improves skills used).
-3. Multiply — splits into small blobs, attaches to allies. Splits store, does not copy it. Later shares enhance.
+3. Multiply — splits into small blobs, attaches to allies. Splits store, does not copy it. Later shares enhance. Workforce answer: Nochi splits efficiently to cover many hands at once; allied slimes join farm work in blob form alongside.
 4. Cocoon (Emergency) — full-body engulf, major heal/recovery for critical ally. Ultimate. SAS v1.1: calm companion beside Orange, stays close outside combat; left-hand conduit with subtle glow for healing, buffs, mana flow, storage only.
 
 Toxin Processing (gated mid+): consumes poison with visible strain, then Orange heals the slime, slime processes toxin into antidote serum. Not instant. Requires time, mana, control. Fails if overloaded or interrupted. Identity: turn harm into remedy.
