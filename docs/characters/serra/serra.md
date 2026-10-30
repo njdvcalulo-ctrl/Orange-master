@@ -56,6 +56,8 @@ Former farmer — her brutal "farming" training comes from her own past: soil, w
 
 Her creed (locked): stand so others won't fall; lift, don't crush; guide, don't control; protect even when it costs you. Plant the seed, water and tend it — only God makes it grow.
 
+On the name (locked): called Wild Healer not for temperament — she is composed and stable — but for role-breaking: support magic overextended into attacks plus a commanding role no healer takes.
+
 ## Chapter Appearances
 
 ### Chapter 1

@@ -27,7 +27,7 @@ AWAITING AUTHOR NOTES: appearance, age, family, personality beyond the role, com
 
 - Mentor effect: sharper mana control, longer endurance. Loyal through benefit first, then through bond — would risk his life to keep eating Orange's cooking.
 - Future gift: dimensional bag for Octo, letting slime arms hold up to 8 weapons.
-- Identity: human swordmage. Elite swordsmanship plus broad elemental magic — fire and ice shown so far, wider arsenal to be revealed later. Frontal offense of Serra's old party. "My blade will take on any defense. If my steel can't break you, I'll melt you with fire."
+- Identity: human swordmage, the party's main firepower and a powerhouse. Devastating magic enhancement on elite swordsmanship, big AOEs; any range — magic from afar, blade up close, fire-empowered strikes. Still below his swordmage peak, but good at it. Fire and ice shown so far; wider arsenal to be revealed later. Frontal offense of Serra's old party. "My blade will take on any defense. If my steel can't break you, I'll melt you with fire."
 - Introduced when the team meets up as training starts (Chapter 4–5).
 - Trains Amy as sword (locked pairing).
 
