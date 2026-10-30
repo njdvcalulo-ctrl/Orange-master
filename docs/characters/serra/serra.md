@@ -50,6 +50,10 @@ Trust signal: rare praise — "Good." / "That was correct." / "Again." Weight be
 
 John builds foundation. Marie sustains. Serra forces him to become more. Teaches how to use power correctly.
 
+## Past (Locked)
+
+Former farmer — her brutal "farming" training comes from her own past: soil, water, labor, then heal yourself to your limit. Led a rescue-and-escort party from the mid post, not the backline: healing, buffing, fighting up front, and commanding. Perception and battle skills made her the team's core. Odd to traditional parties, exactly why Edward chose her for a farmer's boy. Training creed: if you can work and not get tired, that is not enough — do more, open your potential, surrender everything for your purpose.
+
 ## Chapter Appearances
 
 ### Chapter 1

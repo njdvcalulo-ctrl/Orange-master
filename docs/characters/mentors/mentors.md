@@ -17,6 +17,7 @@ Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Eli
 - Signature: performs on lute or simple guitar equivalent. Sings past heroes, warnings disguised as songs, encouragement. "Strong hands build the land — but steady hearts keep it standing."
 - Mentor effect on team: sustained presence, longer morale boost.
 - Residence on the village map, northwest side.
+- Past: former adventurer tank, retired to Ylila for the slow life, keeps old connections. Wrote Serra to mentor Orange, asking compassion, discernment, and generosity; a farmer's tough body pairs with her style.
 
 AWAITING AUTHOR NOTES: appearance, age, family, personality beyond the role, combat record.
 

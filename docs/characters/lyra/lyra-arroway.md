@@ -581,7 +581,7 @@ Flavor Details:
 
 ## Profile (Locked)
 
-Basic info: Lyra Arroway, age 12, Human. Ghost archer.
+Basic info: Lyra Arroway, age 12, Human. Ghost archer. (Note: "Sasha" was her early name — the fourth kid in the Chapter 2 draft is Lyra.)
 
 Look: simple natural beauty. Long black hair. Athletic and toned from wood-carrying, climbing, and drawing. Dressed practical, modest, and covered for forest and bow.
 

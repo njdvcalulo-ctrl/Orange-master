@@ -64,6 +64,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [Crow — Lyra's slime](docs/characters/lyra/crow/crow.md)
   - [Greg — Leo's slime](docs/characters/leo/greg/greg.md)
   - [Octo — Amy's slime](docs/characters/amy/octo/octo.md)
+- [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
 
 ## Locked Core Rules
 

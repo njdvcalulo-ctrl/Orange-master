@@ -26,9 +26,11 @@ Forest Edge: herbs, wood, small animals. Mild danger: low-tier monsters (later i
 
 Storage Barns: shared grain reserves. Symbol of village survival.
 
+Small School: one-room basic education (reading, numbers, village lore). Unnamed village teacher; fades as mentors take over training early in the story.
+
 ## Social Structure (Refined)
 
-Tight-knit community, everyone knows everyone. Skill-based respect system (not class-based yet). Common roles: farmers, fisherfolk, blacksmith, carpenter, tailor, herb gatherers.
+Tight-knit community, everyone knows everyone. Skill-based respect system (not class-based yet). Common roles: farmers, fisherfolk, blacksmith, carpenter, tailor, herb gatherers, village teacher.
 
 ## Combat Culture
 

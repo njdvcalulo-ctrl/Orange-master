@@ -53,6 +53,8 @@ CRITICAL BALANCE (LOCK HARD): short duration, heavy slime drain, leaves Leo slow
 
 No random abilities, no magic gimmicks. Pure armor, force, control. Each stage feels different, with strong identity per stage and synergy with his parents (design + function).
 
+Acid Choice (Locked): wild green slimes spit weak acid; Greg can secrete weak acid by choice — contact-range, weak, his decision, never a nuke.
+
 ## Limitation (Shared Slime Rule)
 
 Cannot create energy. Only stores, redistributes, enhances efficiency. Extends sustainability, not power. Volume 1 gate: wall now, Engine / Juggernaut late.

@@ -64,6 +64,10 @@ Orange arc: not physical exhaustion — emotional buildup (future setup).
 
 Kids perform: Leo → strength show (fails → funny), Amy → sword tricks, Lyra → trick shots, Orange → …nothing (observes). Edward closes the night with a song.
 
+## 7. Border Incident Aftermath (Chapter 2)
+
+Parents happy the kids are safe, angry they crossed the field border. Village reads Orange as talented and gifted with a future. Chief undecided: one officer pushes profit, others propose a village clinic with Orange working it, militia recruitment, or keeping him in the fields as a child. Decision delayed, return celebrated. Patrol mission sent to the slime area to confirm slimes stay past the fields. Seeds Edward's letter to Serra.
+
 ## Why This System Works
 
 Builds attachment, shows growth naturally, introduces systems without info-dump, gives pacing breaks.
