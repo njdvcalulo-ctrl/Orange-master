@@ -14,6 +14,14 @@ Diligent, grounded, observant, quietly competitive. Watches before acting. Learn
 
 Motivation: improve himself, support friends, prove proper practice leads to proper growth.
 
+## Personality Lock (Foundation)
+
+Core: kind, obedient, energetic, slightly boastful early (grows humble), emotionally honest, afraid sometimes.
+
+Hidden: afraid of failing others, afraid of not being enough. Holds on because he knows he will break without help beyond himself.
+
+Growth arc: 1. "I can do this!" (confidence) → 2. "I can't…" (breaking point) → 3. "Help me…" (surrender) → 4. "Use me." (purpose).
+
 ## Family
 
 John Oathkeeper (farmer): work ethic, stamina, repetition mindset. Marie Oathkeeper (cook): care, nourishment awareness, patience.
@@ -65,6 +73,8 @@ Quiet gratitude: before meals, after survival, in exhaustion. Short, sincere, no
 
 Example: closes eyes, whispers thanks.
 
+Dream System (rare guidance, locked): dreams come rarely, never every night, not always clear — sometimes symbolic, sometimes silent presence only, sometimes correction. Types: guidance, warning, formation, revelation. Tone stays mysterious but relational, never orders. Guidance never replaces training; power is still earned.
+
 ## Battle Authority (Locked)
 
 In high pressure: calls priority targets, decides healing order, signals retreat or sustain. Highest awareness. Others fight better — Orange decides what matters most. Servant leader.
@@ -74,6 +84,14 @@ In high pressure: calls priority targets, decides healing order, signals retreat
 Reads battle, positions safely, buffs agility for positioning, counter-attacks lightly. Reactive, timing-based, awareness-driven. Cannot out-damage attackers, out-tank Leo, out-speed Amy/Lyra. Relies on positioning.
 
 > The team can fight without Orange… but cannot perform at best without him.
+
+## Combat Identity Path (Gated)
+
+Physical base → enhanced by healing → divine expression, late only.
+
+Start: farm boy punches, grapples, endurance. Mid: self-healing tank, pushes beyond limits. Later: superhuman body, regeneration, shockwave punches and movement bursts. Endgame: body as vessel of divine will — rare, costly, never under his control, never instant victory.
+
+Volume 1 rule: farm boy endurance plus basic healing only. No superhuman feats, no vessel moments.
 
 ## Growth Philosophy (Locked)
 

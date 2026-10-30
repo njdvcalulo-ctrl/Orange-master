@@ -56,6 +56,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [John Oathkeeper](docs/characters/john/john-oathkeeper.md)
   - [Marie Oathkeeper](docs/characters/marie/marie-oathkeeper.md)
   - [Serra — Verdant Paladin](docs/characters/serra/serra.md)
+  - [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md)
   - [Leonard Leo Wardensmith](docs/characters/leo/leo-wardensmith.md)
   - [Lyra Arroway](docs/characters/lyra/lyra-arroway.md)
   - [Amethyst "Amy" Ironheart](docs/characters/amy/amy-ironheart.md)
@@ -87,6 +88,9 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Orange grows gradually within mana, stamina, and fatigue limits; late power stays late, hard-earned, and never Volume 1.
 - Status windows are personal-only; slimes run on stored food energy with fatigue and cooldowns, transfer stays finite.
 - The Guild rewards consistency: rank never equals power, no reward without proof, no instant promotion.
+- Faith stays subtle and translated, never lectured; Orange is a bridge who heals and befriends, never a preacher.
+- Dreams are rare symbolic guidance, sometimes only presence; guidance never replaces training.
+- Orange's body path is gated: farm boy endurance first, self-healing tank mid, superhuman late, vessel endgame only.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
 
 Parked, out of focus: [Future Arcs (proposed, not locked)](docs/story/future-arcs-proposed.md).

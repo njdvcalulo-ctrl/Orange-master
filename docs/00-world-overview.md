@@ -29,6 +29,14 @@ Key identity: "A place where people live properly… not perfectly."
 - Overall: grounded, warm, growth-focused.
 - Emotional core: family, friendship, discipline, becoming better slowly.
 
+## Faith (Subtle, Locked)
+
+A Creator exists: eternal, personal, holy, source of life, mana, and order. Essence is translated into fantasy, never copied from real-world theology, never lectured.
+
+Soul rule: humans are bearers of the divine image with full spiritual capacity. Other races are fragments of creation — will, intelligence, able to respond to grace, but not image-bearers in full.
+
+Orange is a bridge, not a preacher: he loves monsters, heals them, forms alliances, and draws them closer to the Creator. Faith shows through care, never sermons.
+
 ## Hard Restrictions
 
 - No sudden overpowered abilities.
