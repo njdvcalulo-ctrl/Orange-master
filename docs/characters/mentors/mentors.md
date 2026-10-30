@@ -17,7 +17,7 @@ Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Eli
 - Signature: performs on lute or simple guitar equivalent. Sings past heroes, warnings disguised as songs, encouragement. "Strong hands build the land — but steady hearts keep it standing."
 - Mentor effect on team: sustained presence, longer morale boost.
 - Residence on the village map, northwest side.
-- Past: former adventurer tank, retired to Ylila for the slow life, keeps old connections. Wrote Serra to mentor Orange, asking compassion, discernment, and generosity; a farmer's tough body pairs with her style.
+- Past: former adventurer tank, retired to Ylila for the slow life, keeps old connections. Wrote Serra to mentor Orange, asking compassion, discernment, and generosity; a farmer's tough body pairs with her style. Chose Serra partly because Orange's relentless training reminded him of her.
 - Party role: shield guard plus soulful songs — mental-state and focus/endurance buffs, taunts and warcries. Multi-role with redundancy: steady ground and spirit.
 - Trains Leo as tank (locked pairing).
 
@@ -27,7 +27,7 @@ AWAITING AUTHOR NOTES: appearance, age, family, personality beyond the role, com
 
 - Mentor effect: sharper mana control, longer endurance. Loyal through benefit first, then through bond — would risk his life to keep eating Orange's cooking.
 - Future gift: dimensional bag for Octo, letting slime arms hold up to 8 weapons.
-- Identity: human swordmage. Elite swordsmanship plus fire and ice for offense-defense. Frontal offense of Serra's old party. "My blade will take on any defense. If my steel can't break you, I'll melt you with fire."
+- Identity: human swordmage. Elite swordsmanship plus broad elemental magic — fire and ice shown so far, wider arsenal to be revealed later. Frontal offense of Serra's old party. "My blade will take on any defense. If my steel can't break you, I'll melt you with fire."
 - Introduced when the team meets up as training starts (Chapter 4–5).
 - Trains Amy as sword (locked pairing).
 

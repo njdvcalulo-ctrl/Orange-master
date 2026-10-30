@@ -12,7 +12,7 @@ Verdant Paladin: frontline-capable healer, buffer, efficient combatant. Sustaine
 
 Personality: direct, blunt, observant, practical. Values results, corrects immediately.
 
-Skills: controlled precise healing, Status Up to prevent collapse, minimal-movement survival combat.
+Skills: controlled precise healing, Status Up to prevent collapse, minimal-movement survival combat. Veteran capacity: layers up to five buffs at once (Speed, Strength, Endurance, Clarity, Focus); stamina holds from near-unending training. Orange may reach this in later volumes.
 
 ## Philosophy
 

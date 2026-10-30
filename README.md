@@ -94,5 +94,6 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Dreams are rare symbolic guidance, sometimes only presence; guidance never replaces training.
 - Orange's body path is gated: farm boy endurance first, self-healing tank mid, superhuman late, vessel endgame only.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
+- Violence stays off-focus for people: enemy deaths happen off-frame or by implication; slimes incapacitate, never consume on the page.
 
 Parked, out of focus: [Future Arcs (proposed, not locked)](docs/story/future-arcs-proposed.md).
