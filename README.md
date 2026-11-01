@@ -2,9 +2,9 @@
 
 ![Cover — Team Orange, Volume 1 Ylila](docs/images/cover-team-v1.jpg)
 
-A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial farming village of ~150 people, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven.
+A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial farming village of ~150 people, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember and the rise of Carrot Castle. Volume 3 is proposed as fields first.
 
-Scope: Early World, Volume 1 — Ylila Village Arc.
+Scope: Early World, Volumes 1–2 complete in draft, Volume 3 Fields First proposed.
 
 > A place where people live properly… not perfectly.
 
@@ -49,7 +49,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - [Adventurer Guild](docs/world/adventurer-guild.md)
 - [Currency](docs/world/currency.md)
 - [Village System: Scale, Places, Daily Life](docs/world/ylila-village-system.md)
-- [Volume 1 Outline](docs/story/volume1-outline.md)
+- [Volume 1 Outline, Volume 2 direction, Volume 3 proposal](docs/story/volume1-outline.md)
 - [Village Events](docs/story/village-events.md)
 - [Combat & Training System](docs/story/combat-training-system.md)
 - Characters (each folder holds its md, solo portrait, and Chapter Appearances):
@@ -95,5 +95,18 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Orange's body path is gated: farm boy endurance first, self-healing tank mid, superhuman late, vessel endgame only.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
 - Violence stays off-focus for people: enemy deaths happen off-frame or by implication; slimes incapacitate, never consume on the page.
+- Team Carrot Juice wins the Ember castle battle. Kids stay sidelined as present, supporting, witnessing. Orange lands no deciding blow.
+- Ember capital becomes Carrot City / Carrot Castle (CC) after conquest.
+- Grow plus Heal burns corruption. This is established in Chapters Ten and Eleven and enables the Dark Knight fall.
+- Mentors hold agency from Chapter 10 onward. They direct. Orange discovers within their frame.
 
-Parked, out of focus: [Future Arcs (proposed, not locked)](docs/story/future-arcs-proposed.md).
+## Proposed next, not locked
+
+- Ylila becomes a mini fortress-city first. Log walls plus tended farmland.
+- Tended farmland acts as a work domain. It aids efficiency, recovery, and mastery while working. It grants no free stats.
+- John anchors Ylila. Orange stays mobile between Ylila and Carrot Castle.
+- Guild outpost grows toward a fuller branch. Second classes stay exam-gated. More jobs exist for people and bonded slimes.
+- Carrot land-heal starts with survey. Orange, John, Slime King, and volunteers restore waterways and fields. Poison reads as symptom. True origin stays unknown.
+- Ember generals split. One surrenders to keep order. One flees with loyalists. Third stays unnamed.
+
+Parked detail: [Future Arcs (proposed, not locked)](docs/story/future-arcs-proposed.md).

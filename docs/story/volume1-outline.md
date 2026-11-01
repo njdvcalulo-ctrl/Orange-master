@@ -71,3 +71,17 @@ Ylila grows in strength, alliances form, system mastery increases, counter-attac
 # FUTURE PLOT DIRECTION (UNDER CONSIDERATION — NOT FINAL)
 
 Team Carrot Juice (Serra's team) wins the battle against Ember castle in a future volume, with little help from the kids. After conquest, Ember's capital is renamed Carrot City / Carrot Castle (CC). The kids experience war firsthand — present, supporting, witnessing — but the victory belongs to the mentor generation. Sets up the handoff: mentors win this one, the kids inherit the next.
+
+# VOLUME 3 DIRECTION (PROPOSED — NOT LOCKED): "Fields First"
+
+Farming is solved in Ylila before Carrot Castle is farmed. Order: secure Ylila as mini fortress-city first, then carry the method outward.
+
+Ylila upgrade (proposed): log walls, watch rotations, food storage, plus tended farmland under John and Orange's Grow-supported cultivation. Effect is Pairo-style, not free stats: work inside tended land trains cleaner, recovers faster, and masters skills sooner while working. No passive power without work. Grow stays temporary, high-cost, within mana/stamina/fatigue limits.
+
+Guild upgrade (proposed): Ylila outpost grows toward a fuller branch after Ember falls. Second-class exams stay exam-gated (capability, control, role readiness) and happen under mentor/Guild oversight. More jobs for people and bonded slimes: field guard, waterway repair, escort, survey, land-heal crews.
+
+Leadership split (proposed): John anchors Ylila as Cultivator-stage Land Keeper path and trains villagers plus slimes in joint farm work. Orange stays mobile between Ylila and Carrot Castle as support bridge. Edward coordinates defense and triage. Team Carrot Juice holds Carrot Castle security so kids are not asked to garrison a city.
+
+Carrot land-heal (proposed): investigate first, then enact. Orange, John, Slime King, and volunteer slimes survey waterways and dry/poisoned fields. Slime King history gives the hint, not the full answer. Grow plus Heal burns corruption the way Chapters Ten and Eleven burned it out of slimes: poisoned symptom recedes, land blooms where tended. True origin stays unknown for now — poison reads as symptom, corrupter identity held as mystery.
+
+Ember generals (proposed, not scrapped): keep them useful by splitting fates. One surrenders and helps keep order. One flees with loyalists and becomes a Volume 3 pressure source. The third stays unnamed and off-frame. This keeps the Ember Delay logic intact: the castle fell, the army did not vanish.

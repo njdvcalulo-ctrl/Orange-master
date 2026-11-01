@@ -1,6 +1,6 @@
 # Orange: The Healer's Resolve — Volume 2: Fall of Ember — Chapter Eighteen: When Light Answers Darkness (Part 1)
 
-Ember burned—
+Ember burned —
 
 but not with fire.
 
@@ -10,189 +10,123 @@ It was a city of dim skies.
 
 Heavy air.
 
----
-
 A place that had forgotten how to breathe.
-
----
 
 ---
 
 The gates were already broken.
 
----
+Not by brute force —
 
-Not by brute force—
-
----
-
-But by inevitability.
-
----
+but by inevitability.
 
 ---
 
 Ylila's forces moved with precision.
 
----
+Slimes surged along the walls, holding the flanks and pinning Ember pickets without breaking them.
 
-Slimes surged along walls.
-
----
-
-Villagers advanced in formation.
-
----
+Villagers advanced in formation behind shields.
 
 ---
 
 This was no longer defense.
 
----
-
----
-
 This was reclamation.
-
----
 
 ---
 
 Serra led at the front.
 
----
-
 "…Push forward. No unnecessary casualties."
 
 ---
 
----
-
-Xavier stood beside her—
+Xavier stood beside her —
 
 blade already glowing.
-
----
 
 "…Finally something worth cutting."
 
 ---
 
----
+Elinore vanished —
 
-Ellinore vanished—
-
-already inside the city.
+already inside the city, spotting for the main push.
 
 ---
 
----
-
-Edward's voice rose—
+Edward's voice rose —
 
 a steady hymn.
 
----
-
 "…Hold your ground. Advance with purpose."
 
----
+A barrier of sound and light settled over the kids' position at the rear.
 
 ---
 
-Everything moved—
+Behind that barrier stood Orange, Leo, Amy, and Sasha.
+
+Present. Supporting. Witnessing.
+
+Leo held the slime line. Amy watched the flanks. Sasha kept her bow low, eyes up.
+
+Orange kept his hands open, breathing steady, linked to Nochi and the bonded slimes.
+
+---
+
+Everything moved —
 
 as one.
 
 ---
 
----
-
-Until—
-
----
+Until —
 
 it stopped.
 
 ---
 
----
-
 A presence.
 
----
-
 Heavy.
-
----
 
 Unmoving.
 
 ---
 
----
-
-At the center of Ember—
-
----
+At the center of Ember —
 
 stood a man.
 
----
-
 Black armor.
-
----
 
 No insignia.
 
----
-
 No banner.
-
----
-
----
 
 Just weight.
 
 ---
 
----
-
 "…So this is the village that resisted."
-
----
 
 His voice echoed.
 
----
-
 Calm.
-
----
 
 Cold.
 
 ---
 
----
-
 Serra stepped forward.
-
----
 
 "…Move aside."
 
 ---
 
----
-
 The man tilted his head slightly.
-
----
-
----
 
 "…Or?"
 
@@ -200,11 +134,7 @@ The man tilted his head slightly.
 
 Xavier smirked.
 
----
-
 "…Or we remove you."
-
----
 
 ---
 
@@ -212,13 +142,9 @@ Silence.
 
 ---
 
----
-
-Then—
+Then —
 
 he moved.
-
----
 
 ---
 
@@ -228,17 +154,11 @@ Too fast.
 
 ---
 
----
+Xavier reacted —
 
-Xavier reacted—
-
-blade igniting—
-
----
+blade igniting —
 
 CLASH.
-
----
 
 ---
 
@@ -246,71 +166,41 @@ The impact shattered the ground.
 
 ---
 
----
-
 "…Strong," Xavier muttered.
-
----
 
 ---
 
 The Dark Knight didn't respond.
 
----
-
----
-
 He struck again.
-
----
-
----
 
 Faster.
 
 ---
 
----
-
-Xavier blocked—
+Xavier blocked —
 
 but slid back.
 
 ---
 
----
-
 "…He's not just strong," Serra said.
-
----
 
 "…He's precise."
 
 ---
 
----
+Elinore struck from behind —
 
-Ellinore struck from behind—
-
----
-
-A perfect kill angle—
+a perfect disabling angle, aimed to cripple the joints, not to kill.
 
 ---
 
----
-
-The blade stopped—
+The blade stopped —
 
 mid-air.
 
----
-
----
-
 Caught.
-
----
 
 ---
 
@@ -318,169 +208,55 @@ Caught.
 
 ---
 
----
+He threw her aside, hard enough to break formation.
 
-He threw her aside.
+Edward's barrier surged —
 
----
-
----
-
-Hard.
-
----
-
----
-
-Edward's barrier surged—
-
----
-
-But cracked.
-
----
+and cracked, but held over the rear line.
 
 ---
 
 "…This one is different…" Edward said.
 
----
+"…Hold formation. No one breaks alone."
 
 ---
 
 Serra stepped in.
 
----
-
----
-
 Buffs surged.
 
----
+She moved —
+
+fast —
+
+clean —
+
+Strike —
+
+heal —
+
+command —
 
 ---
 
-She moved—
+But —
 
-fast—
-
-clean—
+nothing broke him.
 
 ---
 
----
-
-Strike—
-
-heal—
-
-command—
-
----
-
----
-
-But—
-
----
-
-Nothing broke him.
-
----
-
----
-
-The Dark Knight stood—
+The Dark Knight stood —
 
 unshaken.
 
 ---
 
----
-
 "…You rely on support."
 
----
-
----
-
-His gaze shifted.
-
----
-
----
-
-"…But what happens when support fails?"
----
-
----
-
-He struck—
-
----
-
-Serra blocked—
-
----
-
-But her footing broke.
-
----
-
----
-
-For the first time—
-
----
-
-she staggered.
-
----
-
----
-
-Silence.
-
----
-
----
-
-"…Serra…" Xavier muttered.
-
----
-
----
-
-The Dark Knight turned.
-
----
-
----
-
-"…This is your best?"
----
-
----
-
-His eyes shifted—
-
----
+His gaze shifted past Serra, past Xavier, past Edward —
 
 to Orange.
-
----
-
----
-
-"…And you."
-
----
-
----
-
-Orange froze.
-
----
 
 ---
 
@@ -488,11 +264,7 @@ Orange froze.
 
 ---
 
----
-
 A pause.
-
----
 
 ---
 
@@ -500,23 +272,13 @@ A pause.
 
 ---
 
----
-
 The word landed.
-
----
 
 ---
 
 "…You heal what is already broken."
 
----
-
----
-
 His voice sharpened.
-
----
 
 ---
 
@@ -524,26 +286,17 @@ His voice sharpened.
 
 ---
 
----
-
 Silence.
 
 ---
 
----
-
 "…Where is your God now?"
----
 
 ---
 
-Something—
-
----
+Something —
 
 shifted.
-
----
 
 ---
 
@@ -551,53 +304,39 @@ Not rage.
 
 ---
 
----
-
 Clarity.
 
 ---
 
----
+Orange stepped forward half a pace, then stopped at the edge of Edward's barrier.
 
-Orange stepped forward.
+He did not draw his sword.
 
----
-
----
-
-"…You're wrong."
+He did not leave the line.
 
 ---
 
----
+Serra glanced back once.
 
-The Dark Knight laughed.
-
----
+"…Orange. Stay where you are. Support us."
 
 ---
 
-"…Then show me."
+"…I know," Orange said.
 
 ---
+
+Edward nodded.
+
+"…Do what you were trained to do."
 
 ---
 
 Orange closed his eyes.
 
----
-
----
-
 Not in fear.
 
----
-
----
-
 In surrender.
-
----
 
 ---
 
@@ -605,11 +344,7 @@ In surrender.
 
 ---
 
----
-
 A breath.
-
----
 
 ---
 
@@ -617,51 +352,33 @@ A breath.
 
 ---
 
----
-
 Silence fell.
 
 ---
 
----
-
-Then—
-
----
+Then —
 
 light.
 
 ---
 
----
-
-Not from the sky—
-
----
+Not from the sky —
 
 but through him.
 
 ---
 
----
-
 Warm.
-
----
 
 Unshakable.
 
 ---
 
----
+Nochi pulsed against his wrist, steady and bright. The bonded slimes along the line steadied with it, their murky patches clearing the way they had in the northern fields.
 
-Serra looked up—
-
----
+Serra looked up —
 
 eyes widening slightly.
-
----
 
 ---
 
@@ -669,123 +386,93 @@ eyes widening slightly.
 
 ---
 
----
-
 Orange opened his eyes.
 
----
-
----
-
 Calm.
-
----
-
----
 
 Certain.
 
 ---
 
----
-
-He stepped forward.
+"…Serra — now. His armor isn't just armor."
 
 ---
 
----
-
-The Dark Knight moved—
+"…There's corruption under it. Like the slimes. Healing burns it out."
 
 ---
 
-fast—
+Serra understood at once.
 
-deadly—
-
----
+"…Xavier! Elinore! On my mark!"
 
 ---
 
-But—
+Orange knelt and pressed both hands to the earth, the way he had learned in the fields and proven in Chapters Ten and Eleven.
+
+"…Heal."
+
+"…Grow."
 
 ---
 
-too late.
+The warmth flowed —
+
+not as a weapon, but as restoration.
+
+It ran through the slime line, through the villagers' tired limbs, and into the front line where Serra, Xavier, and Elinore stood.
+
+Their movements sharpened. Their wounds closed as they formed. Their timing aligned.
 
 ---
 
----
+And where that light touched the Dark Knight —
 
-One step.
+the black armor smoked.
 
----
+Not with fire.
 
----
-
-One strike.
+With cleansing.
 
 ---
 
----
-
-Clean.
+The murky seams brightened, then cracked. The unnatural strength faltered. The precise movements slowed, just enough.
 
 ---
 
----
-
-The blade passed through.
+"…What —" the Dark Knight staggered half a step. "What are you doing?"
 
 ---
 
----
+Orange stayed behind the barrier, hands shaking from the cost.
 
-Silence.
-
----
+"…Restoring what was taken."
 
 ---
 
-The Dark Knight stood still.
+Serra saw the opening and took command.
+
+"…Now!"
 
 ---
 
----
+Xavier's blade found the weakened joint. Elinore's arrow pinned the corrupted pauldron to the wall. Serra struck once, clean and disabling, her buffs peaking through Orange's support.
 
-"…Impossible…"
-
----
+Edward's hymn swelled, and his barrier folded forward, cutting off sight of the final moment.
 
 ---
 
-Then—
+No one saw the last blow clearly.
+
+No child dealt it.
 
 ---
 
-his head fell.
+When the light faded, the Dark Knight was down —
 
----
+still, disarmed, and contained behind Edward's ward.
 
----
-
-The body collapsed.
-
----
-
----
-
-Still.
-
----
-
----
-
-Gone.
-
----
-
----
+The corruption that had driven him was gone. What remained was only a man, breathing shallowly under guard.
 
 ---
 
@@ -793,19 +480,9 @@ Gone.
 
 No one moved.
 
----
-
----
-
 Not from fear.
 
----
-
----
-
 From understanding.
-
----
 
 ---
 
@@ -813,35 +490,17 @@ From understanding.
 
 ---
 
----
-
 "…No," Serra replied.
-
----
-
----
 
 "…That was alignment."
 
 ---
 
----
-
-Orange stood still.
-
----
-
----
+Orange stood still behind the line.
 
 The light slowly faded.
 
----
-
----
-
-He dropped to one knee.
-
----
+He dropped to one knee, caught by Leo before he hit the ground.
 
 ---
 
@@ -849,11 +508,7 @@ He dropped to one knee.
 
 ---
 
----
-
 A whisper.
-
----
 
 ---
 
@@ -861,67 +516,41 @@ A whisper.
 
 ---
 
+Amy steadied his shoulder. Sasha lowered her bow. Nochi rested against his cheek, dim and tired and alive.
+
 ---
 
 The sky above Ember shifted.
 
----
-
----
-
 Clouds parted.
-
----
-
----
 
 Light broke through.
 
 ---
 
----
-
-For the first time—
-
----
+For the first time —
 
 the city breathed.
 
 ---
 
----
-
----
-
 ### **A New Beginning**
 
-Days later—
-
----
+Days later —
 
 the banners changed.
 
 ---
 
----
-
-Ember Castle—
-
----
+Ember Castle —
 
 was no more.
 
 ---
 
----
-
-In its place—
-
----
+In its place —
 
 a new name rose.
-
----
 
 ---
 
@@ -929,55 +558,39 @@ a new name rose.
 
 ---
 
----
-
 Fields were restored.
 
 ---
 
-Slimes moved freely.
+Slimes moved freely, bonded and guarded, part of the watch, never unleashed.
 
 ---
 
-People worked—
+People worked —
 
 together.
 
 ---
 
----
-
-Not under greed—
-
----
+Not under greed —
 
 But under purpose.
 
 ---
 
----
+Serra stood at the balcony with Edward, Xavier, and Elinore.
 
-Serra stood at the balcony.
-
----
+Below them, the kids stood with the villagers — tired, upright, witnessing what their support had made possible.
 
 ---
 
-"…You changed more than a battle."
-
----
+"…You changed more than a battle," Serra said.
 
 ---
 
 Orange shook his head slightly.
 
----
-
----
-
 "…No."
-
----
 
 ---
 
@@ -985,31 +598,19 @@ A pause.
 
 ---
 
----
-
 "…We restored what was lost."
 
 ---
 
----
-
-Below them—
-
----
+Below them —
 
 life returned.
 
 ---
 
----
-
-And this time—
-
----
+And this time —
 
 it would grow.
-
----
 
 ---
 
