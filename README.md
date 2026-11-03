@@ -31,7 +31,7 @@ Solo home portraits:
 ![Amy at home](docs/images/amy-age12-home-v1.jpg)
 ![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
 
-Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Colors are locked: Nochi orange, Greg green, Octo purple, Crow black. The Slime King alone is blue after restoration. Sacred tree in Ylila is a maple.
+Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Team colors stay fixed: Nochi orange, Greg green, Octo purple, Crow black. Tendencies are SAS-driven comfort and movement, never attack spells; black is shadow only, no dark magic. Kingship is rare tier, any color; Ylila's Slime King happens to be blue after restoration. Sacred tree in Ylila is a maple.
 
 ## Contents
 
@@ -78,7 +78,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Healing is not victory — it is responsibility.
 - Priority is not fairness.
 - Without Ylila, Orange will eventually break.
-- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey slimes are not current; blue belongs to the restored Slime King alone. SAS slimes stay bonded partners, never tamed summons.
+- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey slimes are not current; Ylila's Slime King happens to be blue after restoration, but kingship is any-color rare tier. SAS slimes stay bonded partners, never tamed summons.
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly. Ylila registers base classes only.
 - Leo starts Fighter and earns Warden; Warden is never a base class.
 - Orange has affinity but still requires practice. His hybrid name stays unassigned and distinct from Serra.
@@ -101,6 +101,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Mentors hold agency from Chapter 10 onward. They direct. Orange discovers within their frame.
 - Schooling is basic theory-only (reading, numbers, lore, magic theory). No kid casting. Family work is the real training: farm, forge, wood, lake.
 - Stat Favor (FAV) replaces CHA / Luck / Blessing.
+- Slime tendencies are SAS-driven movement and comfort only, never attack spells. Temporary splits divide reserves while out, dry out if spent, return if mana remains.
+- Kingship is rare any-color tier: very old, fed colony, abandoned-forest conditions, slime level 50. Overeat bare land like virus and they dry up; nourished land lets them rest. King Shell is the limiter: egg-like harden outside, moist inside, fully vulnerable, disturbed fails, never auto. No accidental kings in Volumes 1–3.
 
 ## Proposed next, not locked
 
@@ -110,5 +112,6 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Guild outpost grows toward a fuller branch. Second classes stay exam-gated. More jobs exist for people and bonded slimes.
 - Carrot land-heal starts with survey. Orange, John, Slime King, and volunteers restore waterways and fields. Poison reads as symptom. True origin stays unknown.
 - Ember generals split. One surrenders to keep order. One flees with loyalists. Third stays unnamed.
+- Team stays 4 kids for now. No 5th hero yet. Distant schools, cults, guilds, and flight stay far-future notes only.
 
 Parked detail: [Future Arcs (proposed, not locked)](docs/story/future-arcs-proposed.md).
