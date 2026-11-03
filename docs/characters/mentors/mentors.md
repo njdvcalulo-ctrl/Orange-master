@@ -12,16 +12,24 @@ Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Ell
 
 ## Edward — Chief of Ylila, Tank-Bard (Locked Facts)
 
-- Role: village chief, leader plus mood stabilizer.
+- Role: village chief, leader plus mood stabilizer. Servant leader Orange looks up to. Public servant first.
+- Appearance: 48, muscular tank build, full beard. Warm strong voice. Line: "Better days are up ahead, so we march on."
 - Class: Tank-Bard. Bard half follows Bard to Songweaver to War Chanter to Soul Conductor. Tank half follows the Defender line.
 - Signature: performs on lute or simple guitar equivalent. Sings past heroes, warnings disguised as songs, encouragement. "Strong hands build the land — but steady hearts keep it standing."
+- Barrier: shield plant plus hymn barrier, lyrical channeling spell. Costs mana, can be interrupted. Endures through focus on stability and protection. Needs Serra buff overlap — Team Carrot is great through overlaps, not solo power.
 - Mentor effect on team: sustained presence, longer morale boost.
 - Residence on the village map, northwest side.
 - Past: former adventurer tank, retired to Ylila for the slow life, keeps old connections. Wrote Serra to mentor Orange, asking compassion, discernment, and generosity; a farmer's tough body pairs with her style. Chose Serra partly because Orange's relentless training reminded him of her.
 - Party role: shield guard plus soulful songs — mental-state and focus/endurance buffs, taunts and warcries. Multi-role with redundancy: steady ground and spirit.
+- Flaw: too lawful and kind. Stops when Serra asks. Tending Orange is partly alibi to see her again.
+- Grounding: Edward grounds perfectionist Xavier toward morals and greater good. Without Ed, that hero could turn villain.
 - Trains Leo as tank (locked pairing).
+- Morning run: jogs the farm ring then the village boundary at sunrise. Checks fences, waves at farmers, carries a tool to fix one small thing. One fix per run. Orange copies this later.
+- Jokes: encouraging puns only, never teasing. "Stay sharp, but not sharp-tongued." "Shield up, chin up." "Roots before fruits."
+- Carrot juice song (novelty, locked lyrics): "Raise your cup, carrot juice, sweet and bright and orange true. Strong hands dig, steady hearts stand, better days are up ahead, march on hand in hand. Sip it slow, stand up tall, Ylila answers every call. Roots go deep, hearts go high, we march on, you and I."
+- Cozy habit: swipes his beard downwards when thinking. Leo copies it before holding the line. Amy mocks it, then does it for real.
 
-AWAITING AUTHOR NOTES: appearance, age, family, personality beyond the role, combat record.
+AWAITING AUTHOR NOTES: family, combat record, Vol 3 hold specifics (what breaks if he falls silent).
 
 ## Xavier — Mentor (Locked Facts)
 
