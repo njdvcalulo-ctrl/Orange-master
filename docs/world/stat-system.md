@@ -1,6 +1,6 @@
 # STAT SYSTEM (FINAL — v2.1 + v2.2 LOCKED)
 
-Core definitions (v2.1): STR physical power, melee damage, equipment requirements, carrying capacity. INT magic power, mana efficiency, MP capacity, magical defense. AGI movement speed, attack speed, physical execution speed — combo speed, dodge capability, repositioning. DEX casting speed, accuracy, control. VIT HP, stamina, physical defense. Luck/Blessing crits, dodge, favor and charisma.
+Core definitions (v2.1, Favor locked): STR physical power, melee damage, equipment requirements, carrying capacity. INT magic power, mana efficiency, MP capacity, magical defense. AGI movement speed, attack speed, physical execution speed — combo speed, dodge capability, repositioning. DEX casting speed, accuracy, control. VIT HP, stamina, physical defense. Favor (FAV) crits, dodge, favor and charisma. (Note: "Luck/Blessing" and "CHA/Charisma" retired — Favor/FAV locked.)
 
 Equipment and weight: every item carries a STR requirement (heavy armor ~30, light clothing ~2). Overburden past STR capacity drains stamina faster, slows movement, drops combat efficiency. No artificial balance needed — STR gates weight, AGI gates speed, INT gates mana, VIT gates survival.
 
@@ -14,7 +14,7 @@ Stamina web (v2.2, confirmed): VIT sets pool and recovery, STR handles load, AGI
 
 STR plus VIT plus AGI form one connected engine. This is why farm labor and forge work build real combat endurance.
 
-## Luck / Blessing (expanded)
+## Favor - FAV (expanded, locked)
 
 Three functions:
 

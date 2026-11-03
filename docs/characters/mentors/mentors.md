@@ -1,6 +1,6 @@
 # Mentors of Ylila (Locked Hub)
 
-Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Elinore hold locked facts below until the author's notes arrive.
+Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Ellinore (“Eli”) hold locked facts below until the author's notes arrive.
 
 - [Serra — Verdant Paladin](../serra/serra.md) — full file. Frontline healer-buffer, combat instructor, triage. Mentor-only tier.
 
@@ -33,10 +33,10 @@ AWAITING AUTHOR NOTES: appearance, age, family, personality beyond the role, com
 
 AWAITING AUTHOR NOTES: appearance, age, current whereabouts and role, personality, history with the team.
 
-## Elinore — Mentor (Locked Facts)
+## Ellinore (“Eli”) — Mentor (Locked Facts)
 
 - Mentor effect: sharper perception, faster recovery.
 - Identity: dark elf, skilled archer and stealth assassin. "You won't see what hit you." Former Serra party member; introduced when the team meets up as training starts (Chapter 4–5).
-- Trains Sasha (Lyra) as archer (locked pairing). (Note: "Ellinore" spelling variant retired — Elinore locked.)
+- Trains Lyra as archer (locked pairing). Same path as Lyra. Lyra optimizes SAS in a way Ellinore does not have — perfect mentor-mentee by style. (Note: "Elinore" spelling retired — Ellinore locked. Nickname Eli.)
 
 AWAITING AUTHOR NOTES: appearance, age, current whereabouts and role, personality, history with the team.

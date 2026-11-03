@@ -94,7 +94,7 @@ Contrast role: Leo keeps the shield and becomes immovable (stability); Amy drops
 
 ## Profile (Locked)
 
-Basic info: Leonard Wardensmith, age 13, Human. Warden (Tank). (Note: "Titan" is his future title, not surname. "Ironheart" was an early surname — discarded.)
+Basic info: Leonard “Leo” Wardensmith, age 13, Human. Fighter (Tank path, Warden-track). (Note: "Titan" is his future title, not surname. "Ironheart" was an early surname — discarded.)
 
 Personality: steady and reliable. Hidden: feels responsible to protect others even at his own cost. Quirk: complains about his slime… but secretly cares about it.
 

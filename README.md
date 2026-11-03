@@ -19,10 +19,10 @@ Current group portrait is v2. Amy matches her lakeside solo: brown hair, jolly, 
 Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 
 - [Orange Oathkeeper, 12, Jan 19](docs/characters/orange/orange-oathkeeper.md) — healer-support, short sword (Serra-trained basics, Pairo direction), with [Nochi](docs/characters/orange/nochi/nochi.md)
-- [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — tank, with [Greg](docs/characters/leo/greg/greg.md)
-- [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — sword dancer, with [Octo](docs/characters/amy/octo/octo.md)
-- [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
-- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage) and Elinore (dark-elf archer)
+- [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — Fighter (Tank path, Warden-track), with [Greg](docs/characters/leo/greg/greg.md)
+- [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — Fighter (Sword path, Sword Dancer-track), with [Octo](docs/characters/amy/octo/octo.md)
+- [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin, named from lyre; father plays lyre), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
+- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor)
 
 Solo home portraits:
 
@@ -90,7 +90,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Orange grows gradually within mana, stamina, and fatigue limits; late power stays late, hard-earned, and never Volume 1.
 - Status windows are personal-only; slimes run on stored food energy with fatigue and cooldowns, transfer stays finite.
 - The Guild rewards consistency: rank never equals power, no reward without proof, no instant promotion.
-- Faith stays subtle and translated, never lectured; Orange is a bridge who heals and befriends, never a preacher.
+- Faith stays subtle early and translated, never forced; Orange is a bridge who heals and befriends. House of Restoration guidance grows later through Serra, by care first, words second.
 - Dreams are rare symbolic guidance, sometimes only presence; guidance never replaces training.
 - Orange's body path is gated: farm boy endurance first, self-healing tank mid, superhuman late, vessel endgame only.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
@@ -99,6 +99,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Ember capital becomes Carrot City / Carrot Castle (CC) after conquest.
 - Grow plus Heal burns corruption. This is established in Chapters Ten and Eleven and enables the Dark Knight fall.
 - Mentors hold agency from Chapter 10 onward. They direct. Orange discovers within their frame.
+- Schooling is basic theory-only (reading, numbers, lore, magic theory). No kid casting. Family work is the real training: farm, forge, wood, lake.
+- Stat Favor (FAV) replaces CHA / Luck / Blessing.
 
 ## Proposed next, not locked
 

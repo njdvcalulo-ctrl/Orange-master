@@ -157,7 +157,7 @@ Catchphrase (LOCK): "…Maybe it's because of the food." Used casually, repeated
 
 Enemy risk answer: enemies WILL find out and target, capture, or replicate. They fail — because it requires intent, care, consistency, relationship. It cannot be mass-produced. Power that cannot be stolen, power that must be shared.
 
-Mentor effect: mentors benefit too and realize "something about this kid…" — Xavier (sharper mana control, longer endurance; would risk his life just to keep eating Orange's cooking — loyalty through benefit, then through bond), Serra (healing efficiency, stamina management), Elinore (sharper perception, faster recovery), Edward (sustained presence, longer morale boost).
+Mentor effect: mentors benefit too and realize "something about this kid…" — Xavier (sharper mana control, longer endurance; would risk his life just to keep eating Orange's cooking — loyalty through benefit, then through bond), Serra (healing efficiency, stamina management), Ellinore (sharper perception, faster recovery), Edward (sustained presence, longer morale boost).
 
 Generation theme: mentors are the peak of their era, but Orange's team grows faster and evolves differently — they become the next generation's leaders. Because of one support core.
 

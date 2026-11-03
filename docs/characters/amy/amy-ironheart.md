@@ -590,7 +590,7 @@ Balance: strengths are hard to hit, high sustained offense, beautiful and intimi
 
 Personality impact: playful becomes expressive in combat, competitive wants to look good while winning, confident trusts her body not just strength.
 
-System connection: DEX → precision of movement, AGI → speed, CHA → later her fighting style becomes captivating. Her combat literally influences how people feel watching her.
+System connection: DEX → precision of movement, AGI → speed, FAV (Favor) → later her fighting style becomes captivating. Her combat literally influences how people feel watching her.
 
 Future potential: Blade Waltz (controlled elegant multi-target strikes), Crimson Dance (aggressive faster tempo), Silent Step Dance (stealth crossover with Lyra).
 
@@ -598,7 +598,7 @@ Team clarity locked: Leo = grounded defense and impact, Lyra = precision and awa
 
 ## Profile — Revised (Locked)
 
-Basic info: Amethyst Ironheart, age 12–13, Human. Fighter (Swordsman Path, early noob stage).
+Basic info: Amethyst Ironheart, age 12–13, Human. Fighter (Swordsman Path, early noob stage). Nickname Amy.
 
 Class direction: starts sword + shield, drops shield, focuses on mobility, offense, freedom of movement. Future path: Fighter → Swordsman → Duelist / Blade Dancer (depending on style — elegant or aggressive).
 
@@ -608,7 +608,7 @@ Early game rule: everyone starts simple (sword + shield) before specializing —
 
 ## Profile (Locked)
 
-Basic info: Amethyst Ironheart, age 12–13, Human. Developing Swordsman (Melee). (Note: "Amethyst" was an early name — discarded.)
+Basic info: Amethyst Ironheart, age 12–13, Human. Developing Swordsman (Melee). Nickname Amy. (Note: "Amythyst" variant retired — "Amethyst" locked.)
 
 Personality: cheerful and energetic. Hidden: afraid of being left behind or seen as weak. Quirk: talks to her slime like it understands everything (it will).
 
