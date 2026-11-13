@@ -22,7 +22,7 @@ Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 - [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — Fighter (Tank path, Warden-track), with [Greg](docs/characters/leo/greg/greg.md)
 - [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — Fighter (Sword path, Sword Dancer-track), with [Octo](docs/characters/amy/octo/octo.md)
 - [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin, named from lyre; father plays lyre), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
-- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage, 35, offensive carry) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor). Xavier details live in [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md): Ember Eyes gated heat-sense, Caldora posting, slow-burn with Eli not official, gated hammer-drop skill, calm calculator who thanks the team.
+- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage, 35, offensive carry) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor). Details live in [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md). Xavier: Ember Eyes gated heat-sense, Caldora posting, slow-burn with Eli not official, gated hammer-drop, calm calculator. Eli, 152 looks 27: ice assassin, Frozen Arrow gated 10 heads, amulet stealth, Hezek quest, sheath on belt back.
 
 Solo home portraits:
 

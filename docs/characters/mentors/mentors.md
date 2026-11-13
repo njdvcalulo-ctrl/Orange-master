@@ -62,5 +62,21 @@ AWAITING AUTHOR NOTES: combat record, Vol 3 hold specifics (what breaks if he fa
 - Identity: dark elf, skilled archer and stealth assassin. "You won't see what hit you." Former Serra party member; introduced when the team meets up as training starts (Chapter 4–5).
 - Trains Lyra as archer (locked pairing). Same path as Lyra. Lyra optimizes SAS in a way Ellinore does not have — perfect mentor-mentee by style. (Note: "Elinore" spelling retired — Ellinore locked. Nickname Eli.)
 - Xavier dynamic (author-provided, slow burn): master of stealth who prefers not to be noticed. Xavier's Ember Eyes still finds her heat. It perks her up — irritates her and she likes being noticed by him. Mutual understanding, not official. She waits for him to ask. Awkward hints only in Volumes 1–2.
+- Basics: 152 years old, looks 27 in human years. 5'5". Light stealth-assassin build. Half-inch longer pointed ears. Light grey skin. Visual ref light drow ranger, modest version.
+- Gear heirloom (author-provided): elf-metal curvy blade-bow of black mithril, family-blessed. Stronger mithril mix, trade secret only high dwarves spot. Cloth grip replaceable. Arc blades cut at close range. String is red ice-spider web. History of the web left for later.
+- Daggers (author-provided, gated): ice ogre daggers of the north in thermal sheath on belt, back side. Returns to sheath when not used. Freeze by contact for covert work, not instant kill. Needs setup, window, then cooldown. Utility use: freeze meat for storage in Xavier's party space bag. Finite storage, not infinite.
+- Clothes: modest drow-ranger cut. Black to dark blue with ancient elvish lining. Hood and cape. Built quiet for stealth.
+- Mind: quiet introvert. Unnoticed even when present. Shares stories only for mission need. Laughs at Xavier's accidental dry jokes. Likes cold, thrives in it. Likes carrots late as team favorite — makes frozen carrot strips. Dislikes center of attention and crowds, blends to vanish. Cool temper.
+- Purpose: guild wanderer seeking lost frozen city of Hezek. Belief only: peaceful dark-elf hidden city, cloaked by Shaari high elves, home to dark elves and frozen dwarves bound by forge craft, looted by Leruk fire orcs for mithril jewelry. Maps disagree — north vs east — only high elves know. World truth NOT locked, quest is locked.
+- Xavier peace view: not human, likes peace and free trade. If peace returns, Hezek might live again.
+- Signature (author-provided, gated): Frozen Arrow. Seats a dagger in the bow holder. Full draw touches arrowhead to ice edge to enchant. Limited to 10 special heads — must retrieve to reuse. Regular wood-iron arrows can take a weak freeze but may break from cold. Xavier spots lost heads with Ember Eyes and helps retrieve. Costs focus and time, can be interrupted.
+- Stealth (author-provided, gated): amulet of stealth, mana-infused to run. Breaks on high heat, damage, contact, detection skills, or empty mana. Still needs cover and sense. Not auto-hide.
+- Habits: introvertly cute and knows it, pop-star beauty, always alert, rarely startled. Cleans and polishes bow and heads. Trains with regular heads on non-special targets. Lyra training is a breeze — forest climbs, tree runs, live hunt for food. Deeply admired by Lyra.
+- Limits (locked): needs team for talk. Cute and knowledgeable but shy with villagers, inns, guild counters. Cannot lead the team. Coordinates info and mechanics, defers to Serra for priority.
+- History: was in Caldora too — hydra-cave search with Xavier and Serra. Found the cave, got Edward's letter at the inn.
+- Romance beats (author-provided): Xavier caught staring at Eli. Eli blushing asking Xavier to find her arrows. Edward notices and may sing a torpe-guy/invisible-girl love song. Official only in Volume 3 proposed.
+- Team gag (proposed wording): Edward asks "are we really a 4 man team?" Sings ice-assassin verse near "the wind grows colder, stings and sharp, be careful it blows toward your heart."
+- Now: no permanent address. Wandering Team Carrot. In Ylila she trains Lyra. In the field she is the deadly ice assassin from the shadows. Volume 3 stay undecided.
+- Voice: cute shy pop-star politeness. Locked line: "umm. Xavier.. can you please — find my arrows for me."
 
-AWAITING AUTHOR NOTES: appearance, age, current whereabouts and role, wider personality, history with the team.
+AWAITING: red ice-spider web history, Hezek truth, Shaari/Leruk world lock.
