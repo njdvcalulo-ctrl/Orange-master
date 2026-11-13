@@ -65,6 +65,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [Crow — Lyra's slime](docs/characters/lyra/crow/crow.md)
   - [Greg — Leo's slime](docs/characters/leo/greg/greg.md)
   - [Octo — Amy's slime](docs/characters/amy/octo/octo.md)
+- Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet) and innkeeper Teresa (57, widow, 2 rooms, Team Carrot base). Next: Ethan, Nathaly, Steve, Naomi, Vincent, Silk, then barn keeper, herb gatherer, one elder.
+- Village norms (copper-first): juice 2, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Silver for surplus and guild pay.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
 
 ## Locked Core Rules

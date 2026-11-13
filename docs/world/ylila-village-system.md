@@ -8,7 +8,7 @@ Population: ~150 people. Size: ~10–15 minutes to cross on foot. Radial layout:
 
 Village Center: Chief's House & Office (governance + "police"), small open market space, occasional merchant stalls, community gathering point. Chief = only formal authority + strongest fighter (early story). Villagers routinely travel out to sell surplus and return; strangers are rare, which is why Serra's team turned heads.
 
-The Inn (1 only): rest stop for traveling merchants, occasional adventurers passing through, early exposure to outside world rumors. House specialty: carrot juice — minors never served alcohol, and the team drinks the same.
+The Inn (1 only, Teresa's): keeper Teresa, 57, widow, near mini guild hut. Two rooms only — Serra and Eli share the big room, Xavier takes the small one. Team Carrot stays here most of Volume 1. Cooks for sleep and dine-in guests, mostly travelers. Food from the barns, repairs from Vincent the carpenter. House specialty: carrot juice — minors never served alcohol, and the team drinks the same. Running gag: Edward asks "still no visitor aunt Teresa?" She answers "shut up!" Locked voice: "Wanna taste Ylila's carrot juice?"
 
 Mini Adventurer Hub (small guild outpost, not a full branch): quest board + appraisal desk (sometimes manned). Mostly pest control, herb gathering, delivery tasks. Where kids first see the adventurer system.
 
@@ -26,11 +26,13 @@ Forest Edge: herbs, wood, small animals. Mild danger: low-tier monsters (later i
 
 Storage Barns: shared grain reserves. Symbol of village survival.
 
-Small School: one-room basic education (reading, numbers, village lore). Unnamed village teacher; fades as mentors take over training early in the story.
+Small School: one-room basic education (reading, numbers, village lore). Teacher Sopia, 27, lives west border. Migrant who came to teach small villages and stayed for Ylila's vibe, culture, and tradition. Strictly sweet. Places new flowers on her vase each school day. Kids greet her in passing. Sits with village leaders. Teaches basics only, calls Edward for help beyond that. Locked voice: "dont forget the basics." Fades as mentors take over training early in the story.
 
 ## Social Structure (Refined)
 
 Tight-knit community, everyone knows everyone. Skill-based respect system (not class-based yet). Common roles: farmers, fisherfolk, blacksmith, carpenter, tailor, herb gatherers, village teacher.
+
+Village norms (copper-first, fits Ylila): carrot juice 2 copper. Cooked meal 5–8 copper. Inn bed 8–12 copper a night, dinner extra. Simple repair 5–10 copper plus materials. Day labor 10–15 copper. Teacher kept by village share, about 60–80 copper a week plus meals. Most trade stays in copper. Silver appears for surplus sales and guild payouts.
 
 ## Combat Culture
 
