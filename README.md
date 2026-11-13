@@ -22,7 +22,7 @@ Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 - [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — Fighter (Tank path, Warden-track), with [Greg](docs/characters/leo/greg/greg.md)
 - [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — Fighter (Sword path, Sword Dancer-track), with [Octo](docs/characters/amy/octo/octo.md)
 - [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin, named from lyre; father plays lyre), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
-- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor)
+- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage, 35, offensive carry) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor). Xavier details live in [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md): Ember Eyes gated heat-sense, Caldora posting, slow-burn with Eli not official, gated hammer-drop skill, calm calculator who thanks the team.
 
 Solo home portraits:
 
@@ -57,7 +57,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [John Oathkeeper](docs/characters/john/john-oathkeeper.md)
   - [Marie Oathkeeper](docs/characters/marie/marie-oathkeeper.md)
   - [Serra — Verdant Paladin](docs/characters/serra/serra.md)
-  - [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md)
+  - [Mentors of Ylila (hub: Edward, Xavier, Eli)](docs/characters/mentors/mentors.md)
   - [Leonard Leo Wardensmith](docs/characters/leo/leo-wardensmith.md)
   - [Lyra Arroway](docs/characters/lyra/lyra-arroway.md)
   - [Amethyst "Amy" Ironheart](docs/characters/amy/amy-ironheart.md)
