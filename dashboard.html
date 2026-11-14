@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Light Novel Dashboard — Orange: The Healer's Resolve</title>
+<style>
+  body { font-family: Georgia, serif; background: #fff; color: #222; margin: 0 auto; max-width: 900px; padding: 24px; line-height: 1.5; }
+  h1 { font-size: 1.5rem; margin-bottom: 0; }
+  .date { color: #555; font-size: 0.9rem; margin-bottom: 24px; }
+  h2 { font-size: 1.15rem; border-bottom: 1px solid #333; padding-bottom: 4px; margin-top: 32px; }
+  table { border-collapse: collapse; width: 100%; font-size: 0.92rem; }
+  th, td { border: 1px solid #bbb; padding: 6px 8px; text-align: left; }
+  th { background: #eee; }
+  .done { color: #2f6b2f; }
+  .pending { color: #8a6d1a; }
+  ul { padding-left: 20px; }
+  a { color: #1a4f8a; }
+  .next li { margin-bottom: 6px; }
+</style>
+</head>
+<body>
+<h1>Orange: The Healer's Resolve — Dashboard</h1>
+<p class="date">Nov 14, 2026 · Ylila village, ~150 people · Vol 1: fortified safe haven</p>
+
+<h2>Villagers — 8 of 11 locked</h2>
+<table>
+<tr><th>Villager</th><th>Status</th></tr>
+<tr><td>Sopia (teacher, 27)</td><td class="done">Locked</td></tr>
+<tr><td>Teresa (innkeeper, 57)</td><td class="done">Locked</td></tr>
+<tr><td>Ethan (blacksmith, 38)</td><td class="done">Locked</td></tr>
+<tr><td>Nathaly (artisan, 33)</td><td class="done">Locked</td></tr>
+<tr><td>Steve (fishing lead, 38)</td><td class="done">Locked</td></tr>
+<tr><td>Naomi (fisherfolk/dancer, 34)</td><td class="done">Locked</td></tr>
+<tr><td>Vincent (carpenter, 36)</td><td class="done">Locked</td></tr>
+<tr><td>Silk (tailor/forager, 34)</td><td class="done">Locked</td></tr>
+<tr><td>Barn keeper</td><td class="pending">Todo</td></tr>
+<tr><td>Herb gatherer</td><td class="pending">Todo</td></tr>
+<tr><td>One elder</td><td class="pending">Todo</td></tr>
+</table>
+
+<h2>Images — 13 pairs + 3 new, all awaiting verdict</h2>
+<p>Data encoding comes first on every item: verdict + canon notes before any visual rework.
+Compare side by side in <a href="image-compare-v2.html">image-compare-v2.html</a>.
+Full tracker: <a href="todo/image-corrections.md">todo/image-corrections.md</a>.</p>
+<table>
+<tr><th>Subject</th><th>Known issue</th><th>Verdict</th></tr>
+<tr><td>Orange, Leo, Serra, John, Marie</td><td>Hair and faces invented</td><td class="pending">Pending</td></tr>
+<tr><td>Lyra</td><td>Name patch + shorts; redo fully covered?</td><td class="pending">Pending</td></tr>
+<tr><td>Orange</td><td>Nochi smuggled into satchel; true solo?</td><td class="pending">Pending</td></tr>
+<tr><td>Crow</td><td>Starry body vs shadow-only rule</td><td class="pending">Pending</td></tr>
+<tr><td>Map</td><td>Lake name + compass invented</td><td class="pending">Pending</td></tr>
+<tr><td>Cover</td><td>Back row vs locked mentors</td><td class="pending">Pending</td></tr>
+<tr><td>Xavier, Eli, Edward</td><td>Brand-new, no old version</td><td class="pending">Pending</td></tr>
+<tr><td>Amy, Nochi, Greg, Octo</td><td>None recorded yet</td><td class="pending">Pending</td></tr>
+</table>
+
+<h2>Story — 18 chapter drafts + outline</h2>
+<p>Volume 1 outline, village events, and combat/training system locked.
+Chapter drafts live in <a href="docs/story-draft/README.md">docs/story-draft/</a> (non-canon holding folder).</p>
+
+<h2>World gaps — still open</h2>
+<ul>
+<li>Livelihood: who does what, calendar</li>
+<li>Traditions: festivals, rites, maple meaning</li>
+<li>History: founding, past threats</li>
+<li>Products: maker list, surplus, prices</li>
+<li>Leadership: council, rules, succession</li>
+<li>Animals: goblins, zones, tame rules</li>
+</ul>
+
+<h2>Next up</h2>
+<ol class="next">
+<li>Encode image data: one verdict per row in the image tracker.</li>
+<li>Visual adjustments, item by item, from encoded rows only.</li>
+<li>Promote winners to <code>docs/images/</code> as v2, update README, commit.</li>
+<li>Lock barn keeper, herb gatherer, one elder.</li>
+</ol>
+</body>
+</html>
