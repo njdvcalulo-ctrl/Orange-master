@@ -42,6 +42,8 @@ Vincent Arroway (Vince), 36, north border treehouse and outpost. Village carpent
 
 Silk Arroway, 34, north border treehouse and outpost. Tailor and forager: makes and mends clothes for most of the village (patches 3–5 copper; simple new garments 15–30 copper), forages food, herbs, and fabric dyes (small bundles 4–8 copper). Mother of Lyra. Daily beat: tailoring and foraging, co-manages the north outpost with Vincent. Mind: quiet, clear, concise, perfectionist. Habit: same shared beat — the two northern hammers syncing now and then. Vol 1 use: clothes and foraged goods; styles stay limited by scarce sources and little trade. Limit: no metalwork — calls Ethan and Nathaly for fittings and fasteners.
 
+Ben, 52, northwest, one house from the barn. Barn keeper: storage and livestock — keeps the shared grain reserves, arranges stocks and feed, manages the village animals (kept from the village share, about 50–70 copper a week plus meals). John's storage partner: most of John's farm goods pass through his hands. Daily beat: counting reserves and logging every sack in his logbook. Mind: organized. Habit: counts and logs reserves, twice. Vol 1 use: barn. Limit: barn stuff only; asks John what to do with John's products. Locked voice: "A good harvest means little if you don't know how to keep it."
+
 ## Social Structure (Refined)
 
 Tight-knit community, everyone knows everyone. Skill-based respect system (not class-based yet). Common roles: farmers, fisherfolk, blacksmith, carpenter, tailor, herb gatherers, village teacher.
