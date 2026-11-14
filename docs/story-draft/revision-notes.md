@@ -8,3 +8,4 @@ Fixes to apply when drafts become canon. Drafts stay as-is; this list governs th
 4. Human lethality stays off-focus. Slimes incapacitate or capture on the page, never consume people. Enemy deaths happen off-frame or by implication only.
 5. Slime golem scrapped — never used in future chapters. Eastern plains golems are a separate future idea, unrelated to slimes.
 6. Dark knight (Ember champion) rule: Team Carrot Juice wins; kids stay sidelined (present, supporting, witnessing). Orange lands no deciding blow — the one-shot draft is scrapped. Grow/healing burns corruption (established Ch10–11), which is why the team needs Orange present but not finishing.
+7. Leo goes hammer-only: bashing build with shield, short sword dropped. Amend leo-wardensmith.md Gear Habit + Weapon Path (currently hammer/short sword) on the canon pass. Portrait brief already hammer-only.

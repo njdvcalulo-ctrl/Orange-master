@@ -68,6 +68,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet), innkeeper Teresa (57, widow, 2 rooms, Team Carrot base), Ethan Wardensmith (38, blacksmith), Nathaly Wardensmith (33, artisan), Steve Ironheart (38, fishing lead), Naomi Ironheart (34, fisherfolk/dancer), Vincent Arroway (36, carpenter), Silk Arroway (34, tailor/forager), Ben (52, barn keeper), Bunny (24, herb gatherer) and Elder Ruel (67, retired guild attendant). Vol 1 villagers complete.
 - Village norms (copper-first): juice 2, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Silver for surplus and guild pay.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
+- [Project Dashboard](dashboard.html) (open in browser, no server needed)
+- [Image Compare v2 — old vs new](image-compare-v2.html) (open in browser; verdicts tracked in [todo/image-corrections.md](todo/image-corrections.md))
 
 ## Locked Core Rules
 

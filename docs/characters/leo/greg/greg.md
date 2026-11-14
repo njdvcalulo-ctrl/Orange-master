@@ -65,7 +65,7 @@ Leo now does TWO things: holds the line, and breaks enemy formation. Team: Orang
 
 ## Engulf Flavor (Locked)
 
-Early on, the small green slime grows bigger mid-fight, then eats Leo — not hurting him, just making him slimy. SAS does its job; afterward the team goes "ugghh, your slime is definitely strangely attached to you." Leo loves his slime but doesn't like being swallowed and engulfed to attach — at least at first. Later the slime simply slides into full-body armor coating.
+Early on, the small green slime grows bigger mid-fight, then eats Leo — not hurting him, just making him slimy. SAS does its job; afterward the team goes "ugghh, your slime is definitely strangely attached to you." Leo loves his slime but doesn't like being swallowed and engulfed to attach — at least at first. Later the slime simply slides into full-body armor coating. Tone: funny-sloppy, never scary — Greg is soft, and the engulf plays as comedy. Rides Leo's shoulder by default so he can see when he's needed.
 
 ## Chapter Appearances
 
