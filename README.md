@@ -2,7 +2,7 @@
 
 ![Cover — Team Orange, Volume 1 Ylila](docs/images/cover-team-v1.jpg)
 
-A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial farming village of ~150 people, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember and the rise of Carrot Castle. Volume 3 is proposed as fields first.
+A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial farming village of ~150 people on Lake Merma, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember and the rise of Carrot Castle. Volume 3 is proposed as fields first.
 
 Scope: Early World, Volumes 1–2 complete in draft, Volume 3 Fields First proposed.
 
