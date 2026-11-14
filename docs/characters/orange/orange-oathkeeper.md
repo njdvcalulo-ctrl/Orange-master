@@ -167,7 +167,7 @@ Final identity (LOCK HARD): not the strongest fighter, not the flashiest hero. H
 
 Basic info: Orange Oathkeeper, age 12 (birthday January 19), male, Human. Healer (Support → Hybrid future).
 
-![Orange at 12, home](orange-age12-home-v1.jpg)
+![Orange at 12, home](orange-age12-home-v2.jpg)
 
 Main-story age lock: 12 (birthday January 19). Flashbacks at 8–10 only.
 

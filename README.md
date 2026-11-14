@@ -26,7 +26,7 @@ Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 
 Solo home portraits:
 
-![Orange at home](docs/images/orange-age12-home-v1.jpg)
+![Orange at home](docs/images/orange-age12-home-v2.jpg)
 ![Leo at home](docs/images/leo-age13-home-v1.jpg)
 ![Amy at home](docs/images/amy-age12-home-v1.jpg)
 ![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
