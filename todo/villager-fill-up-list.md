@@ -12,5 +12,5 @@ Per villager. Copy this:
 8. Voice: one locked line if they speak often
 
 Do first: teacher, innkeeper, Ethan, Nathaly, Steve, Naomi, Vincent, Silk.
-Done: Sopia (teacher), Teresa (innkeeper).
+Done: Sopia (teacher), Teresa (innkeeper), Ethan, Nathaly.
 Then: barn keeper, one herb gatherer, one elder. That is enough for Vol 1.

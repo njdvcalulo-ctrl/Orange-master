@@ -28,6 +28,12 @@ Storage Barns: shared grain reserves. Symbol of village survival.
 
 Small School: one-room basic education (reading, numbers, village lore). Teacher Sopia, 27, lives west border. Migrant who came to teach small villages and stayed for Ylila's vibe, culture, and tradition. Strictly sweet. Places new flowers on her vase each school day. Kids greet her in passing. Sits with village leaders. Teaches basics only, calls Edward for help beyond that. Locked voice: "dont forget the basics." Fades as mentors take over training early in the story.
 
+## Villagers — Locked (Vol 1)
+
+Ethan Wardensmith, 38, southwest border smithy. Village blacksmith: farm and fishing tools by demand (repairs 5–10 copper plus materials; simple new tools 15–30 copper), light weapons later only. Father of Leo; his 5:30 am hammer on the anvil is the village wake-up call, and people appreciate it. Mind: innovative, persistent. Habit: smithy is made safe and clean before and after every use. Vol 1 use: repair, market. Limit: no advanced smithing yet; calls Vincent for wooden tool-handles. Locked voice: "If you feel like you are burning, hammered down again and again — maybe God is forging you." (First faint faith hint, stays subtle.)
+
+Nathaly Wardensmith, 33, lives and works at the southwest smithy. Artisan: jewelry and fine metalwork made on demand, mostly bought as gifts (simple pins 8–12 copper; finer pieces 20–40 copper). Amy's dad buys fish hairpins from her. Wife of Ethan, mother of Leo. Daily beat: helps at the smithy, crafts jewelry, sells from a village-center stall southwest of the sacred maple. Mind: artistic, creative. Habit: checks Leo's gear before he heads out the door. Vol 1 use: market, feast help. Limit: no advanced artisan work yet; calls Ethan for expert read on metal properties.
+
 ## Social Structure (Refined)
 
 Tight-knit community, everyone knows everyone. Skill-based respect system (not class-based yet). Common roles: farmers, fisherfolk, blacksmith, carpenter, tailor, herb gatherers, village teacher.
