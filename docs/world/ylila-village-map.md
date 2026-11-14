@@ -25,7 +25,7 @@ Ylila is not just a village. It is a training ground disguised as ordinary life.
 Orientation:
 
 * North / Northeast → Forest / Gathering Zone
-* East → Great Lake
+* East → Lake Merma
 * West → Crafting Zone / Plains
 * South → Road to Ember
 * Center → Village Core
@@ -58,26 +58,30 @@ Description: clustered homes, family-centered living.
 
 Function: emotional grounding, identity formation.
 
-Key Homes:
+Key Homes (placements locked):
 
-* Orange's Home → recovery, cooking (Marie)
-* Amy's Home → blade + food preparation
-* Leo's Home → crafting influence
-* Lyra's Home → stealth + bow mastery
+* Orange's Home → recovery, cooking (Marie). Near the farm, southeast storage close by.
+* Amy's Home → blade + food preparation. East lakeside on Lake Merma, by Steve's dock.
+* Leo's Home → crafting influence. Near center, by the southwest smithy.
+* Lyra's Home → stealth + bow mastery. North border treehouse + outpost; Joseph (apprentice) two houses east.
 
 ---
 
 ## 3. VILLAGE CENTER (CORE HUB)
 
-Description: great sacred maple tree at the middle, open gathering space.
+Description: great sacred maple tree at the middle, open gathering space. The Great Maple (locked): 300 years old, massive wide base; no stone around it — short grass only, spreading exactly as wide as the leaf canopy reaches.
 
 Structures:
 
 ✔ Chief Edward's residence (Tank-Bard)
 ✔ Small Adventurer's Guild
+✔ Teresa's Inn (2 rooms, near the guild hut, Team Carrot base)
 ✔ Village Well (east side)
 ✔ Marie's Food Stall (southeast)
+✔ Nathaly's market stall (southwest of the maple)
 ✔ Tool Shops (north side)
+
+Outlying placements (locked): Small School on the west border (Sopia). Storage barns + Ben's house northwest. Bunny south border. Elder Ruel southeast.
 
 Function: coordination, community interaction, decision-making hub.
 
@@ -113,7 +117,7 @@ Key Users: Lyra, Silk Arroway.
 
 ## 6. CRAFTING ZONE
 
-Location: West → Blacksmith (Leo's family). North → Carpentry + Tailoring (Arroway family).
+Location: Southwest → Blacksmith (Ethan's smithy, Wardensmith family). North → Carpentry + Tailoring (Arroway family).
 
 Description: workshops and toolmaking areas.
 
@@ -125,9 +129,9 @@ Key Users: Leo (engineering mindset), Ethan (blacksmith), Nathaly (design).
 
 ## 7. WATER ZONE
 
-Location: river flows from north forest → east lake.
+Location: Blueberry River flows from north forest → Lake Merma in the east.
 
-Description: fishing area, docking space, recreational use. Near Amy's home.
+Description: fishing area, docking space, recreational use. Steve's east lakeside dock (main deck, doubles as events/feast space), near Amy's home. Naomi dances here at events.
 
 Function: precision training, patience, controlled movement.
 
@@ -204,9 +208,9 @@ Ylila is not weak. It is quiet, disciplined, prepared.
 
 ## SURROUNDINGS — REGION MAP (FINAL LOCK)
 
-NORTH — Forest → Mountains: immediately north is Forest Edge, far north the Mountain Range. Natural system: mountains drain water, rivers flow Mountains → Forest → Great Lake. Creates natural irrigation, fertile farmland, believable ecosystem.
+NORTH — Forest → Mountains: immediately north is Forest Edge, far north the Mountain Range. Natural system: mountains drain water, rivers flow Mountains → Forest → Lake Merma. Creates natural irrigation, fertile farmland, believable ecosystem.
 
-EAST — Great Lake (~40x Ylila): fishing (Amy's family), water supply, calm emotional scenes. Also a natural boundary and future expansion zone.
+EAST — Lake Merma (~40x Ylila): fishing (Amy's family), water supply, calm emotional scenes. Also a natural boundary and future expansion zone.
 
 SOUTH — Road to Ember: dirt road, grasslands, rolling hills, leads to Ember City. Trade route, danger route, invasion path (VERY IMPORTANT).
 
