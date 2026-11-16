@@ -2,7 +2,7 @@
 
 ![Greg full body](greg-solo-v1.jpg)
 
-Partner of [Leonard Leo Wardensmith](../leo-wardensmith.md). Protective, adaptive, synergizes with armor. Color: green (locked).
+Partner of [Leonard Leo Shieldsmith](../leo-shieldsmith.md). Protective, adaptive, synergizes with armor. Color: green (locked).
 
 ## SLIME DESIGN RULE (LOCKED)
 

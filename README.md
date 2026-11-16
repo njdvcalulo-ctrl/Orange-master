@@ -21,10 +21,10 @@ Current group portrait is v2. Amy matches her lakeside solo: brown hair, jolly, 
 Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 
 - [Orange Oathkeeper, 12, Jan 19](docs/characters/orange/orange-oathkeeper.md) — healer-support, short sword (Serra-trained basics, Pairo direction), with [Nochi](docs/characters/orange/nochi/nochi.md)
-- [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — Fighter (Tank path, Warden-track), hammer-only (wooden training sword first), with [Greg](docs/characters/leo/greg/greg.md)
+- [Leonard Leo Shieldsmith, 13, Nov 7](docs/characters/leo/leo-shieldsmith.md) — Fighter (Tank path, Knight-track), hammer-only (wooden training sword first), with [Greg](docs/characters/leo/greg/greg.md)
 - [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — Fighter (Sword path, Sword Dancer-track), with [Octo](docs/characters/amy/octo/octo.md)
 - [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin, named from lyre; father plays lyre), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
-- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage, 35, offensive carry) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor). Details live in [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md). Xavier: Ember Eyes gated heat-sense, Caldora posting, slow-burn with Eli not official, gated hammer-drop, calm calculator. Eli, 152 looks 27: ice assassin, Frozen Arrow gated 10 heads, amulet stealth, Hezek quest, sheath on belt back.
+- [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Paladin of the Dawn), arrived Chapter 4 with Xavier (swordmage, 35, offensive carry) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor). Details live in [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md). Xavier: Ember Eyes gated heat-sense, Caldora posting, slow-burn with Eli not official, gated hammer-drop, calm calculator. Eli, 152 looks 27: ice assassin, Frozen Arrow gated 10 heads, amulet stealth, Hezek quest, sheath on belt back.
 
 Solo home portraits:
 
@@ -58,16 +58,16 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [Orange Oathkeeper](docs/characters/orange/orange-oathkeeper.md)
   - [John Oathkeeper](docs/characters/john/john-oathkeeper.md)
   - [Marie Oathkeeper](docs/characters/marie/marie-oathkeeper.md)
-  - [Serra — Verdant Paladin](docs/characters/serra/serra.md)
+  - [Serra — Paladin of the Dawn](docs/characters/serra/serra.md)
   - [Mentors of Ylila (hub: Edward, Xavier, Eli)](docs/characters/mentors/mentors.md)
-  - [Leonard Leo Wardensmith](docs/characters/leo/leo-wardensmith.md)
+  - [Leonard Leo Shieldsmith](docs/characters/leo/leo-shieldsmith.md)
   - [Lyra Arroway](docs/characters/lyra/lyra-arroway.md)
   - [Amethyst "Amy" Ironheart](docs/characters/amy/amy-ironheart.md)
   - [Nochi — Orange's slime](docs/characters/orange/nochi/nochi.md)
   - [Crow — Lyra's slime](docs/characters/lyra/crow/crow.md)
   - [Greg — Leo's slime](docs/characters/leo/greg/greg.md)
   - [Octo — Amy's slime](docs/characters/amy/octo/octo.md)
-- Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet), innkeeper Teresa (57, widow, 2 rooms, Team Mango-Tango base), Ethan Wardensmith (38, blacksmith), Nathaly Wardensmith (33, artisan), Steve Ironheart (38, fishing lead), Naomi Ironheart (34, fisherfolk/dancer), Vincent Arroway (36, carpenter), Silk Arroway (34, tailor/forager), Ben (52, barn keeper), Bunny (24, herb gatherer) and Elder Ruel (67, retired guild attendant). Vol 1 villagers complete.
+- Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet), innkeeper Teresa (57, widow, 2 rooms, Team Mango-Tango base), Ethan Shieldsmith (38, blacksmith), Nathaly Shieldsmith (33, artisan), Steve Ironheart (38, fishing lead), Naomi Ironheart (34, fisherfolk/dancer), Vincent Arroway (36, carpenter), Silk Arroway (34, tailor/forager), Ben (52, barn keeper), Bunny (24, herb gatherer) and Elder Ruel (67, retired guild attendant). Vol 1 villagers complete.
 - Village norms (copper-first): mango juice 2, adobo 5–6, kakanin 3, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Vincent carpentry rates and full maker list locked in Village System. Silver for surplus and guild pay.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
 - [Project Dashboard](dashboard.html) (open in browser, no server needed)
@@ -86,7 +86,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Without Ylila, Orange will eventually break.
 - Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey slimes are not current; Ylila's Slime King happens to be blue after restoration, but kingship is any-color rare tier. SAS slimes stay bonded partners, never tamed summons.
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly. Ylila registers base classes only.
-- Leo starts Fighter and earns Warden; Warden is never a base class.
+- Leo starts Fighter and earns Knight; Knight is never a base class.
 - Orange has affinity but still requires practice. His hybrid name stays unassigned and distinct from Serra.
 - Early game: everyone starts simple before specializing.
 - Balance is player-driven through finite points, never forced penalties: high STR never auto-slows casting, high DEX never auto-cuts durability.

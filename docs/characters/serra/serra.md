@@ -1,4 +1,4 @@
-# Serra — The Wild Healer / Verdant Paladin
+# Serra — The Wild Healer / Paladin of the Dawn
 
 ![Serra full body](serra-solo-v1.jpg)
 
@@ -8,7 +8,7 @@ Role: Mentor / Combat Instructor / Decision Enforcer. Archetype: Unorthodox Mast
 
 ## Class
 
-Verdant Paladin: frontline-capable healer, buffer, efficient combatant. Sustained presence, not burst.
+Paladin of the Dawn: frontline-capable healer, buffer, efficient combatant. Sustained presence, not burst. (Verdant Paladin archived.)
 
 Personality: direct, blunt, observant, practical. Values results, corrects immediately.
 

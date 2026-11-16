@@ -6,27 +6,27 @@ Volume 1 cap (locked): base classes only. Everyone starts simple — Fighter, Ar
 
 ## Locked team paths
 
-- Leo: Fighter → Defender → Warden → Guardian → Titan. Titan is a future title, not a starting class. Tank subpath. Shield first, control over power.
+- Leo: Fighter → Knight (defense type) → Guardian → Titan. Titan is a future title, not a starting class. Tank subpath. Shield first, control over power.
 - Amy: Fighter (blade) + Dancer influence → Sword Dancer (signature, locked). Formal Dancer Path lists Blade Dancer — Amy's Sword Dancer is her named hybrid at that same tier, built from positioning (father) + movement (mother) + precision (cooking). Future branches (Blade Waltz, Crimson Dance) stay optional.
 - Lyra: Archer → Sniper → Eagle Eye → Starpiercer. Scout and battlefield controller first, titles later.
-- Orange: Healer (Support → Hybrid future). Servant-leader anchor: sustain, amplify, harmonize. His hybrid must stay distinct from Serra's frontline Verdant Paladin — Orange enables, Serra endures. Priest/Bishop/Saint and Battle Priest/Paladin/Radiant Guardian exist as world paths, but Orange's exact hybrid name stays unassigned until his cooking-support identity earns it.
+- Orange: Healer (Support → Hybrid future). Servant-leader anchor: sustain, amplify, harmonize. His hybrid must stay distinct from Serra's frontline Paladin of the Dawn — Orange enables, Serra endures. Priest/Bishop/Saint and Battle Priest/Paladin/Radiant Guardian exist as world paths, but Orange's exact hybrid name stays unassigned until his cooking-support identity earns it.
 
 ## Mentors (rare hybrids, locked)
 
-- Serra: Verdant Paladin — rare frontline healer-buffer, sustained presence not burst. Mentor-only tier.
-- Edward: Tank-Bard — leadership plus morale stabilization. Bard line (Bard → Songweaver → War Chanter → Soul Conductor) applies to his bard half; his tank half follows the Defender line.
+- Serra: Paladin of the Dawn — rare frontline healer-buffer, sustained presence not burst. Mentor-only tier. (Verdant Paladin archived.)
+- Edward: Tank-Bard — leadership plus morale stabilization. Bard line (Bard → Minstrel → Maestro) applies to his bard half; his tank half follows the Knight line.
 
 ## World paths (reference, not Volume 1 power)
 
-- Physical: Fighter → Warrior → Knight → Royal Knight / Sword Saint (rare).
-- Tank: Fighter → Defender → Warden → Guardian → Bulwark / Titan.
-- Heavy: Fighter → Crusher → Vanguard → Warbringer.
-- Speed: Scout → Ranger → Assassin → Ghost → Phantom.
-- Magic: Mage → Elementalist → Archmage → Grand Arcanist, plus Fire/Ice/Lightning specializations.
-- Hybrid magic: Mage → Battle Mage → Spellblade → Sage Knight → Arcane Champion.
+- Physical: Fighter → Warrior → Swordmaster → Royal Knight / Sword Saint (rare). (Knight belongs to the tank line now; no duplicate.)
+- Tank: Fighter → Knight (defense type) → Guardian → Titan. (Bulwark archived.)
+- Heavy: Fighter → Brawler → Berserker → Warlord. (Crusher, Vanguard, Warbringer archived.)
+- Speed: Scout → Hunter → Ranger → Assassin → Shadow. (Ghost, Phantom archived.)
+- Magic: Mage → Elementalist → Archmage → Sage (rare), plus Fire/Ice/Lightning specializations. (Grand Arcanist archived.)
+- Hybrid magic: Mage → Battle Mage → Spellblade → Rune Knight (rare). (Sage Knight, Arcane Champion archived. Xavier stays a swordmage in prose; his formal class stays unregistered.)
 - Support: Healer → Priest → Bishop → Saint.
-- Performance: Bard line (above); Dancer → Blade Dancer → Spirit Dancer → Celestial Performer.
-- Craft and life: Blacksmith → Weaponsmith → Master Smith → Runeforger (Ethan). Farmer → Cultivator → Land Keeper → Verdant Master (John is Cultivator stage). Carpenter, tailor, fisher, cook, merchant lines exist as real classes with respect, not background flavor.
+- Performance: Bard → Minstrel → Maestro (rare); Dancer → Blade Dancer → Prima (rare). (Songweaver, War Chanter, Soul Conductor, Spirit Dancer, Celestial Performer archived.)
+- Craft and life: Blacksmith → Weaponsmith → Master Smith → Runesmith (Ethan). Farmer → Cultivator → Land Keeper → Verdant Master (John is Cultivator stage). Carpenter, tailor, fisher, merchant lines exist as real classes with respect, not background flavor. Cook → Chef → Master Chef (Marie owns Chef).
 - Tamer/Summoner lines exist and synergize with monsters — but SAS slimes are bonded partners, not tamed summons. Different system, different rules.
 
 ## Acquisition and limits
@@ -39,7 +39,7 @@ Future expansion (confirmed, not Volume 1): subclasses, class awakening, dual-cl
 
 Limits (locked): one primary class to start. True multi-classing is rare, difficult, requires discipline. No instant mastery, no free switching, no skipped progression.
 
-Correction to the pasted draft: Warden is NOT a base class. Base entries are Fighter, Archer, Mage, Healer (plus Scout as entry to the speed line). Leo starts Fighter and earns Warden later — he does not start as Warden.
+Correction to the pasted draft: Knight is NOT a base class. Base entries are Fighter, Archer, Mage, Healer (plus Scout as entry to the speed line). Leo starts Fighter and earns Knight later — he does not start as Knight.
 
 A class affects stat growth bias (which stats grow efficiently), skill availability (what unlocks), and combat role (frontline, support, ranged, control). Hybrid skills blend logically — a fighter-mage blend earns something like Flame Blade (STR + INT), not two separate kits stapled together.
 
@@ -48,7 +48,7 @@ Orange note: affinity is not a pass. He has healer affinity, but every step stil
 ## Current assignments (Volume 1)
 
 - Orange: Healer (early), Support → Hybrid future.
-- Leo: Fighter (early tank lean), path to Defender → Warden → Guardian → Titan.
+- Leo: Fighter (early tank lean), path to Knight (defense) → Guardian → Titan.
 - Lyra: Archer, precision and ranging.
 - Amy: Developing Swordsman (Fighter base), path to Sword Dancer.
 
@@ -61,7 +61,7 @@ Orange note: affinity is not a pass. He has healer affinity, but every step stil
 
 ## Expanded world reference (late-world only, not Volume 1 power)
 
-- Element specs: Fire Mage → Flamecaster → Infernal Sage; Ice Mage → Frostbinder → Absolute Zero; Lightning Mage → Stormcaller → Thunderlord.
-- Healer hybrid: Healer → Battle Priest → Paladin → Radiant Guardian. Orange's exact hybrid name stays unassigned and stays distinct from Serra's Verdant Paladin.
-- Tamer: Tamer → Beast Handler → Beast Master → Primal Sovereign. Summoner: Summoner → Spirit Caller → Gatekeeper → World Binder. SAS slimes stay bonded partners, never tamed summons.
+- Element specs: Fire Mage → Pyromancer; Ice Mage → Cryomancer; Lightning Mage → Stormcaller. (Flamecaster, Frostbinder, Absolute Zero, Thunderlord, Infernal Sage archived as boss-tier titles, not classes.)
+- Healer hybrid: Healer → Battle Priest → Paladin → Radiant Guardian. Orange's exact hybrid name stays unassigned and stays distinct from Serra's Paladin of the Dawn.
+- Tamer: Tamer → Handler → Beast Master → Beast Lord. Summoner: Summoner → Conjurer → Warlock (rare). (Primal Sovereign, Spirit Caller, Gatekeeper, World Binder archived.) SAS slimes stay bonded partners, never tamed summons.
 - Volume 1 stays base classes only. Ylila outpost registers base classes; evolved-tier exams happen at a full guild.

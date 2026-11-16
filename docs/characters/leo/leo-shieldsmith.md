@@ -1,4 +1,4 @@
-# Leonard Leo Wardensmith — Tank / Frontline Anchor
+# Leonard Leo Shieldsmith — Tank / Frontline Anchor
 
 ![Leo at 13, home](leo-age13-home-v1.jpg)
 
@@ -14,7 +14,7 @@ Partner slime: [Greg](greg/greg.md).
 
 Bold, straightforward, dependable, quietly intelligent. Appears simple, observant and adaptive.
 
-Family: Ethan Wardensmith (blacksmith, structure/durability/function). Nathaly Wardensmith (artisan, form/balance/harmony).
+Family: Ethan Shieldsmith (blacksmith, structure/durability/function). Nathaly Shieldsmith (artisan, form/balance/harmony).
 
 Passive: Innovative Mind — improves equipment use, adapts tools. Hidden: function + design synergy. "This could work better…"
 
@@ -64,7 +64,7 @@ Signature: plants foot, lowers center, tightens shield. Once set — intends to 
 
 ## Final Rework — Engineer Tank Path (Locked)
 
-True identity: Tank → Warden → Juggernaut Engineer. Not just a tank.
+True identity: Tank → Knight → Juggernaut Engineer. Not just a tank.
 
 Hidden trait (NEW): observant, practical, mechanically curious. Early: notices how shields absorb impact, experiments with grip and angles, adjusts stance naturally. Later: full engineer mindset.
 
@@ -84,7 +84,7 @@ Character depth: stubborn tank, secretly smart, builder and creator.
 
 Basic info: Leonard "Titan", age 13, Human. Fighter (Tank Path, early noob stage).
 
-Class direction: starts wooden training sword + shield, drops the sword for the hammer (bashing build, hammer-only locked), focuses on defense. Future path: Fighter → Defender → Warden → Guardian → Titan ("Titan" becomes both title and identity later).
+Class direction: starts wooden training sword + shield, drops the sword for the hammer (bashing build, hammer-only locked), focuses on defense. Future path: Fighter → Knight (defense type) → Guardian → Titan ("Titan" becomes both title and identity later).
 
 Combat identity: shield = main weapon. Style: absorb → hold → counter.
 
@@ -94,7 +94,7 @@ Contrast role: Leo keeps the shield and becomes immovable (stability); Amy drops
 
 ## Profile (Locked)
 
-Basic info: Leonard “Leo” Wardensmith, age 13, Human. Fighter (Tank path, Warden-track). (Note: "Titan" is his future title, not surname. "Ironheart" was an early surname — discarded.)
+Basic info: Leonard “Leo” Shieldsmith, age 13, Human. Fighter (Tank path, Knight-track). (Note: "Titan" is his future title, not surname. "Ironheart" and "Wardensmith" were early surnames — discarded.)
 
 Personality: steady and reliable. Hidden: feels responsible to protect others even at his own cost. Quirk: complains about his slime… but secretly cares about it.
 

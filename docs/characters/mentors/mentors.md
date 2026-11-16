@@ -2,7 +2,7 @@
 
 Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Ellinore (“Eli”) hold locked facts below until the author's notes arrive.
 
-- [Serra — Verdant Paladin](../serra/serra.md) — full file. Frontline healer-buffer, combat instructor, triage. Mentor-only tier.
+- [Serra — Paladin of the Dawn](../serra/serra.md) — full file. Frontline healer-buffer, combat instructor, triage. Mentor-only tier.
 
 ## Mentor Rules (Locked)
 
@@ -14,7 +14,7 @@ Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Ell
 
 - Role: village chief, leader plus mood stabilizer. Servant leader Orange looks up to. Public servant first.
 - Appearance: 48, muscular tank build, full beard. Warm strong voice. Line: "Better days are up ahead, so we march on."
-- Class: Tank-Bard. Bard half follows Bard to Songweaver to War Chanter to Soul Conductor. Tank half follows the Defender line.
+- Class: Tank-Bard. Bard half follows Bard to Minstrel to Maestro. Tank half follows the Knight line.
 - Signature: performs on lute or simple guitar equivalent. Sings past heroes, warnings disguised as songs, encouragement. "Strong hands build the land — but steady hearts keep it standing."
 - Barrier: shield plant plus hymn barrier, lyrical channeling spell. Costs mana, can be interrupted. Endures through focus on stability and protection. Needs Serra buff overlap — Team Mango-Tango is great through overlaps, not solo power.
 - Mentor effect on team: sustained presence, longer morale boost.

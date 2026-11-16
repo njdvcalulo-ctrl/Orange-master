@@ -117,7 +117,7 @@ Key Users: Lyra, Silk Arroway.
 
 ## 6. CRAFTING ZONE
 
-Location: Southwest → Blacksmith (Ethan's smithy, Wardensmith family). North → Carpentry + Tailoring (Arroway family).
+Location: Southwest → Blacksmith (Ethan's smithy, Shieldsmith family). North → Carpentry + Tailoring (Arroway family).
 
 Description: workshops and toolmaking areas.
 
