@@ -4,7 +4,7 @@
 
 A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial Filipino-style barrio village of ~150 people on Lake Merma, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember's old leadership — Ember Castle keeps its name under new leadership. Volume 3 is proposed as fields first.
 
-Ylila identity (locked): Great Mango at the center (~300 years, still fruiting), rice in the field only, lake fish, mango juice 2 copper, Marie's adobo and kakanin from her spice plot, garden beds with kamatis bucket. Mango hymn doubles as Ylila hymn. Carrot archived.
+Ylila identity (locked): Great Mango at the center (~300 years, still fruiting), rice in the field only, lake fish, mango juice 2 copper, Marie's adobo and kakanin from her spice plot, garden beds with kamatis bucket. Mango hymn doubles as Ylila hymn. Mango Fiestival yearly: one prep day plus one festival day. Carrot archived.
 
 Scope: Early World, Volumes 1–2 complete in draft, Volume 3 Fields First proposed.
 
@@ -21,7 +21,7 @@ Current group portrait is v2. Amy matches her lakeside solo: brown hair, jolly, 
 Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 
 - [Orange Oathkeeper, 12, Jan 19](docs/characters/orange/orange-oathkeeper.md) — healer-support, short sword (Serra-trained basics, Pairo direction), with [Nochi](docs/characters/orange/nochi/nochi.md)
-- [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — Fighter (Tank path, Warden-track), with [Greg](docs/characters/leo/greg/greg.md)
+- [Leonard Leo Wardensmith, 13, Nov 7](docs/characters/leo/leo-wardensmith.md) — Fighter (Tank path, Warden-track), hammer-only (wooden training sword first), with [Greg](docs/characters/leo/greg/greg.md)
 - [Amethyst Amy Ironheart, 12, Oct 8](docs/characters/amy/amy-ironheart.md) — Fighter (Sword path, Sword Dancer-track), with [Octo](docs/characters/amy/octo/octo.md)
 - [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin, named from lyre; father plays lyre), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
 - [Serra, the Wild Healer](docs/characters/serra/serra.md) — mentor (Verdant Paladin), arrived Chapter 4 with Xavier (swordmage, 35, offensive carry) and Ellinore “Eli” (dark-elf archer, Lyra’s same-path mentor). Details live in [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md). Xavier: Ember Eyes gated heat-sense, Caldora posting, slow-burn with Eli not official, gated hammer-drop, calm calculator. Eli, 152 looks 27: ice assassin, Frozen Arrow gated 10 heads, amulet stealth, Hezek quest, sheath on belt back.
@@ -68,7 +68,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [Greg — Leo's slime](docs/characters/leo/greg/greg.md)
   - [Octo — Amy's slime](docs/characters/amy/octo/octo.md)
 - Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet), innkeeper Teresa (57, widow, 2 rooms, Team Mango-Tango base), Ethan Wardensmith (38, blacksmith), Nathaly Wardensmith (33, artisan), Steve Ironheart (38, fishing lead), Naomi Ironheart (34, fisherfolk/dancer), Vincent Arroway (36, carpenter), Silk Arroway (34, tailor/forager), Ben (52, barn keeper), Bunny (24, herb gatherer) and Elder Ruel (67, retired guild attendant). Vol 1 villagers complete.
-- Village norms (copper-first): mango juice 2, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Silver for surplus and guild pay.
+- Village norms (copper-first): mango juice 2, adobo 5–6, kakanin 3, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Vincent carpentry rates and full maker list locked in Village System. Silver for surplus and guild pay.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
 - [Project Dashboard](dashboard.html) (open in browser, no server needed)
 - [Image Compare v2 — old vs new](image-compare-v2.html) (open in browser; verdicts tracked in [todo/image-corrections.md](todo/image-corrections.md))

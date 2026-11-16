@@ -4,9 +4,9 @@
 |---|---|---|
 | Characters | Main 4 + Serra locked | Xavier, Eli, villagers |
 | Livelihood | Farm, fish, craft, trade | Who does what, calendar |
-| Traditions | Mango juice, adobo, kakanin, meals | Festivals, rites, mango meaning, mango hymn |
+| Traditions | Mango juice, adobo, kakanin, meals, Mango Fiestival | Rites, mango meaning |
 | History | Edward + John hut + mango shade founding | Founding, past threats |
-| Products | Rice, fish, mango juice 2c, adobo, kakanin, furry pigs, rock-bird chicken | Maker list, surplus, prices |
+| Products | Rice, fish, mango juice 2c, adobo 5-6, kakanin 3, furry pigs, rock-bird chicken, Vincent carpentry rates | Off-village surplus rules |
 | Leadership | Chief Edward only | Council, rules, succession |
 | Animals | Rabbits, furry pigs, rock-bird chicken, lake frogs, gecko, fish, bees | Goblins, zones, tame rules |
 

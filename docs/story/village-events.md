@@ -2,11 +2,15 @@
 
 Design rule: not just fun scenes. Each event deepens relationships, reveals traits, quietly shows systems (skills, stamina, mana, roles), and reinforces what's worth protecting.
 
-## 1. Harvest Festival (CORE EVENT)
+## 1. Mango Fiestival (CORE EVENT, LOCKED)
 
-Theme: gratitude, abundance, community.
+Theme: gratitude, abundance, community. Small village, kept short: one prep day, one festival day.
 
-Key moments: lantern lighting at sunset, shared feast (Marie shines here), kids running around freely, storytelling from elders.
+Prep day: communal harvest under the Great Mango. Short ladder teams, kids carry, slimes ferry light baskets. Marie teaches kakanin wrapping. Ethan and Vincent run a repair corner. Evening: lake rest, Naomi dock dance, Steve blade-tricks.
+
+Festival day: midday lake rest, afternoon process fair, evening feast plus hymn. Mango juice toast, adobo pots, grilled lake fish. Edward leads the mango hymn on lute; Serra says a short care-first blessing before eating. Orange's team runs the rest station: water, shade seats, first-aid triage.
+
+Slime welcome beat (LOCKED): the Slime King attends as honored guest at the lake edge. Edward names slimes as family and friends of Ylila. The King answers with presence and a pulse of light only. No speeches.
 
 Highlight: Chief Edward performs as a bard — lute or simple guitar equivalent. Sings stories of past heroes, warnings disguised as songs, encouragement. Defines Edward's dual role: leader + mood stabilizer (future combat tie-in). Tone: not constant poetry, but intentional lines. "Strong hands build the land— but steady hearts keep it standing."
 

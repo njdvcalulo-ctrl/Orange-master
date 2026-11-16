@@ -22,7 +22,7 @@ Passive: Innovative Mind — improves equipment use, adapts tools. Hidden: funct
 
 Frontline tank, space controller, damage absorber. Holds attention, protects allies, creates safe zones.
 
-Defense strong, stable, excellent shield. Offense early weak: overcommits, openings, slow recovery. Shifts long sword → short weapon (hammer/short sword), shield bash only, chooses control over power.
+Defense strong, stable, excellent shield. Offense early weak: overcommits, openings, slow recovery. Starts on a wooden training sword, then drops it for the hammer (bashing build, hammer-only locked), shield bash only, chooses control over power.
 
 > Leo does not win by damage. He wins by endurance + control.
 
@@ -84,7 +84,7 @@ Character depth: stubborn tank, secretly smart, builder and creator.
 
 Basic info: Leonard "Titan", age 13, Human. Fighter (Tank Path, early noob stage).
 
-Class direction: starts sword + shield, gradually drops sword usage, focuses on defense. Future path: Fighter → Defender → Warden → Guardian → Titan ("Titan" becomes both title and identity later). Hammer as sub-weapon later.
+Class direction: starts wooden training sword + shield, drops the sword for the hammer (bashing build, hammer-only locked), focuses on defense. Future path: Fighter → Defender → Warden → Guardian → Titan ("Titan" becomes both title and identity later).
 
 Combat identity: shield = main weapon. Style: absorb → hold → counter.
 
@@ -102,7 +102,7 @@ Motivation: become someone who can stand at the front and never fall.
 
 Relationships: Orange — best friend, rival in effort, trusts him with his life. Lyra — finds her attractive but doesn't understand why he gets awkward.
 
-Abilities: high endurance, shield defense; future growth into crowd control, shockwave attacks, Guardian path. (Hammer stays a later sub-weapon per engineer rework.)
+Abilities: high endurance, shield defense; future growth into crowd control, shockwave attacks, Guardian path. (Hammer-only locked; wooden training sword dropped.)
 
 Role: frontline defense, damage absorber, anchor of formation.
 
