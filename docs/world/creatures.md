@@ -4,7 +4,7 @@ Design rule: not random creatures — an ecosystem with purpose. Each creature f
 
 ## Horned Rabbits
 
-Horns: dull (non-lethal). Behavior: crop eaters (especially carrots), skittish but stubborn. Use: primary meat source, can be domesticated. Tone: more nuisance than threat — early game perfect.
+Horns: dull (non-lethal). Behavior: crop eaters (especially kamatis and leafy greens), skittish but stubborn. Use: primary meat source, can be domesticated. Tone: more nuisance than threat — early game perfect.
 
 ## Tree Gecko (NEW)
 
@@ -22,11 +22,15 @@ Electric bee honey → stamina drink. Gecko oil → climbing aid. Rabbit leather
 
 ## Forest Edge Resources
 
-Herbs (healing, crafting). Wood types: rubber trees, coconut trees, hardwood (construction), fruit-bearing trees. Small non-hostile animals.
+Herbs (healing, crafting). Wood types: rubber trees, coconut trees, hardwood (construction), fruit-bearing trees including mango, banana, papaya. Small non-hostile animals. Great Mango at center is sacred and not for timber.
 
 ## More Low-Tier Fauna
 
-Rock Birds: hardened head and back, soft underbelly. Can be domesticated. Poultry meat source.
+Rock Birds: hardened head and back, soft underbelly. Can be domesticated. Poultry meat source. Ylila local chicken for adobo.
+
+Furry Pigs (NEW barn animal): round, soft-haired, docile. Barn-kept by Ben. Pork source for festive adobo. Kid-friendly, not a combat threat.
+
+Lake Frogs: estuarine frogs around Lake Merma. Seasonal catch with Steve and Amy. Frog-adobo option in rainy season.
 
 Electric Bees: fast, aggressive if provoked, mild shock attacks. Good for early danger and teamwork lessons. (Larvae eaten by tree geckos; honey → future stamina drink.)
 

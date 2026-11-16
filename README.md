@@ -2,7 +2,9 @@
 
 ![Cover — Team Orange, Volume 1 Ylila](docs/images/cover-team-v1.jpg)
 
-A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial farming village of ~150 people on Lake Merma, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember and the rise of Carrot Castle. Volume 3 is proposed as fields first.
+A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial Filipino-style barrio village of ~150 people on Lake Merma, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember's old leadership — Ember Castle keeps its name under new leadership. Volume 3 is proposed as fields first.
+
+Ylila identity (locked): Great Mango at the center (~300 years, still fruiting), rice fields, lake fish, mango juice 2 copper, Marie's adobo and kakanin, split garden beds with kamatis bucket. Mango hymn doubles as Ylila hymn. Carrot archived.
 
 Scope: Early World, Volumes 1–2 complete in draft, Volume 3 Fields First proposed.
 
@@ -10,7 +12,7 @@ Scope: Early World, Volumes 1–2 complete in draft, Volume 3 Fields First propo
 
 > This is a story where strength is built, not given… and where even the strongest still need others.
 
-![Team Orange under the sacred maple](docs/images/team-orange-maple-v2.jpg)
+![Team Orange under the sacred mango](docs/images/team-orange-mango-v2.jpg)
 
 Current group portrait is v2. Amy matches her lakeside solo: brown hair, jolly, standing with the group, purple fish hairpin.
 
@@ -31,7 +33,7 @@ Solo home portraits:
 ![Amy at home](docs/images/amy-age12-home-v1.jpg)
 ![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
 
-Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Team colors stay fixed: Nochi orange, Greg green, Octo purple, Crow black. Tendencies are SAS-driven comfort and movement, never attack spells; black is shadow only, no dark magic. Kingship is rare tier, any color; Ylila's Slime King happens to be blue after restoration. Sacred tree in Ylila is a maple.
+Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Team colors stay fixed: Nochi orange, Greg green, Octo purple, Crow black. Tendencies are SAS-driven comfort and movement, never attack spells; black is shadow only, no dark magic. Kingship is rare tier, any color; Ylila's Slime King happens to be blue after restoration. Sacred tree in Ylila is a mango.
 
 ## Contents
 
@@ -65,8 +67,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [Crow — Lyra's slime](docs/characters/lyra/crow/crow.md)
   - [Greg — Leo's slime](docs/characters/leo/greg/greg.md)
   - [Octo — Amy's slime](docs/characters/amy/octo/octo.md)
-- Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet), innkeeper Teresa (57, widow, 2 rooms, Team Carrot base), Ethan Wardensmith (38, blacksmith), Nathaly Wardensmith (33, artisan), Steve Ironheart (38, fishing lead), Naomi Ironheart (34, fisherfolk/dancer), Vincent Arroway (36, carpenter), Silk Arroway (34, tailor/forager), Ben (52, barn keeper), Bunny (24, herb gatherer) and Elder Ruel (67, retired guild attendant). Vol 1 villagers complete.
-- Village norms (copper-first): juice 2, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Silver for surplus and guild pay.
+- Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet), innkeeper Teresa (57, widow, 2 rooms, Team Mango-Tango base), Ethan Wardensmith (38, blacksmith), Nathaly Wardensmith (33, artisan), Steve Ironheart (38, fishing lead), Naomi Ironheart (34, fisherfolk/dancer), Vincent Arroway (36, carpenter), Silk Arroway (34, tailor/forager), Ben (52, barn keeper), Bunny (24, herb gatherer) and Elder Ruel (67, retired guild attendant). Vol 1 villagers complete.
+- Village norms (copper-first): mango juice 2, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Silver for surplus and guild pay.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
 - [Project Dashboard](dashboard.html) (open in browser, no server needed)
 - [Image Compare v2 — old vs new](image-compare-v2.html) (open in browser; verdicts tracked in [todo/image-corrections.md](todo/image-corrections.md))
@@ -99,8 +101,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Orange's body path is gated: farm boy endurance first, self-healing tank mid, superhuman late, vessel endgame only.
 - Presentation is modest and age-appropriate: practical covered dress, no fan service framing in novel, comic, or anime.
 - Violence stays off-focus for people: enemy deaths happen off-frame or by implication; slimes incapacitate, never consume on the page.
-- Team Carrot Juice wins the Ember castle battle. Kids stay sidelined as present, supporting, witnessing. Orange lands no deciding blow.
-- Ember capital becomes Carrot City / Carrot Castle (CC) after conquest.
+- Team Mango-Tango wins the Ember castle battle. Kids stay sidelined as present, supporting, witnessing. Orange lands no deciding blow.
+- Ember Castle keeps its name after conquest — only leadership changes.
 - Grow plus Heal burns corruption. This is established in Chapters Ten and Eleven and enables the Dark Knight fall.
 - Mentors hold agency from Chapter 10 onward. They direct. Orange discovers within their frame.
 - Schooling is basic theory-only (reading, numbers, lore, magic theory). No kid casting. Family work is the real training: farm, forge, wood, lake.
@@ -112,9 +114,9 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 
 - Ylila becomes a mini fortress-city first. Log walls plus tended farmland.
 - Tended farmland acts as a work domain. It aids efficiency, recovery, and mastery while working. It grants no free stats.
-- John anchors Ylila. Orange stays mobile between Ylila and Carrot Castle.
+- John anchors Ylila. Orange stays mobile between Ylila and Ember Castle.
 - Guild outpost grows toward a fuller branch. Second classes stay exam-gated. More jobs exist for people and bonded slimes.
-- Carrot land-heal starts with survey. Orange, John, Slime King, and volunteers restore waterways and fields. Poison reads as symptom. True origin stays unknown.
+- Ember land-heal starts with survey. Orange, John, Slime King, and volunteers restore waterways and fields. Poison reads as symptom. True origin stays unknown.
 - Ember generals split. One surrenders to keep order. One flees with loyalists. Third stays unnamed.
 - Team stays 4 kids for now. No 5th hero yet. Distant schools, cults, guilds, and flight stay far-future notes only.
 

@@ -8,11 +8,13 @@ Population: ~150 people. Size: ~10–15 minutes to cross on foot. Radial layout:
 
 Village Center: Chief's House & Office (governance + "police"), small open market space, occasional merchant stalls, community gathering point. Chief = only formal authority + strongest fighter (early story). Villagers routinely travel out to sell surplus and return; strangers are rare, which is why Serra's team turned heads.
 
-The Inn (1 only, Teresa's): keeper Teresa, 57, widow, near mini guild hut. Two rooms only — Serra and Eli share the big room, Xavier takes the small one. Team Carrot stays here most of Volume 1. Cooks for sleep and dine-in guests, mostly travelers. Food from the barns, repairs from Vincent the carpenter. House specialty: carrot juice — minors never served alcohol, and the team drinks the same. Running gag: Edward asks "still no visitor aunt Teresa?" She answers "shut up!" Locked voice: "Wanna taste Ylila's carrot juice?"
+The Inn (1 only, Teresa's): keeper Teresa, 57, widow, near mini guild hut. Two rooms only — Serra and Eli share the big room, Xavier takes the small one. Team Mango-Tango stays here most of Volume 1. Cooks for sleep and dine-in guests, mostly travelers. Food from the barns, repairs from Vincent the carpenter. House specialty: mango juice from the Great Mango — minors never served alcohol, and the team drinks the same. Running gag: Edward asks "still no visitor aunt Teresa?" She answers "shut up!" Locked voice: "Wanna taste Ylila's mango juice?" Mango hymn sung here doubles as Ylila hymn.
 
 Mini Adventurer Hub (small guild outpost, not a full branch): quest board + appraisal desk (sometimes manned). Mostly pest control, herb gathering, delivery tasks. Where kids first see the adventurer system.
 
-Oathkeeper Farm: slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms.
+Oathkeeper Farm: slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms. Split beds: John and Orange grow rice plus seasonal gulay; Marie keeps a separate herb-and-spice plot.
+
+Marie Food Stall (southeast): adobo (local chicken / lake frog, seasonal), kakanin, mango juice. Herbs and spices from her plot. Bucket by the Oathkeeper door holds kamatis / seasonal veg, not carrots. Carrot archived.
 
 Lake Area: clean freshwater source (secondary to well/stream), fishing zone, calm scenic area. Coconut trees at the land's edge; lake fish farms alongside line fishing. Amy's house nearby — parents Steve & Naomi (fisherfolk; blade skills via filleting → combat influence, dance → movement).
 
@@ -32,7 +34,7 @@ Small School: one-room basic education (reading, numbers, village lore). Teacher
 
 Ethan Wardensmith, 38, southwest border smithy. Village blacksmith: farm and fishing tools by demand (repairs 5–10 copper plus materials; simple new tools 15–30 copper), light weapons later only. Father of Leo; his 5:30 am hammer on the anvil is the village wake-up call, and people appreciate it. Mind: innovative, persistent. Habit: smithy is made safe and clean before and after every use. Vol 1 use: repair, market. Limit: no advanced smithing yet; calls Vincent for wooden tool-handles. Locked voice: "If you feel like you are burning, hammered down again and again — maybe God is forging you." (First faint faith hint, stays subtle.)
 
-Nathaly Wardensmith, 33, lives and works at the southwest smithy. Artisan: jewelry and fine metalwork made on demand, mostly bought as gifts (simple pins 8–12 copper; finer pieces 20–40 copper). Amy's dad buys fish hairpins from her. Wife of Ethan, mother of Leo. Daily beat: helps at the smithy, crafts jewelry, sells from a village-center stall southwest of the sacred maple. Mind: artistic, creative. Habit: checks Leo's gear before he heads out the door. Vol 1 use: market, feast help. Limit: no advanced artisan work yet; calls Ethan for expert read on metal properties.
+Nathaly Wardensmith, 33, lives and works at the southwest smithy. Artisan: jewelry and fine metalwork made on demand, mostly bought as gifts (simple pins 8–12 copper; finer pieces 20–40 copper). Amy's dad buys fish hairpins from her. Wife of Ethan, mother of Leo. Daily beat: helps at the smithy, crafts jewelry, sells from a village-center stall southwest of the sacred mango. Mind: artistic, creative. Habit: checks Leo's gear before he heads out the door. Vol 1 use: market, feast help. Limit: no advanced artisan work yet; calls Ethan for expert read on metal properties.
 
 Steve Ironheart, 38, east lakeside dock on Lake Merma. Leader of the fishing group: catches and sells fish (fresh fish 3–6 copper), rents boats to rare visitors (boat ride 5–8 copper, full-day rental 10–15 copper), fishes for food, doubles as coast watcher. Father of Amy. Daily beat: fishing with the group, selling the catch. Mind: lively, jolly. Habit: blade tricks before slicing fish for customers — Naomi claps along. Vol 1 use: market, feast help. Limit: cannot build boats or repair dock and nets; calls Vincent for woodwork and Silk for net string-work. Locked voice: "Get you fresh fish!" / "Slice 'em and dice 'em!"
 
@@ -52,7 +54,7 @@ Elder Ruel, 67, southeast. Widower, retired guild attendant, now village elder: 
 
 Tight-knit community, everyone knows everyone. Skill-based respect system (not class-based yet). Common roles: farmers, fisherfolk, blacksmith, carpenter, tailor, herb gatherers, village teacher.
 
-Village norms (copper-first, fits Ylila): carrot juice 2 copper. Cooked meal 5–8 copper. Inn bed 8–12 copper a night, dinner extra. Simple repair 5–10 copper plus materials. Day labor 10–15 copper. Teacher kept by village share, about 60–80 copper a week plus meals. Most trade stays in copper. Silver appears for surplus sales and guild payouts.
+Village norms (copper-first, fits Ylila): mango juice 2 copper. Cooked meal 5–8 copper. Inn bed 8–12 copper a night, dinner extra. Simple repair 5–10 copper plus materials. Day labor 10–15 copper. Teacher kept by village share, about 60–80 copper a week plus meals. Most trade stays in copper. Silver appears for surplus sales and guild payouts.
 
 ## Combat Culture
 

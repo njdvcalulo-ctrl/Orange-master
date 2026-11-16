@@ -69,16 +69,16 @@ Key Homes (placements locked):
 
 ## 3. VILLAGE CENTER (CORE HUB)
 
-Description: great sacred maple tree at the middle, open gathering space. The Great Maple (locked): 300 years old, massive wide base; no stone around it — short grass only, spreading exactly as wide as the leaf canopy reaches.
+Description: great sacred mango tree at the middle, open gathering space. The Great Mango (locked): ~300 years old, still fruiting; trunk ~1.5 m thick, height ~20-30 m, canopy ~30-38 m wide; no stone around it — short grass only, spreading exactly as wide as the leaf canopy reaches. Founding shade: John and Edward rested under it and decided to build community around its shade. Ylila hymn honors this shade.
 
 Structures:
 
 ✔ Chief Edward's residence (Tank-Bard)
 ✔ Small Adventurer's Guild
-✔ Teresa's Inn (2 rooms, near the guild hut, Team Carrot base)
+✔ Teresa's Inn (2 rooms, near the guild hut, Team Mango-Tango base)
 ✔ Village Well (east side)
 ✔ Marie's Food Stall (southeast)
-✔ Nathaly's market stall (southwest of the maple)
+✔ Nathaly's market stall (southwest of the mango)
 ✔ Tool Shops (north side)
 
 Outlying placements (locked): Small School on the west border (Sopia). Storage barns + Ben's house northwest. Bunny south border. Elder Ruel southeast.

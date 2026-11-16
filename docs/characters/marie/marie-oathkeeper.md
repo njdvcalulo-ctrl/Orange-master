@@ -57,9 +57,9 @@ Cannot follow Orange out. Prepares him to endure, cannot endure for him. Quiet w
 
 ## Signature Dish (Locked)
 
-Marie's carrot soup — really good tasting. Carrots come from her garden, which Orange cultured and John tends to once in a while.
+Marie's adobo — local chicken or lake frog, seasonal — plus kakanin. Herbs and spices come from her own plot, which Orange cultured and John tends to once in a while. Mango juice from the Great Mango on the side.
 
-Story functions: natural excuse for Orange's stamina, running joke among friends, emotional anchor (home = safety), symbol of nourishment, care, quiet strength. Subtle truth (NEVER explained directly): the soup is not magical — just slightly better from soil quality, care, and routine. Readers feel it without being told.
+Story functions: natural excuse for Orange's stamina, running joke among friends, emotional anchor (home = safety), symbol of nourishment, care, quiet strength. Subtle truth (NEVER explained directly): the meal is not magical — just slightly better from soil quality, care, and routine. Readers feel it without being told. Carrot soup archived.
 
 ## Signature Habit
 

@@ -43,9 +43,9 @@ Mid Stage — Slime Assist: sends small slime portions to allies for minor heali
 
 Advanced Stage — Replication Support: creates temporary support slimes that attach to teammates and supply buffs over time. The team becomes individually supported units.
 
-## Visual Growth — Carrot Evolution (Locked)
+## Visual Growth — Mango Evolution (Locked)
 
-Starts translucent, slowly turns orange-tinted. Diet-based evolution tied to Orange's cooking. The slime literally becomes "his."
+Starts translucent, slowly turns orange-tinted. Diet-based evolution tied to Orange's cooking — mango, kakanin, adobo rice meals. The slime literally becomes "his." Carrot evolution archived.
 
 ## Nature Sync Mode (Locked, Late-Game)
 
