@@ -12,9 +12,9 @@ The Inn (1 only, Teresa's): keeper Teresa, 57, widow, near mini guild hut. Two r
 
 Mini Adventurer Hub (small guild outpost, not a full branch): quest board + appraisal desk (sometimes manned). Mostly pest control, herb gathering, delivery tasks. Where kids first see the adventurer system.
 
-Oathkeeper Farm: slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms. Split beds: John and Orange grow rice plus seasonal gulay; Marie keeps a separate herb-and-spice plot.
+Oathkeeper Farm: slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms. Rice grows in the field only. Garden beds hold seasonal veg; Marie keeps a separate spice plot.
 
-Marie Food Stall (southeast): adobo (local chicken / lake frog, seasonal), kakanin, mango juice. Herbs and spices from her plot. Bucket by the Oathkeeper door holds kamatis / seasonal veg, not carrots. Carrot archived.
+Marie Food Stall (southeast): adobo (local chicken / lake frog, seasonal), kakanin, mango juice. Spices from her plot. Bucket by the Oathkeeper door holds kamatis / seasonal veg, not carrots. Carrot archived.
 
 Lake Area: clean freshwater source (secondary to well/stream), fishing zone, calm scenic area. Coconut trees at the land's edge; lake fish farms alongside line fishing. Amy's house nearby — parents Steve & Naomi (fisherfolk; blade skills via filleting → combat influence, dance → movement).
 
