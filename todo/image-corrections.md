@@ -58,6 +58,10 @@ Eli: ears in, holder repositioned to arrowhead-touch at full draw.
 Edward: warrior-chief (armor over clothes), not just bard. Cover: kids' hair colors match solos, mentors match solos.
 Map: labels to fix (Ylila, Merma, Forest Edge, no double school) — pending author word.
 
+## Round 3 promotions (author-approved, check after)
+
+Promoted: leo/amy/lyra/serra/john/marie-solo-v2, orange-age12-home-v3 (README link updated), nochi/greg/octo/crow-solo-v2, xavier/eli/edward-solo-v1 (new files), cover-team-v2 (README link updated). Old v1 files kept as archive. Orange-4, John-3, Cover-3 approved by author, verification open.
+
 ## Promotion rule
 
 A verdict of "promote" means: rename into its proper folder as the next version

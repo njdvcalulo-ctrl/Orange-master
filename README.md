@@ -1,6 +1,6 @@
 # Orange: The Healer's Resolve — Story Bible
 
-![Cover — Team Orange, Volume 1 Ylila](docs/images/cover-team-v1.jpg)
+![Cover — Team Orange, Volume 1 Ylila](docs/images/cover-team-v2.jpg)
 
 A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial Filipino-style barrio village of ~150 people on Lake Merma, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember's old leadership — Ember Castle keeps its name under new leadership. Volume 3 is proposed as fields first.
 
@@ -28,7 +28,7 @@ Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 
 Solo home portraits:
 
-![Orange at home](docs/images/orange-age12-home-v2.jpg)
+![Orange at home](docs/images/orange-age12-home-v3.jpg)
 ![Leo at home](docs/images/leo-age13-home-v1.jpg)
 ![Amy at home](docs/images/amy-age12-home-v1.jpg)
 ![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
