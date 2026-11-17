@@ -72,6 +72,14 @@ Kids perform: Leo → strength show (fails → funny), Amy → sword tricks, Lyr
 
 Parents happy the kids are safe, angry they crossed the field border. Village reads Orange as talented and gifted with a future. Chief undecided: one officer pushes profit, others propose a village clinic with Orange working it, militia recruitment, or keeping him in the fields as a child. Decision delayed, return celebrated. Patrol mission sent to the slime area to confirm slimes stay past the fields. Seeds Edward's letter to Serra.
 
+## Season Calendar (LOCKED)
+
+Dry season: mango harvest weeks → Mango Fiestival (one prep day, one feast day). Wet season: rice planting and tending, John leads, Orange on field duty. Cool Amihan season: kamatis and leafy beds, lake fishing peak, repair season for Ethan and Vincent. Every season runs the core loop: strain outside → return → rest/meal → process → go out.
+
+## Rites (LOCKED)
+
+Shade rest: workers and travelers pause under the Great Mango at noon; gratitude allowed, never required. Pre-harvest thanks: Marie leads a short thanks before the first mango picked. Hymn night: mango hymn sung at the inn whenever a team returns safely; Team Mango-Tango drinks mango juice with the kids. Serra's feast blessing is the only formal one.
+
 ## Why This System Works
 
 Builds attachment, shows growth naturally, introduces systems without info-dump, gives pacing breaks.

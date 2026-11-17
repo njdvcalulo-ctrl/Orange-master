@@ -64,3 +64,7 @@ No instant evolution. No overpowering independence. No mass production.
 Normal view: slimes are weak creatures. SAS reality: rare, misunderstood, valuable. Future hooks: scholars study them, guilds regulate them, enemies attempt capture — and fail to replicate without the bond.
 
 Design principle: alive, responsive, unique per character.
+
+## 8. Taming means monster-bonded (LOCKED)
+
+A monster that lives and works with people is tame. Requirements: time together, consistent feeding, shared survival or combat, care with intent. Reads as master-pet (provider plus loyal follower); runs as partnership (neither dominates). Food did the taming — Orange's meals carry the growth signal, and every meal carried care. Same food without the bond is just food, which is why enemies cannot copy it. Human-like beings are befriended, never tamed. Grow is never a taming spell — it only makes training cleaner.

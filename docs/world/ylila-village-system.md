@@ -69,6 +69,18 @@ No standing army. Only Chief = real combat authority. Kids play-fight, imitate a
 5. Evening Wind-Down: families regroup, market interactions, repairs, cooking.
 6. Night (VERY IMPORTANT FOR ORANGE): quiet village. Secrets happen here — healing practice, reflection, emotional processing. Orange's hidden growth zone.
 
+## Past Threats (LOCKED)
+
+One golem probe from the west, repelled by Edward alone — the village never saw the fight, only the fixed fence. One brutal dry season, founding of the shared barns and Ben's logbook habit. Small, past, human-scale. Nothing that upstages Volume 1.
+
+## Council (LOCKED)
+
+Chief Edward + Elder Ruel + one head per working family: John for farms, Steve for lake, Ethan for forge, Vincent for wood, Teresa for inn. Decisions by talk until all agree or Edward calls it. No votes shown on page. Succession by deed, not blood — Edward names no heir; the council confirms whoever the village already follows. Future hook, never Volume 1.
+
+## Surplus Runs (LOCKED)
+
+Monthly surplus run to Ember market: John + Ben + one guard (Edward early, later a guild escort quest the kids observe, never lead). 10% of surplus price returns as village share for school, barn, and dock upkeep. Silver appears only here and in guild payouts. All Ylila prices stay copper. The run is monthly, not weekly, because the south road is dangerous.
+
 ## Why This Works
 
 Consistency (scenes always make sense), emotional weight (readers feel the stakes), contrast (peaceful village vs future war), natural progression (play → real combat).

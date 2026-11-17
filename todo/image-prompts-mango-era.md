@@ -187,6 +187,11 @@ Lyra, Orange-4, Serra, Xavier, Eli, Edward files). Front: Orange glow hands
 + Crow (pouch NO arrows). Back: Serra, Xavier (NO glasses), Eli (face shown,
 ears hidden), Edward (armor + lute). Mango tree backdrop.
 
+MANUSCRIPT ELI-3 (holder on arc): The dagger holder is a small clip ON
+the UPPER ARC (limb) of the bow. The ice dagger clips flat along the limb;
+at full draw its edge touches the arrowhead nocked on the string. Belt
+kunai stays as backup. Ears hidden, everything else = Eli-2.
+
 MANUSCRIPT MAP-2 (NEXT): Labeled Ylila map. Great Mango center + walkway
 ring, 4 roads (south widest), 2 ring roads + lanes, BOTH rings lined with
 ~40 small villager houses (bahay-kubo, mixed roofs). Named: chief house,
@@ -195,3 +200,10 @@ Oathkeeper west, storage/barn west-north of Oathkeeper, smithy SW,
 treehouse north, dock EAST on Lake Merma, rice outer ring, forest N,
 Ember road S, golem plains W. Labels: Ylila, Lake Merma, Forest Edge.
 Compass rose. NO double school, NO wrong names.
+
+MANUSCRIPT FAMILY-1 (Oathkeeper family picture): Warm family portrait —
+John (same face as John-4), Marie (same face, mango hairpin), Orange
+(same face, NO freckles) with plain orange Nochi blob on his shoulder.
+Posed together before THE wooden farmhouse and THE split garden (TOMATOES
+bucket, LEMONGRASS/CHILI/CALAMANSI pots), rice field to the side. NO
+carrots. Mood: the home worth protecting.

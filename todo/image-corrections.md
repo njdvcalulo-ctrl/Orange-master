@@ -62,6 +62,13 @@ Map: labels to fix (Ylila, Merma, Forest Edge, no double school) — pending aut
 
 Promoted: leo/amy/lyra/serra/john/marie-solo-v2, orange-age12-home-v3 (README link updated), nochi/greg/octo/crow-solo-v2, xavier/eli/edward-solo-v1 (new files), cover-team-v2 (README link updated). Old v1 files kept as archive. Orange-4, John-3, Cover-3 approved by author, verification open.
 
+## Round 4 (author verdicts)
+
+New rule: solo pics get NO backgrounds going forward. Orange-5 and John-4
+are clean cream-backdrop solos. Cover-4 unmasked Eli, ears hidden. Canon
+gaps locked: calendar, rites, council, surplus, past threats, taming.
+Housing filled: 50 families placed by zone with slot order.
+
 ## Promotion rule
 
 A verdict of "promote" means: rename into its proper folder as the next version

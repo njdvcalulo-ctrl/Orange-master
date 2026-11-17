@@ -69,6 +69,8 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
   - [Octo — Amy's slime](docs/characters/amy/octo/octo.md)
 - Villagers (locked in [Village System](docs/world/ylila-village-system.md)): Teacher Sopia (27, west border, strictly sweet), innkeeper Teresa (57, widow, 2 rooms, Team Mango-Tango base), Ethan Shieldsmith (38, blacksmith), Nathaly Shieldsmith (33, artisan), Steve Ironheart (38, fishing lead), Naomi Ironheart (34, fisherfolk/dancer), Vincent Arroway (36, carpenter), Silk Arroway (34, tailor/forager), Ben (52, barn keeper), Bunny (24, herb gatherer) and Elder Ruel (67, retired guild attendant). Vol 1 villagers complete.
 - Village norms (copper-first): mango juice 2, adobo 5–6, kakanin 3, meal 5–8, bed 8–12, repair 5–10, labor 10–15, teacher 60–80 a week plus meals. Vincent carpentry rates and full maker list locked in Village System. Silver for surplus and guild pay.
+- Council: Chief Edward + Elder Ruel + one head per working family; succession by deed, not blood.
+- Portrait rule: solo pics on plain backdrop, no backgrounds. Season calendar, rites, surplus runs, and past threats locked in Village System and Events.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
 - [Project Dashboard](dashboard.html) (open in browser, no server needed)
 - [Image Compare v2 — old vs new](image-compare-v2.html) (open in browser; verdicts tracked in [todo/image-corrections.md](todo/image-corrections.md))
@@ -84,7 +86,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Healing is not victory — it is responsibility.
 - Priority is not fairness.
 - Without Ylila, Orange will eventually break.
-- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey slimes are not current; Ylila's Slime King happens to be blue after restoration, but kingship is any-color rare tier. SAS slimes stay bonded partners, never tamed summons.
+- Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey slimes are not current; Ylila's Slime King happens to be blue after restoration, but kingship is any-color rare tier. SAS slimes stay bonded partners, never tamed summons. Taming means monster-bonded (time, food, shared survival, care); Grow is never a taming spell.
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly. Ylila registers base classes only.
 - Leo starts Fighter and earns Knight; Knight is never a base class.
 - Orange has affinity but still requires practice. His hybrid name stays unassigned and distinct from Serra.
