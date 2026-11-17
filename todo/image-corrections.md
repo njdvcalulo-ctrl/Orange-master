@@ -31,7 +31,7 @@ HOUSE RULE REVISED (author correction): Orange's house is ONE of the first house
 | 9 | Greg | greg-solo-v1.jpg | call_01a1d5a8d2ee759d9808e057f542919c.jpg | adjust | Same SLIME RULE: drop the shield, spherical blob. SOFT Greg locked (not grumpy). Engulf is funny-sloppy, locked in greg.md. Spot LOCKED: Leo's shoulder, never clinging. |
 | 10 | Octo | octo-solo-v1.jpg | call_01a1d5a8d586743caaa1d2457910711a.jpg | adjust | Same revised SLIME RULE: drop the wooden swords, pure spherical blob. Spot LOCKED: on Amy's bag. |
 | 11 | Crow | crow-solo-v1.jpg | call_01a1d5a8d8ad7777bc62398bca704954.jpg | adjust | Same revised SLIME RULE: pure spherical blob. Plain Crow NOW (README home solo plain is the keeper); midnight-sky starry version = LATER-STORY form, not now (story beat, not a rule break). Bigger pouch for Crow per Lyra verdict 4. Spot LOCKED: carried by Lyra. |
-| 12 | Map | ylila-map-labeled-v1.jpg | call_01a1d5aaee3174a285251c6c6567752d.jpg | adjust | VERDICT 11 (MAP): full layout brief drafted from all villager locks — see below. Lake Merma east. Compass rose to verify on redraw. RESOLVED + APPROVED: dock faces EAST, lakeside on Lake Merma. Canon locked in ylila-village-map.md (placements, Merma, Blueberry River). Brief: center Great Mango + Chief house/office, market (Nathaly stall SW of mango), Teresa inn (Team Mango-Tango base) + mini guild hub, well east; Oathkeeper farm just outside cluster with SE storage; smithy SW; school west border; treehouse/outpost north + Joseph 2 houses east; barn + Ben NW; Bunny south; Ruel SE; Marie stall SE; tool shops north; training clearing near edge; forest edge N/NE; dirt road south to Ember; farmland outer ring; golem plains west. |
+| 12 | Map | ylila-map-labeled-v1.jpg | call_01a1d5aaee3174a285251c6c6567752d.jpg | adjust | VERDICT 11 (MAP): full layout brief drafted from all villager locks — see below. Lake Merma east. Compass rose to verify on redraw. RESOLVED + APPROVED: dock faces EAST, lakeside on Lake Merma. Canon locked in ylila-village-map.md (placements, Merma, Blueberry River). Brief: center Great Mango + walkway ring, 4 main roads (south widest), 2 ring roads + lanes, both rings lined with villager houses (~40 households, bahay-kubo style); Chief house/office, market (Nathaly stall SW of mango), Teresa inn (Team Mango-Tango base) + mini guild hub, well east, school center-west inner ring; Oathkeeper residence west with western fields; storage + barn + Ben west, north of Oathkeeper; smithy SW; treehouse/outpost north + Joseph 2 houses east; Bunny south; Ruel SE; Marie stall SE; tool shops north; training clearing near edge; forest edge N/NE; dirt road south to Ember; farmland outer ring; golem plains west. |
 | 13 | Cover | cover-team-v1.jpg | call_01a1d5aaf4797004a0f5eb8007fc3f86.jpg | adjust | VERDICT 12 (COVER): action cover, CAST ONLY, no enemies. Front: 4 kids in updated looks — Orange faint glowing hands + open Nochi bag, Leo hammer + anvil-boss shield + Greg on shoulder, Amy short sword + Octo on bag, Lyra bow drawn + Crow carried. Back row: Serra (no leaf, sword), Xavier (no flames), Eli (hooded, holder bow), Edward (lute + plain shield). Backdrop: Ylila + Great Mango. CARROT ARCHIVED — cover brief stays, tree swaps to mango on redraw. |
 
 ## Brand-new (no old version) — status: awaiting verdict
@@ -41,6 +41,22 @@ HOUSE RULE REVISED (author correction): Orange's house is ONE of the first house
 | Xavier | call_01a1d5a77f4b7503b6d648b1ddbb137d.jpg | adjust | VERDICT 8: handsome approved, keep. FLAMES OFF the sword in the portrait — he is humble, not a show-off. Fire stays canon for combat only (mentors.md: fire-empowered strikes), resting portrait stays clean. Caldora bamboo backdrop fits his posting. |
 | Eli | call_01a1d5a782d470929f8e1d7927197530.jpg | adjust | VERDICT 9: black cloak with silver-grey lining LOCKED, face LOCKED. Ears: hide them fully under the hood (no poking out). Armor modest and dark — approved. Bow: black mithril look approved. Bow is NOT finished: add the dagger holder for her frost arrow — a unique fitting ON the bow (per mentors.md Frozen Arrow seats a dagger in the bow holder), made of a visibly different material, NOT black mithril. Dagger fix: remove the long curved blade AND the short sword — she carries ONE small kunai-sized dagger in its thermal sheath on the belt, back side (per mentors.md ice-ogre daggers + Frozen Arrow holder). Rest locked. |
 | Edward | call_01a1d5a786697153865dec2b2b1a4b16.jpg | adjust | VERDICT 10: big strong man approved. Lute needs a STRAP — currently seats badly. Shield WITHOUT emblem approved. Background: the Great Mango — fix to locked description (~300 yrs, 20-30 m tall, 30-38 m canopy, short-grass ring, no stone), now in ylila-village-map.md. Rest locked. |
+
+## Round 2 verdicts (author, mango era)
+
+Global: medieval only — no modern tools, no English celeb names on signs. Freckles OFF Amy, Lyra, Marie. Marie's garden + house is the TEMPLATE replicated to Orange and John. Herbs are tanglad, pandan, sili, calamansi; tags English-only (TOMATOES etc).
+Orange: face keeper (MC). Redo bg to Marie template, zero carrots.
+Leo: Leo + Greg keepers. Bg to rustic medieval smithy.
+Amy: keeper, cute. Medieval jacket, ONE fish patch, fish HAIRPIN (not earrings), plain house-front dock, no feast, no bunting.
+Lyra: medieval outfit, hooded patchwork camo cloak (mom-made, early phase), open pouch keep, ONE ladder.
+Serra: younger (40s, healing-youth skin). Pendant keep.
+John: face per old handsome solo, 40s not 50s. House = Orange house.
+Marie: template. English-only tags, house kept as standard. Mango hairpin keep.
+Slimes: Octo/Nochi bubbles out, Greg drool out, Crow keeper.
+Xavier: goatee out. Cover: no glasses.
+Eli: ears in, holder repositioned to arrowhead-touch at full draw.
+Edward: warrior-chief (armor over clothes), not just bard. Cover: kids' hair colors match solos, mentors match solos.
+Map: labels to fix (Ylila, Merma, Forest Edge, no double school) — pending author word.
 
 ## Promotion rule
 

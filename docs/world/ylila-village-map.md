@@ -38,11 +38,11 @@ Natural progression: Safety → Responsibility → Risk → Survival.
 
 ## 1. FARMING ZONE (PRIMARY LIFE RING)
 
-Location: surrounds most of the village (except the eastern lake side).
+Location: rings most of the village (except the eastern lake side), worked from lanes running west and south.
 
 Description: difficult soil, requires constant effort, improved through John Oathkeeper's mastery.
 
-Key Detail: farmer's storage area → southeast of village center, near the Oathkeeper residence.
+Key Detail: Oathkeeper residence → west of village center, toward the farm belt and western fields. Farmer's storage area + barns + Ben's house → also west, a bit north of the Oathkeeper residence.
 
 Function: food production, stamina building, discipline training.
 
@@ -80,8 +80,11 @@ Structures:
 ✔ Marie's Food Stall (southeast)
 ✔ Nathaly's market stall (southwest of the mango)
 ✔ Tool Shops (north side)
+✔ Small School (center-west inner ring, main building)
 
-Outlying placements (locked): Small School on the west border (Sopia). Storage barns + Ben's house northwest. Bunny south border. Elder Ruel southeast.
+Streets (locked): walkway ring at the canopy edge, then 4 main roads — north, east, south, west. South road widest (trade plus danger). Ring roads circle the center: 2 rings fit all 50 families plus public buildings; a 3rd ring may open if space runs out. Both rings are lined with villager houses (bahay-kubo style, some nipa some metal roofs, ~40 unnamed households); named homes sit near their work zones. Lanes run out to the farm belt, lake, forest, and forge.
+
+Outlying placements (locked): Sopia's house on the west border. Oathkeeper residence west. Storage barns + Ben's house west, a bit north of the Oathkeeper residence. Bunny south border. Elder Ruel southeast.
 
 Function: coordination, community interaction, decision-making hub.
 
@@ -163,7 +166,7 @@ Function: real combat, fear response, decision-making under pressure.
 
 ## 10. ROAD TO EMBER
 
-Location: south of the village. Dirt road, main connection to the outside world.
+Location: south of the village. Dirt road, main connection to the outside world. Widest of the four main roads.
 
 Usage: trade (rare surplus), travel to Ember.
 

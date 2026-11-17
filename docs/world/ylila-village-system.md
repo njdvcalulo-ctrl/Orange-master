@@ -12,7 +12,7 @@ The Inn (1 only, Teresa's): keeper Teresa, 57, widow, near mini guild hut. Two r
 
 Mini Adventurer Hub (small guild outpost, not a full branch): quest board + appraisal desk (sometimes manned). Mostly pest control, herb gathering, delivery tasks. Where kids first see the adventurer system.
 
-Oathkeeper Farm: slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms. Rice grows in the field only. Garden beds hold seasonal veg; Marie keeps a separate spice plot.
+Oathkeeper Farm: west side, slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms. Rice grows in the field only. Garden beds hold seasonal veg; Marie keeps a separate spice plot.
 
 Marie Food Stall (southeast): adobo (local chicken / lake frog, seasonal), kakanin, mango juice. Spices from her plot. Bucket by the Oathkeeper door holds kamatis / seasonal veg, not carrots. Carrot archived.
 
@@ -28,7 +28,7 @@ Forest Edge: herbs, wood, small animals. Mild danger: low-tier monsters (later i
 
 Storage Barns: shared grain reserves. Symbol of village survival.
 
-Small School: one-room basic education (reading, numbers, village lore). Teacher Sopia, 27, lives west border. Migrant who came to teach small villages and stayed for Ylila's vibe, culture, and tradition. Strictly sweet. Places new flowers on her vase each school day. Kids greet her in passing. Sits with village leaders. Teaches basics only, calls Edward for help beyond that. Locked voice: "dont forget the basics." Fades as mentors take over training early in the story.
+Small School (center-west inner ring, main building): one-room basic education (reading, numbers, village lore). Teacher Sopia, 27, lives west border. Migrant who came to teach small villages and stayed for Ylila's vibe, culture, and tradition. Strictly sweet. Places new flowers on her vase each school day. Kids greet her in passing. Sits with village leaders. Teaches basics only, calls Edward for help beyond that. Locked voice: "dont forget the basics." Fades as mentors take over training early in the story.
 
 ## Villagers — Locked (Vol 1)
 
@@ -44,7 +44,7 @@ Vincent Arroway (Vince), 36, north border treehouse and outpost. Village carpent
 
 Silk Arroway, 34, north border treehouse and outpost. Tailor and forager: makes and mends clothes for most of the village (patches 3–5 copper; simple new garments 15–30 copper), forages food, herbs, and fabric dyes (small bundles 4–8 copper). Mother of Lyra. Daily beat: tailoring and foraging, co-manages the north outpost with Vincent. Mind: quiet, clear, concise, perfectionist. Habit: same shared beat — the two northern hammers syncing now and then. Vol 1 use: clothes and foraged goods; styles stay limited by scarce sources and little trade. Limit: no metalwork — calls Ethan and Nathaly for fittings and fasteners.
 
-Ben, 52, northwest, one house from the barn. Barn keeper: storage and livestock — keeps the shared grain reserves, arranges stocks and feed, manages the village animals (kept from the village share, about 50–70 copper a week plus meals). John's storage partner: most of John's farm goods pass through his hands. Daily beat: counting reserves and logging every sack in his logbook. Mind: organized. Habit: counts and logs reserves, twice. Vol 1 use: barn. Limit: barn stuff only; asks John what to do with John's products. Locked voice: "A good harvest means little if you don't know how to keep it." Orange calls him Uncle Ben.
+Ben, 52, west side, one house from the barn, a bit north of Orange's house. Barn keeper: storage and livestock — keeps the shared grain reserves, arranges stocks and feed, manages the village animals (kept from the village share, about 50–70 copper a week plus meals). John's storage partner: most of John's farm goods pass through his hands. Daily beat: counting reserves and logging every sack in his logbook. Mind: organized. Habit: counts and logs reserves, twice. Vol 1 use: barn. Limit: barn stuff only; asks John what to do with John's products. Locked voice: "A good harvest means little if you don't know how to keep it." Orange calls him Uncle Ben.
 
 Bunny, 24, south border. Herb gatherer: assists Silk with foraging and Marie with food ingredients (small herb bundles 4–8 copper; Silk and Marie post little guild gathering quests for her). No family in the village — seen with Marie and Silk as their assistant. Daily beat: gathering herbs, drawing each find, logging it in her rabbit-leather notebook. Mind: bubbly. Habit: hops around happily and giggles when she spots a rare herb. Vol 1 use: market, feast help, patrol guide, barn herb stores. Limit: herbs only; calls Chief Edward for anything with teeth — monsters and pests. Locked voice: "Every little leaf has a secret. I wonder what this one does!"
 
