@@ -2,7 +2,7 @@
 
 Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Ellinore (“Eli”) hold locked facts below until the author's notes arrive.
 
-- [Serra — Paladin of the Dawn](../serra/serra.md) — full file. Frontline healer-buffer, combat instructor, triage. Mentor-only tier.
+- [Serra Valebloom — Paladin of the Dawn](../serra/serra.md) — full file. Frontline healer-buffer, Verdant doctrine, combat instructor, triage. Mentor-only tier.
 
 ## Mentor Rules (Locked)
 
@@ -10,7 +10,7 @@ Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Ell
 - Mentor generation wins the future Ember castle battle with little kid help. The kids witness, support, and inherit next. Handoff, not rescue.
 - Mentors benefit from Orange's cooking too and notice something about him. Benefit first, bond second.
 
-## Edward — Chief of Ylila, Tank-Bard (Locked Facts)
+## Edward Hearthsong — Chief of Ylila, Tank-Bard (Locked Facts)
 
 - Role: village chief, leader plus mood stabilizer. Servant leader Orange looks up to. Public servant first.
 - Appearance: 48, muscular tank build, full beard. Warm strong voice. Line: "Better days are up ahead, so we march on."
@@ -33,7 +33,7 @@ Four mentors guide Team Orange. Serra holds a full file. Edward, Xavier, and Ell
 
 AWAITING AUTHOR NOTES: combat record, Vol 3 hold specifics (what breaks if he falls silent).
 
-## Xavier — Mentor (Locked Facts)
+## Xavier Arclight, the Arcblade Savant — Mentor (Locked Facts)
 
 - Mentor effect: sharper mana control, longer endurance. Loyal through benefit first, then through bond — would risk his life to keep eating Orange's cooking.
 - Future gift: dimensional bag for Octo, letting slime arms hold up to 8 weapons.
@@ -48,7 +48,7 @@ AWAITING AUTHOR NOTES: combat record, Vol 3 hold specifics (what breaks if he fa
 - Romance (author-provided, slow burn): blooming mutual understanding with Ellinore, not official. They like each other, both know it, neither has said it. Eli waits for Xavier to ask before dating. Xavier is strong and genius in levels, weak in romance strategy. Show only awkward hints in Volumes 1–2. Official only in Volume 3 proposed, as part of a Team Mango-Tango sit-down on how to move forward. Settlement place undecided — Ember Castle stay NOT locked.
 - Ember Eyes (author-provided, gated): fire-magic perception that reads heat. Lets him spot Ellinore even in stealth. Active skill only — costs focus and mana, needs a cast window, can be interrupted, beaten by range, cover, or strong mana control. Not passive, not always on. Eli still vanishes against anyone else. This is why their link reads as earned, not auto-see.
 - Caldora posting (author-provided): before Edward's letter, Team Mango-Tango was out in Caldora — a city-castle built into a steep mountainside, dug further into the mountain, famous for its dungeon caves. One cave was a hydra's nest.
-- Monster fondness: likes scary monsters, fascinated by keeping them as pets. Wants a hydra as a pet. First sight of SAS intrigued him more toward that dream. Fascination only — no hydra tamed or owned in Volumes 1–2. First-mentor SAS hook reserved as Volume 3 future, NOT locked.
+- Monster fondness: likes scary monsters, fascinated by keeping them as pets. Wants a hydra as a pet. First sight of SAS intrigued him more toward that dream. Fascination only — no hydra tamed in Volumes 1–2; the farmed adult was left behind in its cave, uncontained — the party took an egg instead. First-mentor SAS hook reserved as Volume 3 future, NOT locked.
 - Taming interest (future hook, NOT locked): fascinated by the taming system he has yet to unlock, as if needing more arsenal. SAS deepened it. Leave the unlock story for Volume 3 if author approves.
 - Habits: calm and composed in emergencies. Math genius — calculates tendencies and patterns fast. Can read like a one-man army if he stops letting others support him. Usual beat: finishes lower-tier fights under 5 minutes with ease when toying with the enemy, then looks at pals, smiles, and thanks them for support even after doing almost all the work. Genuine thanks, no bragging, no sarcasm. Running gag: Edward asks "do you really even need us here?" Xavier answers "of course I do," casual and honest.
 - Limits (locked): fast wins apply to lower-tier or depleted foes only, never to steal kids' growth fights. Needs team overlap vs peer threats — Serra buffs, Eli cover, Edward ground. Every big cast still costs mana, has a window, can be interrupted, then cools down.
@@ -56,10 +56,10 @@ AWAITING AUTHOR NOTES: combat record, Vol 3 hold specifics (what breaks if he fa
 - Past hook (hearsay only, NOT locked): like much of his history, possible dark past lives as rumor only. He does not talk about it. What shows is present use: power for good. Keep vague until Volume 3 sit-down if author wants it.
 - Sword skill (author-provided, gated): elemental sword enchantment into a hammer drop. When cutting and direct elements fail, he jumps, activates mid-air, binds nearby rock/thick metal to the blade so the sword grows huge on the way down, then hammers from above. Needs loose stone/metal nearby, costs heavy mana, leaves him exposed mid-air, can be dodged or broken before landing, then cools down. No conjured mass from nothing.
 
-## Ellinore (“Eli”) — Mentor (Locked Facts)
+## Ellinore Nightveil (“Eli”), the Veil of the North — Mentor (Locked Facts)
 
 - Mentor effect: sharper perception, faster recovery.
-- Identity: dark elf, skilled archer and stealth assassin. "You won't see what hit you." Former Serra party member; introduced when the team meets up as training starts (Chapter 4–5).
+- Identity: dark elf, skilled archer and stealth assassin. "You won't see what hit you." Former Serra party member; introduced when the team meets up as training starts (Chapter 4–5). Dark-elf rule: harsh-environment survivors — adaptive, stealth-oriented, efficient hunters. Nature-aware, not nature-trusting; distinct from forest elves if any appear.
 - Trains Lyra as archer (locked pairing). Same path as Lyra. Lyra optimizes SAS in a way Ellinore does not have — perfect mentor-mentee by style. (Note: "Elinore" spelling retired — Ellinore locked. Nickname Eli.)
 - Xavier dynamic (author-provided, slow burn): master of stealth who prefers not to be noticed. Xavier's Ember Eyes still finds her heat. It perks her up — irritates her and she likes being noticed by him. Mutual understanding, not official. She waits for him to ask. Awkward hints only in Volumes 1–2.
 - Basics: 152 years old, looks 27 in human years. 5'5". Light stealth-assassin build. Half-inch longer pointed ears. Light grey skin. Visual ref light drow ranger, modest version.

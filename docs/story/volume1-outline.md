@@ -37,7 +37,7 @@ Strategic identity: not strongest, not richest — but efficient, cooperative, a
 
 Ember MUST delay full invasion, or it looks stupid. Internal problems:
 
-1. Civil Unrest — protests ongoing, guards stretched.
+1. Civil Unrest — citizens are starving. Rally groups march demanding food for all. Protests ongoing, guards stretched.
 2. Resource Allocation Conflict — food vs war supply, Darius vs Rizla tension.
 3. Internal Power Balance — generals not fully aligned, each with own agenda.
 4. King's Restraint — he doesn't rush. "A rushed war loses before it begins."
@@ -58,7 +58,7 @@ Mentor rule: mentors do not win the battle — they enable the next generation. 
 
 ## End of Volume 1
 
-Scene feel: walls standing, people tired, village changed. Tone is not "We won" but "We're ready." Final image: Orange on the wall, looking outward — not inward anymore.
+Scene feel: walls standing, people tired, village changed. Tone is not "We won" but "We're ready." Final image: Orange on the wall with his mentors beside him, looking outward — not inward anymore. Mentors and Orange close Volume 1 together; the kids defend, the adults anchor.
 
 ---
 
@@ -84,4 +84,14 @@ Leadership split (proposed): John anchors Ylila as Cultivator-stage Land Keeper 
 
 Ember land-heal (proposed): investigate first, then enact. Orange, John, Slime King, and volunteer slimes survey waterways and dry/poisoned fields. Slime King history gives the hint, not the full answer. Grow plus Heal burns corruption the way Chapters Ten and Eleven burned it out of slimes: poisoned symptom recedes, land blooms where tended. True origin stays unknown for now — poison reads as symptom, corrupter identity held as mystery.
 
-Ember generals (proposed, not scrapped): keep them useful by splitting fates. One surrenders and helps keep order. One flees with loyalists and becomes a Volume 3 pressure source. The third stays unnamed and off-frame. This keeps the Ember Delay logic intact: the castle fell, the army did not vanish.
+Ember generals (locked): Rizla Viremont (Merchant Druid, economy), Valen Kyr (Arcane General, magic), Darius Volkr (Engineer General, materiel). Full builds in docs/characters/ember/. Fates: Darius surrenders and helps keep order — he respects the food leverage and earned strength. Rizla flees with loyalists and becomes a Volume 3 pressure source. Traitor question open: one of the three is tied to the corrupter — Valen the natural candidate on theme (control, mana, anomaly-hunting) — undecided, held mystery. This keeps the Ember Delay logic intact: the castle fell, the army did not vanish.
+
+## Chapter-to-Act Map, Volume 1 (Locked)
+
+- Act 1 Foundation: Ch 1 (dream + farm life), Ch 2 (healing dawn) + village-reaction aftermath (border incident).
+- Act 2 Disruption: Ch 3 (loud village), Ch 4 (Serra arrives), Ch 5 (First Limit), Ch 6 (Second Wind).
+- Act 3 Pressure: Ch 7 (first mission, goblin fight), Ch 8 (beats), Ch 13 (swords answer hunger).
+- Act 4 Defense: Ch 14 (hymn eve) + battle chapters unwritten — next writing work, continue numbering at Ch 15+.
+- Act 5 Resolution: unwritten — follows the battle chapters.
+
+Notes: Volume 2 drafts reuse chapter numbers 9–12 and 15–18, so numbering is volume-scoped until a renumber pass. "The Healer Who Had Everything" stays unassigned (possible in-world tale, not canon).

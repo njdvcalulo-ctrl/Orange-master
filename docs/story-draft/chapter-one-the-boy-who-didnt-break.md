@@ -103,13 +103,13 @@ That subtle resistance beneath the warmth. That invisible thread pulling everyth
 
 ---
 
-He tightened his grip and struck again, harder.
+He leaned into the work, breath short, palms burning against the worn wood.
 
-Pain flared across his palms.
+By mid-morning, two bright blisters stood out on his palms — honest work blisters, the kind every farm kid earns.
 
-Skin split.
+Orange stopped to look.
 
-A thin line of red surfaced.
+The burn was already easing. The tight skin softening, the throb draining away like water off leaves — too fast. Hours of soreness, gone while he watched.
 
 Orange froze.
 
@@ -117,27 +117,17 @@ Orange froze.
 
 Slowly, he lifted his hand.
 
-The cut was shallow, but fresh. Real.
+Not healed instantly.
 
-For a moment, it simply… existed.
+But *closing*.
 
-Then—
-
-it faded.
-
-Not vanished instantly.
-
-But *closed*.
-
-The blood slowed.
-The skin pulled itself together.
 The sting dulled into nothing.
 
 ---
 
 Orange stared at it, unmoving.
 
-"…I did that."
+"…That was faster than yesterday."
 
 It wasn't a question.
 

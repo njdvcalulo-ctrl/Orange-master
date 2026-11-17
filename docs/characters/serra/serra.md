@@ -1,4 +1,4 @@
-# Serra — The Wild Healer / Paladin of the Dawn
+# Serra Valebloom — Paladin of the Dawn
 
 ![Serra full body](serra-solo-v1.jpg)
 
@@ -8,11 +8,15 @@ Role: Mentor / Combat Instructor / Decision Enforcer. Archetype: Unorthodox Mast
 
 ## Class
 
-Paladin of the Dawn: frontline-capable healer, buffer, efficient combatant. Sustained presence, not burst. (Verdant Paladin archived.)
+Paladin of the Dawn: frontline-capable healer, buffer, efficient combatant. Sustained presence, not burst. Verdant doctrine: life-aligned mana — sustain, reinforce, stabilize. Verdant means life, growth, and restoration flow, not plant magic. (Visual ban stays: no leaf armor, no herbalist styling.) Stat bias: VIT to outlast, INT for healing power and pool, DEX for casting control. Low burst damage, no speed-fighter agility.
 
 Personality: direct, blunt, observant, practical. Values results, corrects immediately.
 
 Skills: controlled precise healing, Status Up to prevent collapse, minimal-movement survival combat. Veteran capacity: layers up to five buffs at once (Speed, Strength, Endurance, Clarity, Focus); stamina holds from near-unending training. Orange may reach this in later volumes.
+
+Signature skills (locked): Verdant Pulse (short-range multi-ally healing wave; reliable over strong); Rooted Guard (stance lock; less knockback, more resistance); Bloom Recovery (healing over time; stronger on resting targets); Life Link, advanced (shares damage and healing with one ally — carries triage weight); Verdant Surge, limited (brief vitality and recovery boost; fight-saving, never flashy).
+
+Limits (locked): no burst heal, low damage, overwhelmed by many targets, must choose priorities.
 
 ## Philosophy
 

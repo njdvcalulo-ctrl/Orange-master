@@ -9,6 +9,14 @@ Faith stays subtle and grateful. Modest outfits only. No Campfire-style goddess 
 
 > Strength is built, not given — and even the strongest still need others.
 
+## Viewpoint (Locked)
+
+Close third person on Orange, always. Readers learn what Orange learns, feel what he feels. No head-hopping into other characters. Other motives show through action and dialogue only.
+
+## Staging (Locked)
+
+Every scene stands somewhere on the map. Training → clearing near forest. Rest → lake or home. Danger → forest edge or road. In Ember, ask which district they are in. Ask it before writing the scene.
+
 ## Core loop
 
 Strain outside → return to Ylila → rest / meal → process → go out again.

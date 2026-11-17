@@ -26,6 +26,8 @@ Rules: iconic blob form. Semi-limb stretch is allowed. Never humanoid — except
 
 Slimes do NOT dominate users. They assist, adapt, learn. The user keeps full control; the slime enhances capability. Bond scale (locked): 1 Neutral (wild), 2 Tolerant (won't attack), 3 Friendly (follows), 4 Bonded (SAS assist begins), 5 Synchronized (advanced forms unlock). Bond grows through time together, shared combat, shared survival, and consistent feeding — for Orange's team, his cooking. Result: better response, faster adaptation, more complex behavior. As bond deepens, the slime understands what the user needs. Later stages may communicate and show personality. Speech caps at toddler level for bonded slimes; the King alone speaks with full intelligence.
 
+Travel placement (locked): Nochi rides in Orange's open bag. Greg rides Leo's shoulder. Octo rides Amy's bag in battle and travels in her arms when carried. Crow rides Lyra's open bag pouch, and hops the treetops beside Lyra when hiding or scouting. Otherwise bonded slimes hop alongside.
+
 Superseded from older Assist drafts: slimes do NOT consume the user's mana as fuel — they run on stored food energy with fatigue and cooldown limits. And Orange does have SAS — the most developed one (Nochi). Both points stay rejected.
 
 ## 4. SAS origin (FINAL — food-triggered)
@@ -61,7 +63,7 @@ No instant evolution. No overpowering independence. No mass production.
 
 ## 7. World perception and hooks
 
-Normal view: slimes are weak creatures. SAS reality: rare, misunderstood, valuable. Future hooks: scholars study them, guilds regulate them, enemies attempt capture — and fail to replicate without the bond.
+Normal view: slimes are weak creatures. SAS reality: rare, misunderstood, valuable. Future hooks: scholars study them, guilds regulate them, enemies attempt capture — and fail to replicate without the bond. Ylila's Slime King is Pemparots, called Pempos.
 
 Design principle: alive, responsive, unique per character.
 

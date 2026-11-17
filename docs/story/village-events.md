@@ -10,7 +10,7 @@ Prep day: communal harvest under the Great Mango. Short ladder teams, kids carry
 
 Festival day: midday lake rest, afternoon process fair, evening feast plus hymn. Mango juice toast, adobo pots, grilled lake fish. Edward leads the mango hymn on lute; Serra says a short care-first blessing before eating. Orange's team runs the rest station: water, shade seats, first-aid triage.
 
-Slime welcome beat (LOCKED): the Slime King attends as honored guest at the lake edge. Edward names slimes as family and friends of Ylila. The King answers with presence and a pulse of light only. No speeches.
+Slime welcome beat (LOCKED): Pempos, the Slime King, attends as honored guest at the lake edge. Edward names slimes as family and friends of Ylila. The King answers with presence and a pulse of light only. No speeches.
 
 Highlight: Chief Edward performs as a bard — lute or simple guitar equivalent. Sings stories of past heroes, warnings disguised as songs, encouragement. Defines Edward's dual role: leader + mood stabilizer (future combat tie-in). Tone: not constant poetry, but intentional lines. "Strong hands build the land— but steady hearts keep it standing."
 

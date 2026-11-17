@@ -13,7 +13,8 @@ Volume 1 cap (locked): base classes only. Everyone starts simple — Fighter, Ar
 
 ## Mentors (rare hybrids, locked)
 
-- Serra: Paladin of the Dawn — rare frontline healer-buffer, sustained presence not burst. Mentor-only tier. (Verdant Paladin archived.)
+- Serra Valebloom: Paladin of the Dawn, Verdant doctrine — rare frontline healer-buffer, sustained presence not burst. Mentor-only tier.
+- Paladin branches (locked): Aegis (defense/tank), Verdant (sustain/recovery — Serra), Judicator (burst offense), Radiant (buffs/auras).
 - Edward: Tank-Bard — leadership plus morale stabilization. Bard line (Bard → Minstrel → Maestro) applies to his bard half; his tank half follows the Knight line.
 
 ## World paths (reference, not Volume 1 power)
@@ -36,6 +37,7 @@ A class is earned through consistent training in a field, repeated use of relate
 Ylila's outpost is small: it can register base classes and post pest, herb, and delivery quests. Evolved-tier exams happen at a full guild (Ember side), which keeps Volume 1 grounded. The exam itself runs skill demonstration, combat evaluation, and a control-and-consistency check — no fake classes, no premature specialization.
 
 Future expansion (confirmed, not Volume 1): subclasses, class awakening, dual-class system at advanced stage only. Stat bias examples: Tank line toward Vitality, Archer toward Dexterity, Mage toward Intelligence.
+SAS-guided awakening (locked direction, not Volume 1): after bonded slime speech evolves past toddler level, slimes guide mana flow, stabilize unstable users, and teach by feeling. Non-magic users gain basic mana awareness, simple control, and low-level assists — Leo mana reinforcement, Amy weapon flow, Lyra mana-assisted precision. They remain assisted users, never mages; true control still demands training, stats, and mastery. Progression without breaking roles; emotional bond becomes mechanical reward.
 
 Limits (locked): one primary class to start. True multi-classing is rare, difficult, requires discipline. No instant mastery, no free switching, no skipped progression.
 

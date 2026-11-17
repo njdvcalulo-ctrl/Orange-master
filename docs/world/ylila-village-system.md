@@ -14,7 +14,7 @@ Mini Adventurer Hub (small guild outpost, not a full branch): quest board + appr
 
 Oathkeeper Farm: west side, slightly outside main cluster, highly fertile land (subtle hint of Orange's influence later), one of the most productive farms. Rice grows in the field only. Garden beds hold seasonal veg; Marie keeps a separate spice plot.
 
-Marie Food Stall (southeast): adobo (local chicken / lake frog, seasonal), kakanin, mango juice. Spices from her plot. Bucket by the Oathkeeper door holds kamatis / seasonal veg, not carrots. Carrot archived.
+Marie Food Stall (southeast): adobo (local chicken / lake frog, seasonal), kakanin, mango juice. Spices from her plot. Bucket by the Oathkeeper door holds kamatis / seasonal veg and Marie's garden carrots. Carrots are Marie's soup staple, quietly thriving under Orange's presence and John's tending — good food, not magic.
 
 Lake Area: clean freshwater source (secondary to well/stream), fishing zone, calm scenic area. Coconut trees at the land's edge; lake fish farms alongside line fishing. Amy's house nearby — parents Steve & Naomi (fisherfolk; blade skills via filleting → combat influence, dance → movement).
 
@@ -79,7 +79,7 @@ Chief Edward + Elder Ruel + one head per working family: John for farms, Steve f
 
 ## Surplus Runs (LOCKED)
 
-Monthly surplus run to Ember market: John + Ben + one guard (Edward early, later a guild escort quest the kids observe, never lead). 10% of surplus price returns as village share for school, barn, and dock upkeep. Silver appears only here and in guild payouts. All Ylila prices stay copper. The run is monthly, not weekly, because the south road is dangerous.
+Monthly surplus run to Ember market: John + Ben + one guard (Edward early, later a guild escort quest the kids observe, never lead). 10% of surplus price returns as village share for school, barn, and dock upkeep. Silver appears only here and in guild payouts. All Ylila prices stay copper. The run is monthly, not weekly, because the south road is dangerous. The road takes about 7 days by horseback each way.
 
 ## Why This Works
 
