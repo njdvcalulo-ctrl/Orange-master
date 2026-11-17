@@ -54,6 +54,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - [Volume 1 Outline, Volume 2 direction, Volume 3 proposal](docs/story/volume1-outline.md)
 - [Village Events](docs/story/village-events.md)
 - [Combat & Training System](docs/story/combat-training-system.md)
+- [Ylila Tone & Style Sheet](docs/story/ylila-tone-style.md)
 - Characters (each folder holds its md, solo portrait, and Chapter Appearances):
   - [Orange Oathkeeper](docs/characters/orange/orange-oathkeeper.md)
   - [John Oathkeeper](docs/characters/john/john-oathkeeper.md)
