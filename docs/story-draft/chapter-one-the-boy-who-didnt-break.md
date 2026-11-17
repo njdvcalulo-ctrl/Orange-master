@@ -1,5 +1,35 @@
 # Orange: The Healer's Resolve — Chapter One: The Boy Who Didn't Break
 
+Fire.
+
+Orange knew this field. The rows ran straight as combed hair — until the flames ate them.
+
+Black stalks. Cracked soil. Smoke that smelled like burnt rice.
+
+He should have run.
+
+Instead he knelt.
+
+Under the ash, something warm pulsed — the same warmth that lived under his own skin, only bigger. Older.
+
+A green sprout pushed through the black, no taller than his thumb.
+
+It leaned toward him.
+
+Like it knew him.
+
+A voice, or the memory of one:
+
+"What you refuse to tend will be lost."
+
+---
+
+Orange reached out—
+
+and woke.
+
+---
+
 The sun had not yet risen, but Orange was already awake.
 
 The air was cold, clinging to his skin like a warning, yet he stood barefoot in the fields, gripping a worn wooden hoe nearly as tall as he was. The soil beneath him was dark and heavy from last night's rain, stubborn and unyielding.
@@ -150,6 +180,24 @@ Only strength.
 ---
 
 "I'm coming," he answered.
+
+Breakfast was loud.
+
+Marie's carrot soup steamed up to the roof beams. John ate standing, already half out the door, and ruffled Orange's hair hard enough to sting.
+
+"Farm first," John said. "Philosophy later."
+
+"He dreams while hoeing now," Marie told the soup pot. "My boy, the turnip philosopher."
+
+Orange grinned into his bowl. The soup was sweet. It always was.
+
+Outside, the village was already busy — and already loud. Amy's voice carried clear across the lane, arguing with her father about whose catch had been bigger yesterday. ("Mine!" "Yours was a frog, Amy.") Leo hauled a basket twice his sense past the smithy, pretending it wasn't heavy. It was heavy.
+
+A horned rabbit bolted out of the kamatis beds with a leafy prize, skidded, saw Orange —
+
+and kept going. Correct decision.
+
+Orange laughed, grabbed his hoe, and ran for the fields.
 
 But his gaze lingered on his palm.
 
