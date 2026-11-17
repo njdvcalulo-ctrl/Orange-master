@@ -14,6 +14,7 @@
   th { background: #eee; }
   .done { color: #2f6b2f; }
   .pending { color: #8a6d1a; }
+  .parked { color: #555; }
   ul { padding-left: 20px; }
   a { color: #1a4f8a; }
   .next li { margin-bottom: 6px; }
@@ -21,9 +22,9 @@
 </head>
 <body>
 <h1>Orange: The Healer's Resolve — Dashboard</h1>
-<p class="date">Nov 14, 2026 · Ylila village, ~150 people · Vol 1: fortified safe haven</p>
+<p class="date">Nov 16, 2026 · Ylila barrio, ~150 people, 50 families · Vol 1: fortified safe haven</p>
 
-<h2>Villagers — 8 of 11 locked</h2>
+<h2>Villagers — 11 of 11 locked</h2>
 <table>
 <tr><th>Villager</th><th>Status</th></tr>
 <tr><td>Sopia (teacher, 27)</td><td class="done">Locked</td></tr>
@@ -34,47 +35,47 @@
 <tr><td>Naomi (fisherfolk/dancer, 34)</td><td class="done">Locked</td></tr>
 <tr><td>Vincent (carpenter, 36)</td><td class="done">Locked</td></tr>
 <tr><td>Silk (tailor/forager, 34)</td><td class="done">Locked</td></tr>
-<tr><td>Barn keeper</td><td class="pending">Todo</td></tr>
-<tr><td>Herb gatherer</td><td class="pending">Todo</td></tr>
-<tr><td>One elder</td><td class="pending">Todo</td></tr>
+<tr><td>Ben (barn keeper, 52)</td><td class="done">Locked</td></tr>
+<tr><td>Bunny (herb gatherer, 24)</td><td class="done">Locked</td></tr>
+<tr><td>Ruel (elder, 67)</td><td class="done">Locked</td></tr>
 </table>
+<p>Housing: 12 named + 38 numbered households placed by zone.
+Full roster: <a href="todo/housing-roster.md">todo/housing-roster.md</a>.</p>
 
-<h2>Images — 13 pairs + 3 new, all awaiting verdict</h2>
-<p>Data encoding comes first on every item: verdict + canon notes before any visual rework.
-Compare side by side in <a href="image-compare-v2.html">image-compare-v2.html</a>.
-Full tracker: <a href="todo/image-corrections.md">todo/image-corrections.md</a>.</p>
+<h2>Images — mango-era set promoted, parked</h2>
+<p>Image work is PARKED by author order. Promoted set in
+<a href="docs/images/">docs/images/</a>: kid and mentor solos, slime solos,
+cover v2, Orange home v3. Solo rule going forward: plain backdrop, no
+backgrounds. Full tracker: <a href="todo/image-corrections.md">todo/image-corrections.md</a>.
+Prompts and manuscripts: <a href="todo/image-prompts-mango-era.md">todo/image-prompts-mango-era.md</a>.</p>
 <table>
-<tr><th>Subject</th><th>Known issue</th><th>Verdict</th></tr>
-<tr><td>Orange, Leo, Serra, John, Marie</td><td>Hair and faces invented</td><td class="pending">Pending</td></tr>
-<tr><td>Lyra</td><td>Name patch + shorts; redo fully covered?</td><td class="pending">Pending</td></tr>
-<tr><td>Orange</td><td>Nochi smuggled into satchel; true solo?</td><td class="pending">Pending</td></tr>
-<tr><td>Crow</td><td>Starry body vs shadow-only rule</td><td class="pending">Pending</td></tr>
-<tr><td>Map</td><td>Lake name + compass invented</td><td class="pending">Pending</td></tr>
-<tr><td>Cover</td><td>Back row vs locked mentors</td><td class="pending">Pending</td></tr>
-<tr><td>Xavier, Eli, Edward</td><td>Brand-new, no old version</td><td class="pending">Pending</td></tr>
-<tr><td>Amy, Nochi, Greg, Octo</td><td>None recorded yet</td><td class="pending">Pending</td></tr>
+<tr><th>Subject</th><th>Status</th></tr>
+<tr><td>Kid + mentor + slime solos</td><td class="done">Promoted</td></tr>
+<tr><td>Cover (Eli unmasked, Lyra human skin)</td><td class="pending">Verdict open</td></tr>
+<tr><td>Map redraw (housing rows, fixed labels)</td><td class="pending">Verdict open</td></tr>
+<tr><td>Family picture</td><td class="pending">Verdict open</td></tr>
 </table>
 
 <h2>Story — 18 chapter drafts + outline</h2>
-<p>Volume 1 outline, village events, and combat/training system locked.
-Chapter drafts live in <a href="docs/story-draft/README.md">docs/story-draft/</a> (non-canon holding folder).</p>
+<p>Volume 1 outline, village events (calendar + rites locked), combat/training
+system locked. Chapter drafts live in <a href="docs/story-draft/README.md">docs/story-draft/</a> (non-canon holding folder).
+Xavier/Eli backstory waits for Volume 3. Orange hybrid stays unassigned.</p>
 
-<h2>World gaps — still open</h2>
+<h2>World gaps — locked this pass</h2>
 <ul>
-<li>Livelihood: who does what, calendar</li>
-<li>Traditions: festivals, rites, maple meaning</li>
-<li>History: founding, past threats</li>
-<li>Products: maker list, surplus, prices</li>
-<li>Leadership: council, rules, succession</li>
-<li>Animals: goblins, zones, tame rules</li>
+<li>Livelihood: season calendar locked; off-village trade detail later</li>
+<li>Traditions: Mango Fiestival, rites, mango hymn locked; mango meaning detail later</li>
+<li>History: shade founding + past threats locked; deep past is Vol 3+</li>
+<li>Products: makers, prices, monthly surplus run locked; rare-tier trade is Vol 3+</li>
+<li>Leadership: council + deed succession locked; succession event is future</li>
+<li>Animals: taming = monster-bonded locked; goblin first contact is story</li>
 </ul>
 
 <h2>Next up</h2>
 <ol class="next">
-<li>Encode image data: one verdict per row in the image tracker.</li>
-<li>Visual adjustments, item by item, from encoded rows only.</li>
-<li>Promote winners to <code>docs/images/</code> as v2, update README, commit.</li>
-<li>Lock barn keeper, herb gatherer, one elder.</li>
+<li>Verdicts: cover, map, family picture.</li>
+<li>Begin Volume 1 chapter rewrite from revision notes.</li>
+<li>Promote winners, update README, commit.</li>
 </ol>
 </body>
 </html>
