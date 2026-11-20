@@ -1,6 +1,6 @@
 # YLILA VILLAGE — MAP SYSTEM (FINAL LOCK, REFINED)
 
-![Labeled map of Ylila](../images/ylila-map-labeled-v1.jpg)
+![Labeled map of Ylila](../images/ylila-map-labeled-v2.jpg)
 
 **Type:** Early World Zone / Growth Environment
 **Theme:** Balance of Life, Work, and Hidden Danger
