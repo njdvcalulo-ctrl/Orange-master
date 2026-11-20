@@ -32,6 +32,7 @@ Solo home portraits:
 ![Leo at home](docs/images/leo-age13-home-v1.jpg)
 ![Amy at home](docs/images/amy-age12-home-v1.jpg)
 ![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
+![Oathkeeper family](docs/images/oathkeeper-family-v1.jpg)
 
 Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Team colors stay fixed: Nochi orange, Greg green, Octo purple, Crow black. Tendencies are SAS-driven comfort and movement, never attack spells; black is shadow only, no dark magic. Kingship is rare tier, any color; Ylila's Slime King, Pemparots (called Pempos), happens to be blue after restoration. Sacred tree in Ylila is a mango.
 
