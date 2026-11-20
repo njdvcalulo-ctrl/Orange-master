@@ -4,7 +4,7 @@
 
 A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer who can fight and kill but wins by making sure his team can. Set in Ylila, a small radial Filipino-style barrio village of ~150 people on Lake Merma, Volume 1 follows Orange, his slime partner Nochi, and their friends as slow, earned growth turns a peaceful village into a fortified safe haven. Volume 2 ends with the fall of Ember's old leadership — Ember Castle keeps its name under new leadership. Volume 3 is proposed as fields first.
 
-Ylila identity (locked): Great Mango at the center (~300 years, still fruiting), rice in the field only, lake fish, mango juice 2 copper, Marie's adobo and kakanin from her spice plot, garden beds with kamatis bucket. Mango hymn doubles as Ylila hymn. Mango Fiestival yearly: one prep day plus one festival day. Ring streets lined with villager houses (~40 households). Carrots grow in Marie's garden (soup staple).
+Ylila identity (locked): Great Mango at the center (~300 years, still fruiting), rice in the field only, lake fish, mango juice 2 copper, Marie's adobo and kakanin from her spice plot, garden beds with kamatis bucket. Mango hymn doubles as Ylila hymn. Mango Fiestival yearly: one prep day plus one festival day. Ring streets lined with villager houses (50 families: 12 named + 38 numbered). Zero carrots — carrot volume archived in the mango era.
 
 Scope: Early World, Volumes 1–2 complete in draft, Volume 3 Fields First proposed.
 
@@ -94,7 +94,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Orange's cooking carries a growth signal (SAS = Symbiotic Adaptation System) — power that must be shared, never stolen. The older Grow-accident origin is rejected. Grey slimes are not current; Ylila's Slime King happens to be blue after restoration, but kingship is any-color rare tier. SAS slimes stay bonded partners, never tamed summons. Taming means monster-bonded (time, food, shared survival, care); Grow is never a taming spell.
 - Volume 1 caps: base classes only, short fragile channels, single-digit stats climbing slowly. Ylila registers base classes only.
 - Leo starts Fighter and earns Knight; Knight is never a base class.
-- Orange has affinity but still requires practice. His hybrid name stays unassigned and distinct from Serra.
+- Orange has affinity but still requires practice. His hybrid name stays UNKNOWN until earned, distinct from Serra's Paladin.
 - Early game: everyone starts simple before specializing.
 - Balance is player-driven through finite points, never forced penalties: high STR never auto-slows casting, high DEX never auto-cuts durability.
 - Every cast carries risk, timing, and consequence: no silent casting until mastered later, no instant high-tier magic.

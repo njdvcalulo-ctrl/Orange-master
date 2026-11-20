@@ -1,4 +1,4 @@
-# Image Tracker — Data First, Adjustments Second
+# Image Tracker — Data First, Adjustments Second (PAUSED — author image phase)
 
 Rule: STEP 1 (data encoding) comes before STEP 2 (visual rework) on every item.
 Data encoding = lock the row's facts: subject, old file, new file, keep/replace/adjust verdict, canon notes.
@@ -68,6 +68,64 @@ New rule: solo pics get NO backgrounds going forward. Orange-5 and John-4
 are clean cream-backdrop solos. Cover-4 unmasked Eli, ears hidden. Canon
 gaps locked: calendar, rites, council, surplus, past threats, taming.
 Housing filled: 50 families placed by zone with slot order.
+
+## Mango-era batch (generated, awaiting author verdict)
+
+| # | Subject | New (generated_images) | Draft verdict | Flags for author |
+|---|---------|------------------------|---------------|------------------|
+| 1 | Orange O-3 | call_01a1f7b13ffc72388a91d3cb1fa9a1dc.jpg | adjust | Buckets read KAMATIS; need one TOMATOES bucket. Rest clean: face, suspenders, sword, open Nochi bag, seed pouch, glow, zero carrots. |
+| 2 | John J-3 | call_01a1f7b1461976829b14be31331d0912.jpg | adjust | Pot reads CACONGRASS (must be LEMONGRASS). OATHKEEPER hanging sign invented — keep or drop per author. Else clean: no gun, rice foreground + right, farmhouse behind-left. |
+| 3 | Cover C-3 | call_01a1f7b14a707131b5c64eb38b902d5d.jpg | verdict needed | Full recomposition, not a minimal edit. Eli face shown, ears hidden: good. Leo has NO hammer visible, shield emblem not visible. Orange + Amy show freckles (must be none). Author: accept as Cover-3 base or order minimal edit of cover-team-v2. |
+| 4 | Leo | call_01a1f7b27c5e700183d2c1fce4d4bb87.jpg | adjust | Shield anvil emblem not visible (shield on back, boss hidden). Rest clean: hammer only, Greg no drool, apron + pads, clean safe smithy. |
+| 5 | Amy | call_01a1f7b2811c709a9d060bc7cf561e95.jpg | approve? | Two blades at hip (sword + knife — within knives-fine rule). One fish patch, hairpin, no earrings, no freckles, Octo no bubbles, dock east, no feast. |
+| 6 | Lyra | call_01a1f7b28520736db155189be6d0fe75.jpg | approve? | LYRA patch, camo cloak, Crow in pouch, bow on own strap + full quiver, treehouse ladder, house right, no workstation, no freckles. |
+| 7 | Serra | call_01a1f7b3ba9174d7ab61ece0128cebe4.jpg | approve? | Green cape, pendant, no leaf, sheathed sword, training clearing. All clean. |
+| 8 | Marie | call_01a1f7b3bdf27461a2bc9b51b55dea1a.jpg | adjust | THE OATHKEEPER sign invented — keep or drop per author. Else clean: mango hairpin, template pots + buckets, no freckles, zero carrots. |
+| 9 | Xavier | call_01a1f7b3c1a8764f927ce2b4a2e68b3d.jpg | adjust | Caldora sign invented — violates no-English-signs rule; remove or crop on promo. Else clean: clean-shaven, no flames, bamboo. |
+| 10 | Eli | call_01a1f7b4db42727a8aaf6e4a190d0a66.jpg | approve? | Ears hidden, grey skin, holder on upper arc with ice dagger, belt backup. Holder reads complex — author call. |
+| 11 | Edward | call_01a1f7b4df2072fd83a885b8af9e186a.jpg | approve? | Armor, strapped lute, plain shield, Mango, villagers. All clean. |
+| 12 | Slimes | call_01a1f7b4e1ca74fa9afd701186cb9330.jpg | approve? | Four plain blobs, no limbs/bubbles/drool. Lineup framing, not per-spot — author call vs SLIMES-2. |
+| 13 | Map MAP-2 | call_01a1f7b6172e7423a0dd661d090ce347.jpg | adjust | Mango has a STONE ring (canon: short grass, no stone) — must fix. Missing well/market/Marie stall labels. Labels present: Ylila, Lake Merma, Forest Edge, treehouse, dock, farmhouse, barn, smithy, school, inn, Ember Castle. |
+| 14 | Family FAMILY-1 | call_01a1f7b6209371feb1cd71fc3f3e0de4.jpg | superseded | Father face differs from John-4. Replaced by fix batch row 24. |
+
+## Fix batch (author feedback round — awaiting verdict)
+
+| # | Subject | New (generated_images) | Draft verdict | Flags for author |
+|---|---------|------------------------|---------------|------------------|
+| 15 | Eli simple bow | call_01a1f7d7a38b75d38dd18ac332e42201.jpg | adjust | Bow simple, no holder, no arrow, ears hidden: good. TWO kunai on belt (should be ONE). |
+| 16 | Leo one shield | call_01a1f7d7a72a701ca1df2f51b84be928.jpg | approve? | One anvil shield emblem visible, hammer in hand, no hip holder, no second shield. Small pouch at waist is sling strap end — okay. |
+| 17 | Amy Octo out | call_01a1f7d7ac1374c695d43c4ca422dca1.jpg | adjust | Octo face fully visible: good. But Octo shows arm-like stubs (slime rule: pure blob, no limbs). |
+| 18 | Serra 5704 face | call_01a1f7d8ed1372079de40c9265f76126.jpg | approve? | Face from 5704 file, cape, pendant, no leaf, sheathed sword, dummies. Clean. |
+| 19 | Marie buckets | call_01a1f7d8ef347456b4f04ae47e3c9065.jpg | adjust | One TOMATOES bucket: good. Sign reads THE twice (THE / THE OATHKEEPER) — text glitch; needs one clean sign or none. |
+| 20 | Xavier no sign | call_01a1f7d8f1d8764abbe5c7f9359e626d.jpg | approve? | No sign, clean-shaven, no flames, bamboo. Clean. |
+| 21 | Edward tower shield | call_01a1f7d9e71d77c0a9fd14f17bd8f610.jpg | approve? | Lute held in hand paused mid-song, tower shield large, armor, Mango, villagers. Strings face viewer (held pose, acceptable per author option). |
+| 22 | Slimes bagged | call_01a1f7d9ea60713890b73fd0d81d89a8.jpg | approve? | Every slime in its own bag/pouch including Greg. Plain blobs. Clean. |
+| 23 | John-4 cream solo | call_01a1f7d9ed1672c194f959c39018c67a.jpg | approve? | Cream backdrop, v2 face. This is the father face lock for family. |
+| 24 | Family John-4 | call_01a1f7daf540764f8178ad0aeb9a4649.jpg | adjust | Father matches John-4: good. Buckets again TOMATOES + kamatis pair (must be one TOMATOES). Herb pots untagged. Nochi shows small stubs (no limbs rule). |
+| 25 | Map fixed | call_01a1f7daf0067064bdc3c455bea38b7e.jpg | superseded | Replaced by fix batch row 32. |
+
+## Fix batch 2 (author feedback round 2 — awaiting verdict)
+
+| # | Subject | New (generated_images) | Draft verdict | Flags for author |
+|---|---------|------------------------|---------------|------------------|
+| 26 | Eli quiver | call_01a1f7f2832977989f25176912d4761f.jpg | approve? | Full quiver with arrows, simple bow, no arrow nocked, ONE belt dagger, ears hidden. Clean. |
+| 27 | Leo medieval | call_01a1f7f2855b7201adeb66d5aeb3426a.jpg | approve? | Hammer simple forged, wall tools wooden-handled, one anvil shield, Greg clean. Clean. |
+| 28 | Amy pure blob | call_01a1f7f288da77eb9d9818de9767abbd.jpg | approve? | Octo perfect sphere, face out, no stubs. One patch, hairpin. Clean. |
+| 29 | Edward playing | call_01a1f7f39efc7787b6aff82104c7859f.jpg | approve? | Playing lute mid-song, tower shield on back, Mango, listeners. Clean. |
+| 30 | Slimes owner bags | call_01a1f7f3a1a1777e8ecb83ab8a8fa7e1.jpg | approve? | Owner-matched bags, perfect spheres. Clean. |
+| 31 | Family hairpin | call_01a1f7f3a4c272b3bf60719412631061.jpg | approve? | John-4 face, small mango clip (not a fruit), no text anywhere, Nochi sphere. Clean. |
+| 32 | Map full | call_01a1f7f4d4a9768db8bd23998b0e4c0f.jpg | superseded | Replaced by row 33. |
+| 33 | Map 50 + chief | call_01a1f806125371cf8556de58b755a441.jpg | adjust | Chief office big north below treehouse, inner circle filled (~50 homes), school inner, guild + inn, well on well, farmhouse + barn, irrigation, compass: all good. DOUBLE school labels (center-west + south — remove one). No dock label. | Superseded by row 34 below. |
+| 34 | Map geography lock | call_01a1f81b3d397174a9423f3844ca2d28.jpg | superseded | Replaced by row 35. |
+| 35 | Map neat + river | call_01a1f82b49b470879d4661c57490f97b.jpg | adjust | River from labeled NW mountains via forest to lake, chief office, farmhouse + garden + barn west, golem far, clearing NW, smithy SW, no west pond, canopy clear, rings lined, ONE school, market, guild, south road + Ember hills, west route, irrigation, compass. Treehouse side house labeled "second house" (must read LYRA'S HOUSE). TWO well labels again (dedup to east well). Inn placed east-inner near guild, not south-road east (author call). |
+| 36 | Family Nochi face | call_01a1f82b4ea8777cab82d44bcc60606e.jpg | approve? | Nochi big happy face, John-4 face, small mango clip, no text, garden + paddies. Clean. |
+
+## Promoted to docs (author approved — out of todo)
+
+- Eli: docs/images/eli-solo-v2.jpg (= fix-batch row 15, simple bow standby). NOTE: keeper shows TWO belt kunai; canon is ONE frozen blade — cleanup on next touch-up. Rows 10, 26 archived.
+- Leo: docs/images/leo-solo-v3.jpg (= row 27, medieval tools). Leo file Chapter 1 link updated. Greg's bag locked: small brown cloth pouch on Leo's belt. Rows 4, 16 archived.
+- Amy: docs/images/amy-solo-v3.jpg (= row 28, pure blob). Amy file Chapter 1 link updated. Rows 5, 17 archived.
+- Edward: docs/images/edward-solo-v2.jpg (= row 29, playing lute). Rows 11, 21 archived. |
 
 ## Promotion rule
 

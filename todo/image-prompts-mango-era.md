@@ -1,4 +1,4 @@
-# Mango-Era Image Prompts (DRAFT, not generated)
+# Mango-Era Image Prompts (READY — author generates images later)
 
 ## Round 3 manuscripts (author-ordered, generate exactly this)
 
@@ -18,128 +18,88 @@ MANUSCRIPT C-3 (Cover Eli fix): Same cover file, one change: remove Eli's
 face mask/veil, show her normal face (match Eli solo), ears STAY hidden in
 hood. Nothing else changes.
 
-Status: NO mango-era images exist yet. 47 files in generated_images are all
-Nov 14 pre-mango batch. Only Orange home v2 was ever promoted, and it still
-carries carrot volume (flagged for future redo). Everything below is
-ungenerated. Style for all: cozy anime light-novel illustration, warm
-daylight, kid-safe, modest practical clothing, main-story ages shown.
+Status: Round 3 promoted leo/amy/lyra/serra/john/marie-solo-v2, orange-age12-home-v3, nochi/greg/octo/crow-solo-v2, xavier/eli/edward-solo-v1, cover-team-v2 (old v1 kept as archive). Orange-4, John-3, Cover-3 approved, verification open. Round 4 rule going forward: new SOLOS are clean cream-backdrop (Orange-5, John-4 pattern) — faces lock there; home/scene versions carry backgrounds. Cover-4 = unmasked Eli, ears hidden.
+
+Global style for all: cozy anime light-novel illustration, warm daylight, kid-safe, modest practical clothing, main-story ages shown. Medieval only — no modern tools, no English celeb names on signs. Freckles OFF: Orange, Amy, Lyra, Marie. Herbs are tanglad, pandan, sili, calamansi; tags English-only (TOMATOES etc). Marie garden + house is the TEMPLATE Orange and John replicate.
+
+## Manuscript lessons (learned from gen batch 1 — DO NOT REPEAT)
+
+- Bucket labels: exactly ONE bucket labeled TOMATOES (English). Never two kamatis buckets, never mixed kamatis/TOMATOES pair. Spell LEMONGRASS correctly (not CACONGRASS/CACONGRASS).
+- Signs: NO invented signs at all — no OATHKEEPER house sign, no Caldora post, no English words on buildings. Author exceptions only (THE OATHKEEPER sign on Marie approved; nothing else).
+- Eli: bow is SIMPLE black-mithril blade-bow, NO dagger holder (dropped — too complex to render), NO arrow nocked in portraits (standby mode). Ears hidden always.
+- Leo: HAMMER ONLY in hand. ONE shield only (round, anvil-boss emblem visible). NO hip tool holders, NO second small shield, NO extra sheaths.
+- Amy: Octo's FACE must be visible (not hiding in bag). Exactly one fish patch, hairpin not earrings.
+- Serra: face lock = 5704 file (call_01a1e54976c17620979f94d94ef15704), not the ebe4 gen.
+- Edward: lute strings face BACKWARD on standby, or lute held in hand as if paused mid-song with a smile. Tower shield (large), not a small buckler.
+- Slimes: green Greg gets his own bag/pouch in lineup shots. All blobs plain, no limbs/bubbles/drool.
+- Map: Mango ring = SHORT GRASS only to canopy edge, NO stone. Must show: training clearing, well, market, chief house/office, Amy's house by the dock.
+- Family: father face = John-4 clean cream solo, never J-3.
+- Cover: minimal edits to cover-team-v2 only, never a full recomposition. Every kid: NO freckles, hair colors match solos.
 
 ## 1. Leo solo redo (FIRST IN QUEUE)
-13-year-old boy, dependable calm face, keep README face and hair. Sturdy
-build. Leather apron over clothes, knee pads, shoulder pads (keep all).
-HAMMER ONLY in hand (smithy hammer, bashing build). Short sword dropped,
-no other tools, nothing gun-shaped. Round shield with SINGLE anvil emblem
-at the center boss (designed by his mother). Sling belt across body reading
-as shield-carry strap. Greg: plain soft-green spherical blob on Leo's
-shoulder, no shield held, no limbs. Background: neat home smithy, CLEAN
-and SAFE (anvil, ordered tools, no clutter, no fire hazards). Mood: steady
-and kind. NO guns, NO mess, NO modern objects.
+13-year-old boy, dependable calm face — brown-black short hair, brown eyes, keep README face. Sturdy build. Leather apron over clothes, knee pads, shoulder pads (keep all). HAMMER ONLY in hand (smithy hammer, bashing build). Short sword dropped, no other tools, nothing gun-shaped. Round shield with SINGLE anvil emblem at the center boss (designed by his mother). Sling belt across body reading as shield-carry strap. Greg: plain soft-green spherical blob on Leo's shoulder, funny-sloppy not grumpy, no shield held, no limbs, NO drool. Greg's bag = small brown cloth drawstring pouch on Leo's belt (Greg rides shoulder/shield by preference). Background: neat home smithy, CLEAN and SAFE — earthen floor, beams, stone hearth, anvil, ordered tools, no clutter, no fire hazards. Mood: steady and kind. NO guns, NO mess, NO modern objects. Leo + Greg are keepers — face lock stays.
 
 ## 2. Amy solo redo
-12-year-old girl, short hair, wide cute jolly smile, ponytail, jacket with
-fish patches (keep). OPEN Octo bag at her side with purple blob peeking.
-SHORT SWORD at hip (not a rapier). Knives fine if she still runs easily.
-Setting: house on the left, boats on the right along the dock walkway. Dock
-BIG, facing EAST, doubles as feast stage. Lake Merma behind, calm water,
-morning light. Parents' fishing life visible: nets, baskets, never weapons.
+12-year-old girl, brown hair ponytail, NO freckles, short hair, wide cute jolly smile. Plain medieval linen jacket with EXACTLY ONE fish patch, small fish hairpin, NO earrings. OPEN Octo bag at her side with plain purple blob peeking, NO bubbles. SHORT SWORD at hip (not a rapier). Knives fine if she still runs easily. Setting: plain house front on the left, simple empty dock on the right, plain boats, Lake Merma behind, calm water, morning light. Dock BIG, facing EAST, doubles as feast stage — but this portrait: NO feast, NO bunting. Parents' fishing life visible: nets, baskets, never weapons.
+
+(KEEPER — amy-solo-v3.jpg, exact reload description: 12-year-old girl, brown hair low side ponytail with mustard-yellow ribbon, small silver fish hairpin above right ear, NO freckles, big brown eyes, wide open-mouth jolly smile. Olive-grey linen hooded jacket, EXACTLY ONE embroidered fish patch on left chest, NO earrings. White cloth drawstring bag at right hip; Octo PERFECT purple sphere leaning out, full face visible, NO stubs, NO arms, NO limbs, NO bubbles. Sheathed SHORT SWORD at left hip, not a rapier. Dark knee shorts, tall brown boots. Mid-step toward viewer on wooden dock. Blue-grey house front with flower box LEFT; wide empty dock right; plain rowboats; calm lake, morning haze, distant trees. Coiled nets, rope, wicker baskets with floats, wooden bucket, hand net on planks — never weapons. Dock BIG EAST. NO feast, NO bunting. No text, no signs, no modern objects.)
 
 ## 3. Lyra solo redo
-12-year-old girl, keep README face and hair, better-fit long-sleeve shirt
-and pants (medieval Ylila tailoring, no modern cuts). LYRA patch on shirt.
-Bigger pouch at her side holding plain black blob Crow. Proper full-length
-quiver(s) that fit the arrows, bow slung on her back on its OWN strap
-(never stuffed in the quiver). Setting: house on the RIGHT, treehouse,
-forest edge, dappled light. No carpentry workstation. Mood: quiet, watchful.
+12-year-old girl, brown hair, NO freckles, keep README face. Medieval tunic and leggings, better-fit long-sleeve cut (mom-made Ylila tailoring, no modern cuts), hooded patchwork camo cloak (mom-made, early phase). LYRA patch on shirt. Open side pouch, bigger, holding plain black blob Crow (keeper v1, shadow only, no dark magic). Proper full-length quiver(s) that fit the arrows, bow slung on her back on its OWN strap (never stuffed in the quiver). Setting: house on the RIGHT, treehouse with ONE ladder, forest edge, dappled light. No carpentry workstation, no workstation at all. Mood: quiet, watchful.
 
-## 4. Serra solo redo (Paladin of the Dawn)
-Adult woman mentor, respectable paladin, NOT witch doctor. Green cape keep,
-modest armor with NO leaf motifs. Sheathed sword at side. NO staff, NO
-potion pouch. Setting and background fine as-is. Presence: calm authority
-that makes kids stand straighter. "Wild" reads as warmth with shocking
-strength, never wild looks.
+## 4. Serra solo redo (Paladin)
+Woman 40s, smooth youthful skin (healing-youth), adult mentor, respectable paladin, NOT witch doctor. Green cape keep, shield-pendant keep. Modest armor with NO leaf motifs. Sheathed sword at side. NO staff, NO potion pouch. Setting and background fine as-is; training clearing hint okay. Presence: calm authority that makes kids stand straighter. "Wild" reads as warmth with shocking strength, never wild looks.
 
 ## 5. John solo redo
-Early-40s farmer father, firm kind face, cleaned-up version of the old solo
-(new messy draft discarded). Plain work clothes, NEAT. NO gun, NO revolver,
-NO magazine pouch at hip. House: medieval farmhouse of its OWN design (not
-an Orange copy). Rice field: uniform middle-age growth, freshly planted,
-single direction. Background: local plains, far-north mountains allowed
-faint in distance. Compass feel: forest north, lake east, dirt road south,
-golem plains west.
+Early-40s farmer father (40s, not 50s), firm kind face — face per old handsome solo, cleaned-up NEAT version (messy draft discarded). Plain work clothes, NEAT. NO gun, NO revolver, NO magazine pouch at hip. House: THE Oathkeeper farmhouse = same as Orange/Marie (same family; approved exception to house rule). Rice field: uniform middle-age growth, freshly planted, single direction — fix any patch growing right-to-left. Background: local plains, far-north mountains allowed faint in distance. Compass feel: forest north, lake east, dirt road south, golem plains west. Forward rule: face locks on clean cream-backdrop solo (John-4 pattern).
 
-## 6. Marie solo redo
-Mid-30s mother, keep face and hair exactly (family likeness). Warm nurturing
-face, firm eyes. MANGO hairpin (not carrot). Spice-plot garden uniform with
-Orange's solo: split beds, seasonal veg, kamatis bucket by the door. Same
-house as Orange (same family). Carrot soup and carrot volume GONE. Mood:
-home, safety, dinner is ready.
+## 6. Marie solo redo (TEMPLATE)
+Mid-30s mother, keep face and hair exactly (family likeness), NO freckles. Apron dress. Warm nurturing face, firm eyes. MANGO hairpin (not carrot, not leaf). THE wooden farmhouse + THE split garden: veg beds, LEMONGRASS/CHILI/CALAMANSI pots, TOMATOES bucket (English-only tags), kamatis bucket by the door. Same house as Orange (same family). Carrot soup and carrot volume GONE. Mood: home, safety, dinner is ready.
 
-## 7. Orange solo redo (FUTURE — v2 still has carrots)
-12-year-old boy, brown hair (matches parents), neat clothes with light dust
-only where earned (knees). Faint orange glow on hands. Short sword at hip.
-Single Nochi bag (open, lock flap) plus seed pouch on belt, no herbs or
-vials. Nochi orange blob peeking from the open bag. Setting: house left,
-split garden beside it (seasonal veg + Marie spice section, kamatis bucket
-by the door), rice field right. Name note: orange-gold of ripe mangoes.
+## 7. Orange solo redo (Orange-4 pending verdict)
+12-year-old boy, brown hair (matches parents), brown eyes, NO freckles — face keeper (MC). Neat shirt + suspenders, neat clothes with light dust only where earned (knees). Faint orange glow on hands. Short sword at hip. Single Nochi bag (open, lock flap) plus seed pouch on belt, no herbs or vials. Nochi plain orange blob peeking, NO bubbles. Setting: THE farmhouse left, THE split garden + TOMATOES bucket beside it (seasonal veg + Marie spice section, kamatis bucket by the door), rice field right. ZERO carrots. Name note: orange-gold of ripe mangoes. Forward rule: face also locks on clean cream-backdrop solo (Orange-5 pattern).
 
 ## 8. Slime solos (one pass, same rules)
-Pure spherical blobs, typical anime slime. NO head protrusion, NO legs or
-feet, NO armor, NO held weapons. Semi-limb stretch is combat-only, never in
-portraits. Nochi: orange, in Orange's open bag, peeking. Greg: soft green,
-on Leo's shoulder, never clinging, funny-sloppy not grumpy. Octo: purple,
-on Amy's bag. Crow: plain black (midnight-starry version is a LATER-STORY
-form, not now), carried by Lyra. Crow note: shadow only, no dark magic.
+Pure spherical blobs, typical anime slime. NO head protrusion, NO legs or feet, NO stubs, NO arms, NO armor, NO held weapons, NO bubbles, NO sparkles, NO drool. Semi-limb stretch is combat-only, never in portraits. Bags LOCKED to owners: Nochi orange in ORANGE'S brown leather bag with lock flap. Octo purple in AMY'S white cloth bag. Greg soft green in a brown cloth bag (on Leo's shoulder in his own portrait, never clinging, funny-sloppy not grumpy, closed smile). Crow plain black in LYRA'S open side pouch, treetop hopping when hiding/scouting (midnight-starry version is a LATER-STORY form, not now). Crow note: shadow only, no dark magic.
 
 ## 9. Xavier portrait (flames off)
-Handsome calm 35-year-old swordmage, long-sleeve cloth in light to sky blue
-with green-mint hint, hair tied. Long sword, NO flames on the blade in the
-portrait (fire is combat-only). Humble resting pose, genuine thankful
-smile. Caldora bamboo backdrop fits his posting.
+Handsome calm 35-year-old swordmage, tied black hair, clean-shaven, goatee OUT. Long-sleeve cloth in light to sky blue with green-mint hint, sky-blue mint-trim robe. Sheathed long sword, NO flames on the blade in the portrait (fire is combat-only). Humble resting pose, genuine thankful smile. Caldora bamboo backdrop fits his posting.
 
-## 10. Eli portrait (bow fix)
-Modest dark-elf archer woman, black cloak with silver-grey lining, hood UP
-hiding ears fully. Black-mithril blade-bow with a visibly DIFFERENT-material
-dagger holder fitted ON the bow. ONE small kunai dagger in a thermal sheath
-on her belt at the back. No long curved blade, no short sword. Quiet shy
-poise, rarely-startled eyes.
+## 10. Eli portrait (bow fix — REVISED, holder dropped)
+Modest dark-elf archer woman, grey skin, black cloak with silver-grey lining, hood UP hiding BOTH ears fully. SIMPLE black-mithril blade-bow on standby, NO holder, NO arrow nocked. FULL QUIVER with arrows on her back. ONE small ice kunai (the frozen blade) in a thermal sheath on her belt — the ONLY dagger. No long blade, no second dagger. Quiet shy poise, rarely-startled eyes.
 
-## 11. Edward portrait (mango background)
-Big strong 48-year-old bearded chief, warm strong face, lute WITH strap,
-plain shield without emblem. Background: the Great Mango (huge canopy,
-wide base, short-grass ring, no stone). Beard-stroking optional. Mood: the
-man the village marches behind.
+## 11. Edward portrait (mango background — REVISED)
+Big strong 48-year-old bearded chief, warm strong face. Warrior-chief, not just bard: steel breastplate + shoulder guards, armor over clothes. Tower shield worn ON HIS BACK (large, plain, no emblem). PLAYING the lute held in his hands, paused mid-song with a warm smile. Background: the Great Mango (huge canopy, wide base, short-grass ring, no stone). Plain medieval villagers okay. Mood: the man the village marches behind.
 
-## 12. Village map redraw
-Labeled Ylila map. Center: Great Mango with wide canopy. Placements locked:
-Chief house and office, market with Nathaly stall southwest of the mango,
-Teresa inn (Team Mango-Tango base) plus mini guild hub, well east, Marie
-food stall southeast, Oathkeeper residence west with western fields,
-storage, smithy southwest, one-room school west border, treehouse and
-outpost north, storage and Ben barn west just north of Oathkeeper,
-north, training clearing near edge, forest edge north and northeast, dirt
-road south to Ember, farmland outer ring, golem plains west, Lake Merma
-east with dock facing EAST. Compass rose to verify.
+## 12. Village map redraw (MAP-2 NEXT)
+Labeled Ylila map. Center: Great Mango (~300 yrs, 20-30 m tall, 30-38 m canopy, short-grass ring, no stone) + walkway ring, NOTHING built under the canopy (clear grass ring, stalls stay outside it). 4 routes (south wide to Ember City; west via lake/dock); 2-3 visible RING LANES with houses lined on every ring. Lake 50x village, off-map east; river from far NW mountains through forest beyond treehouse to lake. NO west pond (no second lake). Golem plains far west. Training clearing NW forest border. Treehouse + LYRA'S HOUSE beside it. Smithy SW. Chief office big north (LOCKED as-is). Inn on the SOUTH ROAD EAST side. BOTH rings lined with 50-family housing (bahay-kubo, mixed roofs) in locked slot order: treehouse/outpost, Joseph, Joseph neighbor, N-1 to N-5; E-1 to E-3, Ironheart house, E-4 to E-7; Ruel, SE-1 to SE-3; Bunny, S-1 to S-7; Shieldsmith house + smithy, SW-1 to SW-4; barns + Ben, Oathkeeper residence, Sopia house, W-1 to W-10; inner I-1, I-2. Named: chief house + office, market with Nathaly stall SW of mango, Teresa inn (Team Mango-Tango base) + mini guild hub, well east, Marie stall SE, Oathkeeper west with western fields, storage + Ben barn west just north of Oathkeeper, smithy SW, school center-west, treehouse/outpost north, training clearing near edge, forest edge N/NE, dirt road S to Ember, rice outer ring, golem plains W, Lake Merma E with dock facing EAST. Labels: Ylila, Lake Merma, Forest Edge. Compass rose to verify. NO double school, NO wrong names.
 
-## 13. Cover redraw
-Action cover, CAST ONLY, no enemies. Front: four kids in updated looks —
-Orange faint glowing hands with open Nochi bag, Leo hammer with anvil-boss
-shield and Greg on shoulder, Amy short sword with Octo on bag, Lyra bow
-drawn with Crow carried. Back row: Serra (no leaf, sword), Xavier (no
-flames), Eli (hooded, holder bow), Edward (lute with strap, plain shield).
-Backdrop: Ylila village plus Great Mango.
+## 13. Cover redraw (Cover-3 pending verdict / Cover-4 rule)
+Action cover, CAST ONLY, no enemies. Faces match solos: kids' hair colors match solos, mentors match solos. Front: Orange glow hands + open Nochi bag, Leo hammer + anvil shield + Greg, Amy sword + Octo, Lyra drawn bow + Crow (pouch NO arrows). Back: Serra (no leaf, sword), Xavier (NO flames, NO glasses), Eli (face shown, ears hidden), Edward (armor + lute with strap, plain shield). Backdrop: Ylila village plus Great Mango.
 
 ## Manuscript catalog (ALL generated images — generate exactly this)
 
 MANUSCRIPT LEO-2 (accepted base): Boy 13, brown-black short hair, brown
 eyes, leather apron, shoulder pads, knee pads, hammer in hand, anvil-boss
 shield, sling-belt strap. Greg soft-green blob on shoulder. Rustic medieval
-smithy: earthen floor, beams, stone hearth. NO modern tools.
+smithy: earthen floor, beams, stone hearth. Hammer must read MEDIEVAL
+(simple forged head, wooden haft — no modern claw shape). Wall tools ALL
+medieval: forged tongs and hammers, wooden handles only, NO rubber handles,
+NO modern pliers. NO modern tools.
 
-MANUSCRIPT AMY-2 (accepted base): Girl 12, brown hair ponytail, NO
-freckles, plain medieval linen jacket with EXACTLY ONE fish patch, small
-fish hairpin, NO earrings. Plain house front, simple empty dock, plain
-boats, lake. NO feast, NO bunting. Octo plain purple blob in open bag.
-Short sword at hip.
+MANUSCRIPT AMY-2 (KEEPER — amy-solo-v3.jpg, exact reload description):
+Girl 12, brown hair low side ponytail with mustard-yellow ribbon, small
+silver fish hairpin above right ear, NO freckles, big brown eyes, wide
+open-mouth jolly smile. Olive-grey linen hooded jacket, EXACTLY ONE
+embroidered fish patch on left chest, NO earrings. White cloth drawstring
+bag at right hip; Octo PERFECT purple sphere leaning out, full face
+visible, NO stubs, NO arms, NO limbs, NO bubbles. Sheathed SHORT SWORD at
+left hip (not a rapier). Dark knee shorts, tall brown boots. Mid-step pose
+toward viewer on wooden dock. Plain blue-grey house front with flower box
+LEFT; wide empty dock right; plain rowboats; calm lake, morning haze,
+distant trees. Nets, rope, wicker baskets with floats, wooden bucket, hand
+net on planks — never weapons. Dock BIG facing EAST. NO feast, NO bunting.
+No text, no signs, no modern objects.
 
 MANUSCRIPT LYRA-2 (accepted base): Girl 12, brown hair, NO freckles,
 medieval tunic and leggings, hooded patchwork camo cloak (mom-made, early
@@ -163,18 +123,25 @@ herb pots. NO gun. Main farmer surveying.
 MANUSCRIPT XAVIER-2 (accepted base): Man 35, tied black hair, clean-shaven,
 sky-blue mint-trim robe, sheathed long sword, bamboo, NO flames.
 
-MANUSCRIPT ELI-2 (accepted base): Hooded woman, BOTH ears hidden, grey
-skin, modest dark dress, black-mithril bow with side dagger bracket holding
-kunai so its tip touches the arrowhead. Belt kunai backup. NO long blade.
+MANUSCRIPT ELI-2 (accepted base, REVISED — holder dropped): Hooded
+woman, BOTH ears hidden, grey skin, modest dark dress. SIMPLE
+black-mithril blade-bow on standby, NO holder, NO arrow nocked. FULL QUIVER
+with arrows on her back. ONE small ice kunai (the frozen blade) in a
+thermal sheath on her belt — the ONLY dagger. NO long blade, NO second
+dagger.
 
-MANUSCRIPT EDWARD-2 (accepted base): Bearded man 48, steel breastplate +
-shoulder guards, strapped lute, plain shield, Great Mango behind, plain
-medieval villagers. Warrior-chief, not just bard.
+MANUSCRIPT EDWARD-2 (accepted base, REVISED): Bearded man 48, steel
+breastplate + shoulder guards, tower shield worn ON HIS BACK (large, plain,
+no emblem). PLAYING the lute held in his hands as if paused mid-song with a
+warm smile. Great Mango behind, plain medieval villagers. Warrior-chief,
+not just bard.
 
-MANUSCRIPT SLIMES-2 (accepted): Nochi plain orange blob in open bag.
-Octo plain purple blob in bag on dock. Greg plain green blob, closed smile,
-NO drool, workbench. Crow plain black blob in pouch (keeper v1). NO
-bubbles, NO sparkles, NO limbs, NO weapons anywhere.
+MANUSCRIPT SLIMES-2 (accepted, REVISED — owner-matched bags): Nochi
+plain orange blob in ORANGE'S brown leather bag with lock flap. Octo plain
+purple blob in AMY'S white cloth bag. Greg plain green blob, closed smile,
+NO drool, in a brown cloth bag. Crow plain black blob in LYRA'S open side
+pouch (keeper v1). All perfect spheres, NO bubbles, NO sparkles, NO limbs,
+NO weapons anywhere.
 
 MANUSCRIPT ORANGE-4 (pending verdict): Fresh boy 12, brown hair, brown
 eyes, NO freckles. Neat shirt, suspenders, short sword, open Nochi bag,
@@ -192,18 +159,6 @@ the UPPER ARC (limb) of the bow. The ice dagger clips flat along the limb;
 at full draw its edge touches the arrowhead nocked on the string. Belt
 kunai stays as backup. Ears hidden, everything else = Eli-2.
 
-MANUSCRIPT MAP-2 (NEXT): Labeled Ylila map. Great Mango center + walkway
-ring, 4 roads (south widest), 2 ring roads + lanes, BOTH rings lined with
-~40 small villager houses (bahay-kubo, mixed roofs). Named: chief house,
-guild, inn, well east, school center-west, market SW, Marie stall SE,
-Oathkeeper west, storage/barn west-north of Oathkeeper, smithy SW,
-treehouse north, dock EAST on Lake Merma, rice outer ring, forest N,
-Ember road S, golem plains W. Labels: Ylila, Lake Merma, Forest Edge.
-Compass rose. NO double school, NO wrong names.
+MANUSCRIPT MAP-2 (NEXT, REVISED): Labeled Ylila map. Great Mango center (~300 yrs, 20-30 m tall, 30-38 m canopy, SHORT-GRASS ring, NO stone) + walkway ring, 4 roads (south widest), 2 ring roads + lanes, BOTH rings lined with 50-family housing (bahay-kubo, mixed roofs) in locked slot order (see §12). School sits center-west INNER ring (never outer). Inn labeled on the inner ring near the guild. Housing reads ~50 homes: fill the INNER circle with houses and stalls too (no big empty ring) — BUT nothing under the Mango canopy itself (clear grass + walkway only). 2-3 ring lanes must read clearly, houses lined on every ring. Treehouse always paired with LYRA'S HOUSE beside it. Smithy always SW. NO west pond anywhere. Inn on the SOUTH ROAD EAST side. Chief office big north below treehouse (LOCKED layout). 4 ROUTES: south wide main road to Ember City (south road); west route via lake/dock. LAKE MERMA is 50x Ylila — runs off the map edge east, drawn partly. A RIVER runs from the FAR NORTHWEST MOUNTAINS, through the forest BEYOND the treehouse, down into Lake Merma. The larger house north of the Mango below the treehouse = the CHIEF'S HOUSE + OFFICE, drawn bigger than the rest. ONE farmhouse on the OUTER WEST ring with a cute garden + storage barn. ROCK GOLEM PLAINS FAR in the west distance (never close). TRAINING CLEARING with dummies sits at the NORTHWEST forest border (no farm plots there). Lakeside house label sits ON the house (never on the well). WELL label sits ON the well (east side). FEW farmhouse labels (one west + barn, not many). Named: chief house + office, guild, inn, well east, school center-west inner (ONE school label only), market SW, Marie stall SE, Oathkeeper west, storage/barn west-north of Oathkeeper, smithy SW, treehouse north, training clearing northwest with dummies, dock EAST on Lake Merma with lakeside house, rice outer ring WITH irrigation water channels, forest N, Ember road S, golem plains far W. Labels: Ylila, Lake Merma, Forest Edge. Compass rose. NO double school, always label the dock, NO wrong names.
 
-MANUSCRIPT FAMILY-1 (Oathkeeper family picture): Warm family portrait —
-John (same face as John-4), Marie (same face, mango hairpin), Orange
-(same face, NO freckles) with plain orange Nochi blob on his shoulder.
-Posed together before THE wooden farmhouse and THE split garden (TOMATOES
-bucket, LEMONGRASS/CHILI/CALAMANSI pots), rice field to the side. NO
-carrots. Mood: the home worth protecting.
+MANUSCRIPT FAMILY-1 (Oathkeeper family picture, REVISED — keeper is fix-batch-2 row 31, exact reload description): Warm golden-daylight family portrait, father LEFT, mother RIGHT, boy CENTER front. John: same face as John-4 cream solo (firm kind handsome, brown wavy hair tied back), plain work shirt with suspenders. Marie: same face, hair in a bun with a SMALL mango-shaped HAIRPIN clipped flat (a decorative clip, clearly not a whole real mango), apron dress. Orange: same face, brown hair, NO freckles, neat shirt with suspenders, big happy smile. Nochi: small PERFECT orange sphere sitting on Orange's shoulder with a BIG HAPPY FACE fully visible toward the viewer (two dot eyes + open smile), NO limbs, NO stubs — never a faceless blob. Setting: THE wooden farmhouse behind with open door, THE split garden (veg beds, untagged herb pots, ONE plain bucket of red tomatoes with NO text), flooded rice field to the right side. NO carrots. No text anywhere, no signs. Mood: the home worth protecting.

@@ -1,6 +1,6 @@
-# Recommendations — Portrait Queue + Canon Gaps (DRAFT, not locked)
+# Recommendations — Portrait Queue + Canon Gaps (LOCKED)
 
-Author reviews, comments, approves. Nothing is canon until approved.
+Canon gaps locked into docs/world/ylila-village-system.md + docs/story/village-events.md + docs/world/slime-system.md. Portrait queue deferred to author image phase — briefs stay as-is.
 
 ## A. Portrait redo queue (recommended order)
 

@@ -632,7 +632,7 @@ Sample lines: "I can fight too— just watch me!" / "Hey! I'm not just cheering,
 
 Dancer's Instinct: natural rhythm in movement — smoother footwork, better balance, faster directional changes. Combat: easier dodging, fluid attack chaining, harder to predict. Hidden: reduces stiffness in combat, allows continuous motion. Growth: Dancer's Instinct → Flow State → Sword Dance. Identity: "She doesn't fight… she flows." Bridges mom (dance), dad (blade), future class.
 
-![Amy Chapter 1 solo](amy-solo-v1.jpg)
+![Amy Chapter 1 solo](amy-solo-v3.jpg)
 
 ### Chapter 2 — Party Intro
 

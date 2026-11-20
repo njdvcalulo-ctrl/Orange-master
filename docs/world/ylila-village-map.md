@@ -82,9 +82,13 @@ Structures:
 ✔ Tool Shops (north side)
 ✔ Small School (center-west inner ring, main building)
 
-Streets (locked): walkway ring at the canopy edge, then 4 main roads — north, east, south, west. South road widest (trade plus danger). Ring roads circle the center: 2 rings fit all 50 families plus public buildings; a 3rd ring may open if space runs out. Both rings are lined with villager houses (bahay-kubo style, some nipa some metal roofs, ~40 unnamed households); named homes sit near their work zones. Lanes run out to the farm belt, lake, forest, and forge.
+Streets (locked): walkway ring at the canopy edge, then 4 main roads — north, east, south, west. South road widest (trade plus danger). Ring roads circle the center: 2 rings fit all 50 families plus public buildings; a 3rd ring may open if space runs out. Both rings are lined with villager houses (bahay-kubo style unless noted, some nipa some metal roofs); named homes sit near their work zones. Lanes connect rows to zones and run out to the farm belt, lake, forest, and forge.
 
-Outlying placements (locked): Sopia's house on the west border. Oathkeeper residence west. Storage barns + Ben's house west, a bit north of the Oathkeeper residence. Bunny south border. Elder Ruel southeast.
+Housing roster (locked): 12 named + 38 numbered = 50. Inner ring: chief house, guild, inn, well, school, stalls, plus 2 inner-lane households — I-1 (well keeper), I-2 (guild hand). West outer (12): Oathkeeper residence, Sopia house on the west border, barns + Ben north of Oathkeeper, W-1 to W-10 along the west lane. Southwest outer (5): Shieldsmith house + smithy, SW-1 to SW-4. North outer (7): Arroway treehouse + outpost, Joseph + one neighbor house east, N-1 to N-5. East outer (8): Ironheart house by the dock, E-1 to E-7 along the shore lane. South outer (8): Bunny hut on the south border, S-1 to S-7 along the south road. Southeast outer (3): SE-1 to SE-3 near Marie's stall and the road. Random villagers are farmers, fishermen, bystanders — no names needed unless a scene adopts one.
+
+Slot order, clockwise from north (locked): treehouse/outpost, Joseph, Joseph neighbor, N-1 to N-5; E-1 to E-3, Ironheart house, E-4 to E-7; Ruel, SE-1 to SE-3; Bunny, S-1 to S-7; Shieldsmith house + smithy, SW-1 to SW-4; barns + Ben, Oathkeeper residence, Sopia house, W-1 to W-10 southward.
+
+Outlying placements (locked): Sopia's house on the west border. Oathkeeper residence west. Storage barns + Ben's house west, a bit north of the Oathkeeper residence. Bunny south border. Elder Ruel southeast (inner edge).
 
 Function: coordination, community interaction, decision-making hub.
 
@@ -213,7 +217,7 @@ Ylila is not weak. It is quiet, disciplined, prepared.
 
 NORTH — Forest → Mountains: immediately north is Forest Edge, far north the Mountain Range. Natural system: mountains drain water, rivers flow Mountains → Forest → Lake Merma. Creates natural irrigation, fertile farmland, believable ecosystem.
 
-EAST — Lake Merma (~40x Ylila): fishing (Amy's family), water supply, calm emotional scenes. Also a natural boundary and future expansion zone.
+EAST — Lake Merma (~50x Ylila, shown partly — it runs off the map): fishing (Amy's family), water supply, calm emotional scenes. Fed by a river from the far northwest mountains, running through the forest beyond the treehouse. Also a natural boundary and future expansion zone.
 
 SOUTH — Road to Ember: dirt road, grasslands, rolling hills, leads to Ember City. Trade route, danger route, invasion path (VERY IMPORTANT).
 

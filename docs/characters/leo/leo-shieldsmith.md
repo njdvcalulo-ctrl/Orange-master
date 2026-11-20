@@ -116,7 +116,7 @@ Sample lines: "Stay behind me." / "If it's coming through—I'm stopping it."
 
 Innovative: sees how things work and improves them — adjusts grip and stance, cuts wasted movement, better equipment handling. Combat: better shield angles, faster recovery after blocking, efficient energy use. Non-combat: modifies tools, improves designs, spots gear flaws. Growth: Innovative → Adaptive Builder → Combat Engineer. Identity: "There's always a better way to do it." Supports future blacksmith, engineered armor, SAS integration.
 
-![Leo Chapter 1 solo](leo-solo-v1.jpg)
+![Leo Chapter 1 solo](leo-solo-v3.jpg)
 
 ### Chapter 2 — Party Intro
 

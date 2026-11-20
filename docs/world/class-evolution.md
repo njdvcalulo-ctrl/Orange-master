@@ -6,23 +6,24 @@ Volume 1 cap (locked): base classes only. Everyone starts simple — Fighter, Ar
 
 ## Locked team paths
 
-- Leo: Fighter → Knight (defense type) → Guardian → Titan. Titan is a future title, not a starting class. Tank subpath. Shield first, control over power.
+- Leo: Fighter → Knight (defense) → Guardian → Titan. Titan is a future title, not a starting class. Tank subpath. Shield first, control over power.
 - Amy: Fighter (blade) + Dancer influence → Sword Dancer (signature, locked). Formal Dancer Path lists Blade Dancer — Amy's Sword Dancer is her named hybrid at that same tier, built from positioning (father) + movement (mother) + precision (cooking). Future branches (Blade Waltz, Crimson Dance) stay optional.
-- Lyra: Archer → Sniper → Eagle Eye → Starpiercer. Scout and battlefield controller first, titles later.
-- Orange: Healer (Support → Hybrid future). Servant-leader anchor: sustain, amplify, harmonize. His hybrid must stay distinct from Serra's frontline Paladin of the Dawn — Orange enables, Serra endures. Priest/Bishop/Saint and Battle Priest/Paladin/Radiant Guardian exist as world paths, but Orange's exact hybrid name stays unassigned until his cooking-support identity earns it.
+- Lyra: Archer → Marksman → Sniper → Eagle Eye, plus Shadow capability. Dual — assassination + marksmanship. (Starpiercer archived.)
+- Orange: Healer (Support → Hybrid future, name UNKNOWN until earned). Servant-leader anchor: sustain, amplify, harmonize. His hybrid must stay distinct from Serra's frontline Paladin — Orange enables, Serra endures. Priest/Bishop/Saint and Battle Priest/Paladin/Radiant Guardian exist as world paths, but Orange's exact hybrid name stays unassigned until his cooking-support identity earns it.
 
 ## Mentors (rare hybrids, locked)
 
-- Serra Valebloom: Paladin of the Dawn, Verdant doctrine — rare frontline healer-buffer, sustained presence not burst. Mentor-only tier.
+- Serra Valebloom: Paladin (Paladin of the Dawn as mentor epithet), Verdant doctrine — rare frontline healer-buffer, sustained presence not burst. Mentor-only tier.
 - Paladin branches (locked): Aegis (defense/tank), Verdant (sustain/recovery — Serra), Judicator (burst offense), Radiant (buffs/auras).
 - Edward: Tank-Bard — leadership plus morale stabilization. Bard line (Bard → Minstrel → Maestro) applies to his bard half; his tank half follows the Knight line.
 
 ## World paths (reference, not Volume 1 power)
 
-- Physical: Fighter → Warrior → Swordmaster → Royal Knight / Sword Saint (rare). (Knight belongs to the tank line now; no duplicate.)
-- Tank: Fighter → Knight (defense type) → Guardian → Titan. (Bulwark archived.)
+- Physical: Fighter → Knight (offense) → Swordmaster → Royal Knight. (Sword Saint rare, Warrior archived.)
+- Tank: Fighter → Knight (defense) → Guardian → Titan. (Warden, Bulwark archived. Defender archived as a tier, still usable as plain word.)
 - Heavy: Fighter → Brawler → Berserker → Warlord. (Crusher, Vanguard, Warbringer archived.)
 - Speed: Scout → Hunter → Ranger → Assassin → Shadow. (Ghost, Phantom archived.)
+- Marksman: Archer → Marksman → Sniper → Eagle Eye. (Lyra dual with Shadow; Starpiercer archived.)
 - Magic: Mage → Elementalist → Archmage → Sage (rare), plus Fire/Ice/Lightning specializations. (Grand Arcanist archived.)
 - Hybrid magic: Mage → Battle Mage → Spellblade → Rune Knight (rare). (Sage Knight, Arcane Champion archived. Xavier stays a swordmage in prose; his formal class stays unregistered.)
 - Support: Healer → Priest → Bishop → Saint.
@@ -64,6 +65,6 @@ Orange note: affinity is not a pass. He has healer affinity, but every step stil
 ## Expanded world reference (late-world only, not Volume 1 power)
 
 - Element specs: Fire Mage → Pyromancer; Ice Mage → Cryomancer; Lightning Mage → Stormcaller. (Flamecaster, Frostbinder, Absolute Zero, Thunderlord, Infernal Sage archived as boss-tier titles, not classes.)
-- Healer hybrid: Healer → Battle Priest → Paladin → Radiant Guardian. Orange's exact hybrid name stays unassigned and stays distinct from Serra's Paladin of the Dawn.
+- Healer hybrid: Healer → Battle Priest → Paladin → Radiant Guardian. Orange's exact hybrid name stays UNKNOWN until earned, distinct from Serra's Paladin.
 - Tamer: Tamer → Handler → Beast Master → Beast Lord. Summoner: Summoner → Conjurer → Warlock (rare). (Primal Sovereign, Spirit Caller, Gatekeeper, World Binder archived.) SAS slimes stay bonded partners, never tamed summons.
 - Volume 1 stays base classes only. Ylila outpost registers base classes; evolved-tier exams happen at a full guild.
