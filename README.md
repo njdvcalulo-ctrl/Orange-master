@@ -6,6 +6,8 @@ A grounded medieval-fantasy light novel about Orange Oathkeeper, a young healer 
 
 Ylila identity (locked): Great Mango at the center (~300 years, still fruiting), rice in the field only, lake fish, mango juice 2 copper, Marie's adobo and kakanin from her spice plot, garden beds with kamatis bucket. Mango hymn doubles as Ylila hymn. Mango Fiestival yearly: one prep day plus one festival day. Ring streets lined with villager houses (50 families: 12 named + 38 numbered). Zero carrots — carrot volume archived in the mango era.
 
+![Ylila Village Map - Final](docs/images/ylila-map-labeled-v3.jpg)
+
 Scope: Early World, Volumes 1–2 complete in draft, Volume 3 Fields First proposed.
 
 > A place where people live properly… not perfectly.
