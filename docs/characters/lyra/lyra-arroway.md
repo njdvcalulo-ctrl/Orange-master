@@ -1,6 +1,6 @@
 # LYRA ARROWAY (FINAL, COMPLETE — INTEGRATED)
 
-![Lyra at 12, home](lyra-age12-home-v1.jpg)
+![Lyra at 12](lyra-solo-v2.jpg)
 
 Main-story age lock: 12 (birthday August 25). Flashbacks at 8–10 only.
 
@@ -607,7 +607,7 @@ Sample lines: "Three ahead. One behind." / "…Don't move."
 
 Nature Walk: moves as if terrain doesn't resist her — reduced penalties in forest, uneven ground, water edges; quieter footsteps. Hidden: natural environmental awareness, better spatial judgment. Growth: Nature Walk → Silent Step → Predator's Domain. Identity: "You don't notice her… until it's too late." Supports sniper role, scouting, future cloak synergy.
 
-![Lyra Chapter 1 solo](lyra-solo-v1.jpg)
+![Lyra Chapter 1 solo](../../images/chapters/chapter-01/lyra-row-seven.jpg)
 
 ### Chapter 2 — Party Intro
 

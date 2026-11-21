@@ -1,6 +1,6 @@
 # Leonard Leo Shieldsmith — Tank / Frontline Anchor
 
-![Leo at 13, home](leo-age13-home-v1.jpg)
+![Leo at 13](leo-solo-v3.jpg)
 
 Main-story age lock: 13 (birthday November 7). Flashbacks at 8–10 only.
 

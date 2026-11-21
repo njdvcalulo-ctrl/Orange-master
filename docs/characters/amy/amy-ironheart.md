@@ -3,7 +3,7 @@
 **Role:** Damage Dealer / Close-Range Aggressor / Flow Combat Specialist
 **Archetype:** The Sword Dancer
 
-![Amy at 12, home](amy-age12-home-v1.jpg)
+![Amy at 12](amy-solo-v3.jpg)
 
 Main-story age lock: 12 (birthday October 8). Flashbacks at 8–10 only.
 

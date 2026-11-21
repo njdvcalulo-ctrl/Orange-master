@@ -1,6 +1,6 @@
 # Serra Valebloom — Paladin of the Dawn
 
-![Serra full body](serra-solo-v1.jpg)
+![Serra full body](serra-solo-v2.jpg)
 
 Role: Mentor / Combat Instructor / Decision Enforcer. Archetype: Unorthodox Master.
 
@@ -66,6 +66,6 @@ On the name (locked): called Wild Healer not for temperament — she is composed
 
 ### Chapter 1
 
-![Serra Chapter 1 solo](serra-solo-v1.jpg)
+![Serra Chapter 1 solo](serra-solo-v2.jpg)
 
 ![Serra Chapter 1 group](group-cast-v1.jpg)

@@ -1,6 +1,6 @@
 # Crow — Slime Partner of Lyra (Locked)
 
-![Crow full body](crow-solo-v1.jpg)
+![Crow full body](crow-solo-v2.jpg)
 
 Partner of [Lyra Arroway](../lyra-arroway.md). Silent, observant, perception-focused. Color: black (locked).
 
@@ -97,4 +97,4 @@ Crow's dark coloring blends with surroundings like free stealth from SAS — col
 
 ### Chapter 1
 
-![Crow Chapter 1 solo](crow-solo-v1.jpg)
+![Crow Chapter 1 solo](crow-solo-v2.jpg)

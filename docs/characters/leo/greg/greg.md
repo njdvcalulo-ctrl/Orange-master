@@ -1,6 +1,6 @@
 # Greg — Slime Partner of Leo (Locked)
 
-![Greg full body](greg-solo-v1.jpg)
+![Greg full body](greg-solo-v2.jpg)
 
 Partner of [Leonard Leo Shieldsmith](../leo-shieldsmith.md). Protective, adaptive, synergizes with armor. Color: green (locked).
 
@@ -71,4 +71,4 @@ Early on, the small green slime grows bigger mid-fight, then eats Leo — not hu
 
 ### Chapter 1
 
-![Greg Chapter 1 solo](greg-solo-v1.jpg)
+![Greg Chapter 1 solo](greg-solo-v2.jpg)

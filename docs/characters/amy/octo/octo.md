@@ -1,6 +1,6 @@
 # Octo — Slime Partner of Amy (FINAL LOCK)
 
-![Octo full body](octo-solo-v1.jpg)
+![Octo full body](octo-solo-v2.jpg)
 
 Partner of [Amethyst "Amy" Ironheart](../amy-ironheart.md). Expressive, adaptive, responds to Amy's intent. Color: purple (locked).
 
@@ -63,6 +63,6 @@ Cute Octo shyly hides in Amy's sling bag. In combat it climbs onto her back and 
 
 ### Chapter 1
 
-![Octo Chapter 1 solo](octo-solo-v1.jpg)
+![Octo Chapter 1 solo](octo-solo-v2.jpg)
 
 ![Octo Chapter 1 group](group-cast-v1.jpg)

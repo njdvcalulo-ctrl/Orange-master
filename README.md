@@ -28,12 +28,12 @@ Main story is ages 12–13. Ages 8–10 appear in flashbacks only.
 - [Lyra Arroway, 12, Aug 25](docs/characters/lyra/lyra-arroway.md) — ghost archer (archer / scout / assassin, named from lyre; father plays lyre), kit 1 Heavy Draw / 2 Focus / 3 Multi Shot (Lv1 Double Strafe) / Ult Concentrate, with [Crow](docs/characters/lyra/crow/crow.md)
 - [Serra Valebloom](docs/characters/serra/serra.md) — mentor (Paladin of the Dawn, called the Wild Healer for role-breaking), arrived Chapter 4 with Xavier Arclight (swordmage, 35, offensive carry) and Ellinore Nightveil “Eli” (dark-elf archer, Lyra’s same-path mentor). Details live in [Mentors of Ylila (hub)](docs/characters/mentors/mentors.md). Xavier: Ember Eyes gated heat-sense, Caldora posting, slow-burn with Eli not official, gated hammer-drop, calm calculator. Eli, 152 looks 27: ice assassin, Frozen Arrow gated 10 heads, amulet stealth, Hezek quest, sheath on belt back.
 
-Solo home portraits:
+Solo portraits:
 
-![Orange at home](docs/images/orange-age12-home-v3.jpg)
-![Leo at home](docs/images/leo-age13-home-v1.jpg)
-![Amy at home](docs/images/amy-age12-home-v1.jpg)
-![Lyra at home](docs/images/lyra-age12-home-v1.jpg)
+![Orange](docs/images/orange-age12-home-v3.jpg)
+![Leo](docs/images/leo-solo-v3.jpg)
+![Amy](docs/images/amy-solo-v3.jpg)
+![Lyra](docs/images/lyra-solo-v2.jpg)
 ![Oathkeeper family](docs/images/oathkeeper-family-v1.jpg)
 
 Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, except Octo Stage 3. Team colors stay fixed: Nochi orange, Greg green, Octo purple, Crow black. Tendencies are SAS-driven comfort and movement, never attack spells; black is shadow only, no dark magic. Kingship is rare tier, any color; Ylila's Slime King, Pemparots (called Pempos), happens to be blue after restoration. Sacred tree in Ylila is a mango.
@@ -79,9 +79,10 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Council: Chief Edward Hearthsong + Elder Ruel + one head per working family; succession by deed, not blood.
 - Portrait rule: solo pics on plain backdrop, no backgrounds. Season calendar, rites, surplus runs, and past threats locked in Village System and Events.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
-- [Manuscript (canon text only, Ch1 in canon pass)](docs/manuscript/README.md)
+- [Manuscript (canon text: Ch1 rewritten as Row Seven, Ch2 drafted)](docs/manuscript/README.md)
 - [Project Dashboard](dashboard.html) (open in browser, no server needed)
 - [Image Compare v2 — old vs new](image-compare-v2.html) (open in browser; verdicts tracked in [todo/image-corrections.md](todo/image-corrections.md))
+- Helper skills (this workspace): /report (progress + 20 tasks + decisions + revenue), /chapterprep (next-chapter outline with options), /chapterpass (character art + chapter cover), lila (refresh this README), kahel (review and commit changes)
 
 ## Locked Core Rules
 

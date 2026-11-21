@@ -9,9 +9,9 @@ Timeline rule (LOCKED): main story kids are 12–13 (Orange 12–13, Leo 13, Amy
 
 Introduce world systems, build characters, establish Ylila identity, first conflict with Ember, unlock Slime System (SAS). End with preparation, not victory.
 
-## Chapter 1 Opening (Locked: B)
+## Chapter 1 Opening (Locked: B, amended — farm first)
 
-Dream first, then farm life. Opens on a mysterious symbolic dream (burning field restored, "What you refuse to tend will be lost"), then wakes to meaningful farm life: Orange playful and restless, subtly dissatisfied with simple life, first hints of healing instinct and dream connection. No exposition, no systems lecture.
+Farm first, dream closes. Opens mid-work in the Oathkeeper field at dawn: Orange playful and restless, subtly dissatisfied with simple life, first hints of healing instinct. Closes with the first dream at night — mysterious symbolic dream (burning field restored, "What you refuse to tend will be lost") — then Orange awake in the dark with the words still there. No exposition, no systems lecture.
 
 ## Final Arc
 

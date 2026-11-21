@@ -1,6 +1,6 @@
 # Nochi — Slime Partner of Orange (Locked)
 
-![Nochi solo](nochi-solo-v1.jpg)
+![Nochi solo](nochi-solo-v2.jpg)
 
 Nature: food-driven, loyal, supportive. Color: orange (locked). Plushie-ready mascot. Partner of [Orange Oathkeeper](../orange-oathkeeper.md).
 
@@ -65,6 +65,6 @@ Slimes become what they are exposed to. Nochi reflects nurtured area → coopera
 
 ### Chapter 1
 
-![Nochi Chapter 1 solo](nochi-solo-v1.jpg)
+![Nochi Chapter 1 solo](nochi-solo-v2.jpg)
 
 ![Nochi Chapter 1 with Orange](orange-age8-orange-nochi-v2.jpg)

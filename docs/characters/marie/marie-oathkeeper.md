@@ -1,6 +1,6 @@
 # Marie Oathkeeper — Mother / Emotional Anchor
 
-![Marie full body](marie-solo-v1.jpg)
+![Marie full body](marie-solo-v2.jpg)
 
 Archetype: The Intentional Nurturer.
 
@@ -91,6 +91,6 @@ Sample lines: "You've done enough for today." / "Do your best— but don't forge
 
 ### Chapter 1
 
-![Marie Chapter 1 solo](marie-solo-v1.jpg)
+![Marie Chapter 1 solo](../../images/chapters/chapter-01/marie-row-seven.jpg)
 
 ![Marie Chapter 1 group](group-cast-v1.jpg)

@@ -1,6 +1,6 @@
 # John Oathkeeper — Father / Village Pillar
 
-![John full body](john-solo-v1.jpg)
+![John full body](john-solo-v2.jpg)
 
 Archetype: The Reflective Builder.
 
@@ -77,6 +77,6 @@ Sample lines: "Listen first— so you can do it right the first time." / "True s
 
 ### Chapter 1
 
-![John Chapter 1 solo](john-solo-v1.jpg)
+![John Chapter 1 solo](../../images/chapters/chapter-01/john-row-seven.jpg)
 
 ![John Chapter 1 group](group-cast-v1.jpg)
