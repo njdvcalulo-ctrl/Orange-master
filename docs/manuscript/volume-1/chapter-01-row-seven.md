@@ -2,13 +2,13 @@
 
 The hoe came down. The soil gave way. The shock ran up Orange's arms like a bell rung too hard.
 
-"Six," Orange panted. "Row six before breakfast."
+"Six," Orange panted. "Six rows done this week."
 
-He spat on his palms, rubbed them together, and swung again. The Oathkeeper home plot stretched ahead of him in straight dark rows, each no longer than twenty paces, wet from last night's rain. Behind him, the Great Mango tree stood over Ylila's sleeping houses, its leaves rustling like it was laughing at him.
+He spat on his palms, rubbed them together, and swung again. The Oathkeeper home plot stretched ahead of him in long straight rows, each one running the full length of the field, wet from last night's rain. One full row was a day's work for a boy his age. Six stood finished behind him — six days, six rows. Behind him, the Great Mango tree stood over Ylila's sleeping houses, its leaves rustling like it was laughing at him.
 
 "Almost," Orange told the field. "Watch me."
 
-The blade bit. Row six fell in behind him. He straightened up, grinning, and looked at his hands.
+The blade bit and tidied the tail end of row six. He straightened up, grinning down the long empty stretch of row seven waiting ahead, and looked at his hands.
 
 Two bright blisters stood on his palms. Honest farm blisters. Every farm kid earned them.
 
@@ -66,35 +66,35 @@ She sighed, but she was smiling. "Breakfast is ready. Wash your hands. And feet.
 
 ---
 
-Breakfast was loud.
+Breakfast was warm.
 
-Marie's carrot soup steamed up to the roof beams, sweet and golden. Orange closed his eyes for half a breath before picking up his spoon.
+Steamed rice, lake fish, and hot soup steamed up to the roof beams. Mango juice waited by each bowl. Orange closed his eyes for half a breath before picking up his spoon.
 
-*Thank you for this morning. For the field. For Mom's soup.*
+*Thank you for this morning. For the field. For Mom's food.*
 
 Short. Sincere. Not for show. Then he dug in.
 
-John Oathkeeper ate standing up, already half out the door with his own hoe over his shoulder. He ruffled Orange's hair hard enough to sting.
+John Oathkeeper sat with them, his hoe resting by the door — not on his shoulder. He ate fast, the way he always did, quick and sure, but he stayed at the table. Work could wait. Family first.
 
-"Farm first," John said. "Chatter later."
+Marie brushed the dirt from Orange's cheek first, then rested her hand lightly on his sleeve.
 
-"He dreams while hoeing now," Marie said fondly, setting down his bowl. "My boy, dreaming with his mouth full."
+"You looked deep in thought out in your rows, son," Marie said gently. "Anything bothering you?"
 
-"Hey!" Orange protested through a mouthful of carrot. "Big dreams, Mom. They need feeding too."
+Orange glanced down at his bowl. "Just... the field felt bigger today. Like it wasn't the edge anymore. Like it was the start of something."
 
-John laughed — a short, warm bark. "Six rows?"
+John paused, looked toward the field through the doorway, breathed, then spoke.
 
-"Six," Orange said, puffing up. "Before breakfast."
+"Six full rows in six days," John said. "That is grown work for twelve. Row seven today finishes the week — more than you carried last season, and more than most boys your age are asked to hold."
 
-"Six and a half," Marie corrected, setting down mango juice. "I counted. And you chased a rabbit instead of finishing row seven."
+Orange sat a little straighter. "Really?"
 
-Orange stared at her. "How did you — were you watching the whole time?"
+"Really," John said, and ruffled his hair gently. "I am proud of you. Eat well, do your best out there, then rest. Next time, we do it even better."
 
-"I'm your mother," Marie said, like that explained everything. "I see the rows. I see the rabbit. I see the blisters you're hiding. You push like you think the pain will leave on its own."
+Marie smiled, soft and knowing. "I saw the rows. I saw the rabbit too. And the blisters you're hiding. You push like you think the pain will leave on its own."
 
-Orange looked down at his bowl. "...The rabbit started it."
+Orange looked down. "...The rabbit started it."
 
-"Finish your soup," Marie said, "and then you can go declare war on the rest of the field."
+"Eat first," Marie said. "Then row seven. This is home, love — you are safe here."
 
 ---
 
@@ -128,9 +128,9 @@ The sun climbed high and the soil dried and hardened, and row seven fought him f
 
 "Come on," he muttered at the hoe. "You and me. We finish."
 
-He finished. Seven full rows, straight as combed hair, standing over them with dirt on his face and his chest heaving and that small warmth moving quietly under his tiredness, loosening what was tight.
+He finished. Seven full rows for the week, straight as combed hair, standing over them with dirt on his face and his chest heaving and that small warmth moving quietly under his tiredness, loosening what was tight.
 
-"Eight tomorrow," Orange announced to the rows. "Then the race. Then we'll see."
+"Done," Orange announced to the rows, grinning tiredly. "Seven for the week. Tomorrow, the race. Then we'll see."
 
 The mango leaves rustled. It sounded like applause, if you were the kind of boy who heard such things.
 
@@ -138,7 +138,7 @@ Orange was exactly that kind of boy.
 
 ---
 
-Supper was quiet. Soup again, bread, mango juice. Orange ate with both hands around the bowl and told his parents about row seven, which he had finished, and row eight, which he had started and would absolutely finish tomorrow.
+Supper was quiet. Soup again, bread, mango juice. Orange ate with both hands around the bowl, safe between them, and told his parents about row seven — finished, the week done — and the race tomorrow, which he would absolutely win.
 
 "Sleep," Marie said, ruffling his hair the gentle way. "The field will still be there."
 
@@ -180,7 +180,7 @@ Orange pressed a hand to his chest. Warm. Faint, like embers under ash. Then gon
 
 "Okay," he whispered to the dark. "Okay."
 
-Tomorrow: row eight. Then the race to the stone.
+Tomorrow: rest, then the race to the stone.
 
 He lay back down and stared at the roof beams, turning the words over like a smooth stone from the river. What you refuse to tend will be lost. His rows. His friends. The whole small village breathing around him in the dark.
 

@@ -79,7 +79,7 @@ Slimes are iconic blobs. Semi-limb stretch is allowed. They are never humanoid, 
 - Council: Chief Edward Hearthsong + Elder Ruel + one head per working family; succession by deed, not blood.
 - Portrait rule: solo pics on plain backdrop, no backgrounds. Season calendar, rites, surplus runs, and past threats locked in Village System and Events.
 - [Story Drafts (non-canon holding folder)](docs/story-draft/README.md)
-- [Manuscript (canon text: Ch1 rewritten as Row Seven, Ch2 drafted)](docs/manuscript/README.md)
+- [Manuscript (canon text: Ch1 Row Seven family-first revision, Ch2 drafted)](docs/manuscript/README.md)
 - [Project Dashboard](dashboard.html) (open in browser, no server needed)
 - [Image Compare v2 — old vs new](image-compare-v2.html) (open in browser; verdicts tracked in [todo/image-corrections.md](todo/image-corrections.md))
 - Helper skills (this workspace): /report (progress + 20 tasks + decisions + revenue), /chapterprep (next-chapter outline with options), /chapterpass (character art + chapter cover), lila (refresh this README), kahel (review and commit changes)
