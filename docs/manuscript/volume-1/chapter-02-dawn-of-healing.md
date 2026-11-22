@@ -6,7 +6,7 @@ His shoulders pulled when he reached for his shirt. His palms showed thin new sk
 
 *Seven for the week,* he thought. *Today we rest.*
 
-He carried water to Marie's beds first. A horned rabbit watched from the grass and decided not to run.
+He carried water to Marie's garden beds first. A horned rabbit watched from the grass and decided not to run.
 
 "Smart," Orange told it. "Yesterday you paid rent. Today you rest too."
 
@@ -40,13 +40,13 @@ But the game had changed. The field had ended. The grass past the stone stood ta
 
 Amy slowed. Leo slowed. Lyra stopped dead.
 
-"Back," Lyra said softly. "This is border."
+"Back," Lyra said softly. "This is the border."
 
 Before them, in a hollow between roots, something round shone in the morning light.
 
 A slime.
 
-It was small, no bigger than a water bucket, blue-green and trembling. Pure sphere. No arms. No face. Just wet shine holding its shape. It wobbled once where it sat, guarding its spot.
+It was small, no bigger than a water bucket, green and trembling. Pure sphere. No arms. No face. Just wet shine holding its shape. It wobbled once where it sat, guarding its spot.
 
 "Whoa," Leo breathed. "Real one."
 
@@ -72,7 +72,9 @@ At the marker stone they stopped. Safe ground. Familiar dirt.
 
 Amy cried now, loud and honest. Leo held his arm tight to his chest, jaw clenched, trying not to cry.
 
-"I was protecting my face," Leo muttered. "I am fine. Check Amy."
+Orange looked at Leo's arm first. "Leo?"
+
+"I was protecting my face," Leo muttered, turning half away. "I am fine. Check Amy."
 
 "You are not fine," Lyra said. "Sit. Both."
 
@@ -80,15 +82,19 @@ Orange knelt beside Amy. His hands shook.
 
 Amy could not stand right. Her leg trembled when she tried. Leo's burn throbbed under his fingers.
 
-Orange had hoed seven rows. He had carried water. He had felt that small warmth loosen his blisters that morning.
+Orange had hoed all week. Seven rows, finished yesterday. He had carried water this morning. He had felt that small warmth loosen his blisters yesterday.
 
-This was different. This was not his own tired muscle. This was his friends hurting in front of him.
+This was different. This was not his own tired muscle. This was his friends hurting in front of him, scared of the sting and the scolding waiting at home.
 
-*What happens if I fail here?* The question rose before he could stop it.
+They had to rest. Then they had to go home. Nobody out here knew who could help.
+
+The warmth heals me, Orange thought. Will it help others too? I should try.
 
 Amy grabbed his sleeve. "Orange. It hurts."
 
-Orange put his hands just above her burn. He did not touch it. He was afraid to make it worse.
+"Can I look?" Orange asked. "Just — hold still."
+
+He put his hands just above her burn. He did not touch it. He was afraid to make it worse.
 
 He closed his eyes for half a breath.
 
@@ -106,9 +112,7 @@ Orange stared at his own hands. He had never done that before. Not to blisters. 
 
 "I don't know," he whispered. "I just didn't want you hurting."
 
-Leo stared too, then looked away, jaw tight. He held his burned arm close, like he was not sure he wanted those strange hands near it. Then he breathed out and held it forward a little.
-
-"...Can you — try?" Leo asked quietly. "Please?"
+Leo's eyes went round. "Whoa. That is so cool. Do me too!"
 
 Orange swallowed, sweating now. He moved to Leo, afraid to make it worse. Same half-breath. Same quiet ask. Same warmth, thinner this time, slower. Leo breathed out hard through his nose.
 
@@ -140,11 +144,13 @@ Then everyone talked at once.
 
 "Show me. Let me see."
 
-The burns were cleaned with cool lake water at the well. No blood. No torn skin. Clean red patches, already easing. Marie's hands were steady but her eyes were wet.
+"Yes — past the stone," Amy said quickly. "Sorry. We saw a slime and it spit on us. Look!"
 
-Amy wiped her face and talked fast, the way she does when she is scared and excited at once. "Orange put his hands over it — he didn't even touch — and it went warm and it stopped hurting so much!"
+She held out her shin. Leo held out his arm. Clean red patches, already easing. Worse before, they said.
 
-Leo nodded, holding his arm. "Mine too. I saw it."
+"It was bigger earlier," Leo said. "But Orange — he did something. Like a heal, from the stories. His hands went warm."
+
+The burns were cleaned with cool lake water at the well. No blood. No torn skin. Marie's hands were steady but her eyes were wet.
 
 The adults around the well exchanged looks. That was new. That would be talked about.
 
@@ -152,23 +158,21 @@ The adults around the well exchanged looks. That was new. That would be talked a
 
 John knelt to Orange's height. He looked at the burns. He looked at Orange's pale face.
 
-"You helped them walk back," John said. It was not a question.
+"Thank you for doing what you could," John said. "Tell me about it at home, okay?"
 
 "I just—" Orange started. "It was warm and I—"
 
-John ruffled his hair gently. "We talk at home."
+John ruffled his hair gently. "At home."
 
-The village chief arrived last. Chief Edward, big and slow, broad shoulders under a chief's coat, beard neat, voice warm and strong. He looked at the burns. He looked at the marker stone far behind them. He looked at Orange.
+The village chief arrived last. Chief Edward, big and slow, broad shoulders under a chief's coat, beard neat, voice warm and strong. He looked at the burns. He looked at the marker stone far behind them. Then he turned to the field watchers, calm and plain.
 
 "Rest," Edward told the kids. "Eat. Then sleep. Questions can wait until the sting is gone."
+
+"No panic," Edward said to the watchers. "Two of you to the hollow. Stay sharp. Report anything strange, then back."
 
 Behind him, two field watchers were already walking toward the border with spears, not to kill, just to check the hollow and make sure the slime had stayed in its spot.
 
 It had.
-
-Orange watched the chief pull out a small paper pad by the well and write something down with a stub of pencil, frowning soft. Then Edward tucked it away and clapped one watcher on the shoulder.
-
-"Stay sharp," Edward said, "but not sharp-tongued. Check, then back."
 
 Supper at the Oathkeeper house was quiet.
 
@@ -182,7 +186,7 @@ Amy had gone home to broth, a scolding, and a hug. Leo was with his parents, pre
 
 Orange frowned. "I did not fix it all the way."
 
-"No," John said. "You helped them get home. That is the first job."
+"No," John said. "You did what you could. That is the first job."
 
 Orange closed his eyes for half a breath before his second bowl.
 
