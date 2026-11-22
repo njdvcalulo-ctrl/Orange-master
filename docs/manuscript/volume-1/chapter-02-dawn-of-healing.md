@@ -1,24 +1,32 @@
 # Chapter 2: Dawn of Healing
 
-The race started because Amy said she was fastest.
+Morning after row seven, Orange woke sore in a good way.
+
+His shoulders pulled when he reached for his shirt. His palms showed thin new skin where the blisters had been. He pressed one thumb across them and felt only a dull tightness, already loosening.
+
+*Seven for the week,* he thought. *Today we rest.*
+
+He carried water to Marie's beds first. The kamatis leaves were wet and bright. A horned rabbit watched him from the grass with a leaf in its mouth and decided not to run.
+
+"Smart," Orange told it. "Yesterday you paid rent. Today you rest too."
+
+He left his hoe by the gate. Work could wait. Today was the race.
+
+Amy found him before he found her.
 
 "I am fastest," Amy announced, hands on hips, by the west route. "Yesterday's frog was big. Today I am bigger fast."
 
 "You were not fast yesterday," Leo said. He carried a basket of barn feed like it weighed nothing. It weighed a lot. "You screamed at a frog."
 
-"It was a BIG frog," Amy said. "And today I race Orange and Lyra and you. Loser carries Nochi's snacks."
+"It was a BIG frog," Amy said. "And today I race Orange and Lyra and you. Loser carries water."
 
-Orange shifted his hoe to his shoulder. He had finished row seven. Row eight was waiting. But the sun was good and his friends were here.
-
-"Short race," Orange said. "Field edge to the old marker stone. No past the border."
+Orange grinned. "Short race. Field edge to the old marker stone. We stop at the stone."
 
 Lyra nodded from the shade, bow over her shoulder. She had been watching the forest edge all morning. Quiet, as always.
 
 "To the stone," Lyra agreed. "Not past."
 
 They ran.
-
----
 
 Orange loved running almost as much as hoeing. Feet slapping dirt. Breath burning clean. Amy ahead, laughing. Leo thundering behind, basket banging. Lyra light and silent between them.
 
@@ -28,17 +36,17 @@ She reached the marker stone first. She slapped it. Then she kept running.
 
 "Amy!" Orange called. "Stone! Stop at stone!"
 
-But the game had changed. The field had ended. The grass past the stone was taller, wilder, uncut. The air smelled damp and green. Forest edge.
+But the game had changed. The field had ended. The grass past the stone stood taller, wilder, uncut. The air smelled damp and green. Forest edge.
 
 Amy slowed. Leo slowed. Lyra stopped dead.
 
 "Back," Lyra said softly. "This is border."
 
-Before them, in a hollow between roots, something wobbled.
+Before them, in a hollow between roots, something round shone in the morning light.
 
 A slime.
 
-It was small, no bigger than a water bucket, round and blue-green in the morning light. It sat in its spot like a guard on duty. Pure sphere, no arms, no face. Just trembling shine.
+It was small, no bigger than a water bucket, blue-green and trembling. Pure sphere. No arms. No face. Just wet shine holding its shape. It wobbled once where it sat, guarding its spot.
 
 "Whoa," Leo breathed. "Real one."
 
@@ -46,13 +54,11 @@ It was small, no bigger than a water bucket, round and blue-green in the morning
 
 The slime pulsed.
 
-It spat.
-
-Not far. Not fast. But enough. A splash of clear acid caught Leo's forearm as he threw it up over his face. Another drop kissed Amy's shin.
+It spat. Not far. Not fast. A splash of clear wet caught Leo's forearm as he threw it up over his face. Another drop kissed Amy's shin.
 
 Amy screamed. Leo grunted and stumbled back.
 
-"It burns!" Amy cried, dropping to the dirt. Her leg showed an angry red patch, like a bad sunburn. Leo's arm was the same — red, stinging, skin tight.
+"It burns!" Amy cried, dropping to the dirt. Her leg showed an angry red patch, like a bad sunburn. Leo's arm matched it, red and tight and stinging.
 
 Lyra was already moving. She grabbed Amy's arm. Orange grabbed Leo's belt.
 
@@ -60,11 +66,11 @@ Lyra was already moving. She grabbed Amy's arm. Orange grabbed Leo's belt.
 
 They ran.
 
-The good thing — the only good thing — was the slime did not chase. It wobbled back to its hollow, rippling, and settled. Guarding its spot. Not hunting. Just defending.
+The good thing, the only good thing, was the slime did not chase. It wobbled back into its hollow, rippling, and settled. Guarding its spot. Not hunting. Just defending.
 
 At the marker stone they stopped. Safe ground. Familiar dirt.
 
-Amy was crying now, loud and honest. Leo held his arm tight to his chest, jaw clenched, trying not to cry.
+Amy cried now, loud and honest. Leo held his arm tight to his chest, jaw clenched, trying not to cry.
 
 "I was protecting my face," Leo muttered. "I am fine. Check Amy."
 
@@ -86,13 +92,13 @@ Orange put his hands just above her burn. He did not touch it. He was afraid to 
 
 He closed his eyes for half a breath.
 
-*Thank you for this morning. Please — help me help them. I do not know how. Use me if You can.*
+*Thank you for this morning. Please, help me help them. I do not know how. Use me if You can.*
 
 The warmth under his skin answered.
 
 Not hot. Warm. Like soup steam on a cold face. It moved down his arms to his palms. His hands tingled.
 
-Amy gasped. The red on her shin softened at the edges. The tight shine eased. Not gone. Not perfect. But better — enough that she stopped crying and stared.
+Amy gasped. The red on her shin softened at the edges. The tight shine eased. Not gone. Not perfect. But better, enough that she stopped crying and stared.
 
 "Warm," she whispered. "Orange, your hands are warm."
 
@@ -114,8 +120,6 @@ Orange nodded, too tired to explain.
 
 Lyra squeezed his shoulder once. "Good. Then we walk back together."
 
----
-
 The walk back was slow. Amy limped, leaning on Lyra. Leo carried his empty basket one-handed. Orange carried Amy's stick and Leo's pride and his own shaking legs.
 
 Ylila saw them coming.
@@ -125,7 +129,9 @@ Marie was first, basket dropping from her hip. Amy's father shouted from the lak
 Then everyone talked at once.
 
 "Where were you!"
+
 "Past the stone? Past the marker?"
+
 "Show me. Let me see."
 
 The burns were cleaned with cool lake water at the well. No blood. No torn skin. Clean red patches, already easing. Marie's hands were steady but her eyes were wet.
@@ -136,23 +142,25 @@ John knelt to Orange's height. He looked at the burns. He looked at Orange's pal
 
 "You helped them walk back," John said. It was not a question.
 
-"I just —" Orange started. "It was warm and I —"
+"I just—" Orange started. "It was warm and I—"
 
-John ruffled his hair, hard and warm. "We talk at home."
+John ruffled his hair gently. "We talk at home."
 
-Chief Edward arrived last. Big, slow, former-tank shoulders under a chief's coat. He looked at the burns. He looked at the marker stone far behind them. He looked at Orange.
+The village chief arrived last. Chief Edward, big and slow, broad shoulders under a chief's coat, beard neat, voice warm and strong. He looked at the burns. He looked at the marker stone far behind them. He looked at Orange.
 
 "Rest," Edward told the kids. "Eat. Then sleep. Questions can wait until the sting is gone."
 
-Behind him, two field watchers were already walking toward the border with spears — not to kill, just to check the hollow and make sure the slime had stayed in its spot.
+Behind him, two field watchers were already walking toward the border with spears, not to kill, just to check the hollow and make sure the slime had stayed in its spot.
 
 It had.
 
----
+Orange watched the chief pull out a small paper pad by the well and write something down with a stub of pencil, frowning soft. Then Edward tucked it away and clapped one watcher on the shoulder.
+
+"Stay sharp," Edward said, "but not sharp-tongued. Check, then back."
 
 Supper at the Oathkeeper house was quiet.
 
-Marie set down carrot soup and mango juice and did not tell anyone to laugh. Orange ate with both hands around the bowl, letting the steam warm his face. His arms still felt heavy. His palms still tingled.
+Steamed rice, lake fish, hot soup, mango juice. Marie set the bowls down and did not tell anyone to laugh. Orange ate with both hands around the bowl, letting the steam warm his face. His arms still felt heavy. His palms still tingled.
 
 Amy's family had taken Amy home with broth and a scolding and a hug all at once. Leo was with his parents, arm wrapped, pretending he did not need to rest. Lyra had slipped home silent, bow still over her shoulder.
 
@@ -168,18 +176,6 @@ Orange closed his eyes for half a breath before his second bowl.
 
 *Thank you that we got back. Thank you for the warmth. Teach me how to use it right.*
 
-That night Edward sat long in the chief house office, turning a worn letter-seal over in his hands.
+That night Orange dreamed of a green sprout, no taller than his thumb, leaning toward him.
 
-A gifted boy. A quiet warmth that eased burns. A border that would not stay quiet forever.
-
-He thought of an old friend from his adventuring days. Loud laugh. Mid-line fighter. Healer who gave orders like a captain. A woman who had once been a farmer too.
-
-Serra.
-
-Edward pulled out clean paper.
-
-*The kid needs a mentor,* he thought. *And I know just the stubborn one.*
-
-Outside, the Great Mango rustled over sleeping Ylila. The lake lapped the dock. The fields breathed.
-
-Orange dreamed of nothing burning. Just a green sprout, leaning toward him, and water where the fire had been.
+Nothing burned. No words. Just the sprout, and dark soft soil holding it up.
