@@ -6,7 +6,7 @@ His shoulders pulled when he reached for his shirt. His palms showed thin new sk
 
 *Seven for the week,* he thought. *Today we rest.*
 
-He carried water to Marie's beds first. The kamatis leaves were wet and bright. A horned rabbit watched him from the grass with a leaf in its mouth and decided not to run.
+He carried water to Marie's beds first. A horned rabbit watched from the grass and decided not to run.
 
 "Smart," Orange told it. "Yesterday you paid rent. Today you rest too."
 
@@ -100,13 +100,19 @@ Not hot. Warm. Like soup steam on a cold face. It moved down his arms to his pal
 
 Amy gasped. The red on her shin softened at the edges. The tight shine eased. Not gone. Not perfect. But better, enough that she stopped crying and stared.
 
-"Warm," she whispered. "Orange, your hands are warm."
+"Warm," she whispered, staring. "Orange — your hands are warm. How—"
 
-Leo leaned forward. "Me next?"
+Orange stared at his own hands. He had never done that before. Not to blisters. Not to anyone. His fingers trembled.
 
-Orange nodded, sweating now. He moved to Leo. Same half-breath. Same quiet ask. Same warmth, thinner this time, slower. Leo breathed out hard through his nose.
+"I don't know," he whispered. "I just didn't want you hurting."
 
-"Still stings," Leo said honestly. "But I can move it."
+Leo stared too, then looked away, jaw tight. He held his burned arm close, like he was not sure he wanted those strange hands near it. Then he breathed out and held it forward a little.
+
+"...Can you — try?" Leo asked quietly. "Please?"
+
+Orange swallowed, sweating now. He moved to Leo, afraid to make it worse. Same half-breath. Same quiet ask. Same warmth, thinner this time, slower. Leo breathed out hard through his nose.
+
+"Still stings," Leo said honestly, eyes wide. "But I can move it. You did that?"
 
 Orange sat back in the dirt. His arms felt heavy, like after ten rows instead of seven. His chest rose fast. The warmth hid again, tired.
 
@@ -114,13 +120,13 @@ He had not fixed them. He had helped them keep going.
 
 Lyra watched his face, not his hands.
 
-"You asked someone," she said quietly. It was not a question.
+"You asked someone," she said quietly. "I never saw that before."
 
 Orange nodded, too tired to explain.
 
-Lyra squeezed his shoulder once. "Good. Then we walk back together."
+Lyra squeezed his shoulder once. "Good. Then we walk back together. Thank you for sharing it. It mattered."
 
-The walk back was slow. Amy limped, leaning on Lyra. Leo carried his empty basket one-handed. Orange carried Amy's stick and Leo's pride and his own shaking legs.
+The walk back was slow. Amy leaned on Lyra. Leo carried his basket one-handed. Orange carried Amy's stick and his own shaking legs.
 
 Ylila saw them coming.
 
@@ -135,6 +141,12 @@ Then everyone talked at once.
 "Show me. Let me see."
 
 The burns were cleaned with cool lake water at the well. No blood. No torn skin. Clean red patches, already easing. Marie's hands were steady but her eyes were wet.
+
+Amy wiped her face and talked fast, the way she does when she is scared and excited at once. "Orange put his hands over it — he didn't even touch — and it went warm and it stopped hurting so much!"
+
+Leo nodded, holding his arm. "Mine too. I saw it."
+
+The adults around the well exchanged looks. That was new. That would be talked about.
 
 "You could have been worse hurt," she said to all four, which meant mostly to Orange.
 
@@ -162,7 +174,7 @@ Supper at the Oathkeeper house was quiet.
 
 Steamed rice, lake fish, hot soup, mango juice. Marie set the bowls down and did not tell anyone to laugh. Orange ate with both hands around the bowl, letting the steam warm his face. His arms still felt heavy. His palms still tingled.
 
-Amy's family had taken Amy home with broth and a scolding and a hug all at once. Leo was with his parents, arm wrapped, pretending he did not need to rest. Lyra had slipped home silent, bow still over her shoulder.
+Amy had gone home to broth, a scolding, and a hug. Leo was with his parents, pretending he did not need rest. Lyra had slipped home silent.
 
 "Does it still hurt them?" Orange asked into his soup.
 
